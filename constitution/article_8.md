@@ -56,7 +56,7 @@ A jurisdiction that ratifies after this Constitution takes effect, but within th
 
 From the day this Constitution takes effect until the first President and the first Congress take office, the Founding Convention shall act as the interim national government.
 
-The interim government is bound by this Constitution, including Articles I, II, and III.
+The interim government is bound by this Constitution, including Articles I, II, III, and X.
 
 The interim government shall exercise only the powers necessary to:
 

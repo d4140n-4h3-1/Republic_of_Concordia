@@ -205,7 +205,7 @@ During an emergency, the President may exercise only emergency powers that Congr
 
 No emergency declaration shall:
 
-1. suspend or narrow a right established by Article I, II, or III beyond what I.4.c would permit without an emergency;
+1. suspend or narrow a right established by Article I, II, III, or X beyond what I.4.c would permit without an emergency;
 2. postpone, cancel, or alter an election, or extend any term of office (III.10.e);
 3. adjourn, dissolve, or obstruct Congress or any court;
 4. authorize spending without an appropriation (IV.10.a); or

@@ -94,7 +94,7 @@ A federal law within the powers granted by this Constitution prevails over a con
 
 Every state and territory shall have an elected legislature and an elected executive.
 
-Articles I, II, and III bind every state and territory and every level of government within them (I.4.b).
+Articles I, II, III, and X bind every state and territory and every level of government within them (I.4.b).
 
 Congress shall not govern a territory except through, or in addition to, its elected territorial government.
 

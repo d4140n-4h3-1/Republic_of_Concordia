@@ -1,6 +1,6 @@
 # ARTICLE IX — AMENDMENT OF THIS CONSTITUTION
 
-> **Draft note:** This is the last Article.
+> **Draft note:** Article X follows this Article and is the last.
 
 ## Section 1 — Proposal
 
@@ -47,7 +47,7 @@ A ratified amendment becomes part of this Constitution upon certification of the
 
 ### IX.3.a — Protection of Fundamental Rights
 
-Except as IX.3.d permits, no amendment shall repeal, narrow, suspend, or create a new exception to a right established by Article I, Article II, or Article III.
+Except as IX.3.d permits, no amendment shall repeal, narrow, suspend, or create a new exception to a right established by Article I, Article II, Article III, or Article X.
 
 This limit applies to an amendment that would accomplish the same result indirectly, including by changing a definition used in those Articles, by altering the constitutional standard for exceptions in I.4.c or II.10.d, or by lengthening a time limit or weakening a procedure that protects such a right.
 
@@ -72,7 +72,7 @@ An amendment that violates IX.3.a or exceeds IX.3.d shall have no legal effect.
 * **Drafting error** means a clerical or typographical error, an incorrect cross-reference, a contradiction between two provisions of this Constitution, or wording that produces a result clearly contrary to the evident purpose of the provision in which it appears.
 * **Correction amendment** means an amendment proposed and ratified under this subsection.
 
-A correction amendment may change a provision of Article I, II, or III to correct a drafting error, even if the correction narrows a right or creates an exception to it, only if all of the following are met:
+A correction amendment may change a provision of Article I, II, III, or X to correct a drafting error, even if the correction narrows a right or creates an exception to it, only if all of the following are met:
 
 1. **Single error:** the amendment corrects one drafting error, in no more than one subsection, and states in its text the error it corrects and the purpose of the provision as written.
 2. **Smallest change:** the amendment makes the smallest change that corrects the error.
