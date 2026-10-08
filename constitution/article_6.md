@@ -122,6 +122,31 @@ The remedies available for a constitutional violation are those of II.9.c.
 
 Where a provision of law can reasonably be read in more than one way, a court shall adopt the reading that preserves the greater protection of a constitutional right, as required by I.4.c and III.1.g.
 
+### VI.3.e — Enforcement of Judicial Orders
+
+**Definitions:**
+
+* **Enforceable order** means a final judicial order, or an order that no court has stayed, directing a governmental officer or body to act or not to act.
+* **Finding of defiance** means a finding by a court, after notice and a hearing, that a governmental officer or body has failed to comply with an enforceable order within the time the order allowed, without a lawful excuse.
+
+**Judicial Enforcement Service:** There shall be a Judicial Enforcement Service, which serves process, enforces judicial orders, and protects the courts. Its Director is appointed by the Supreme Court and may be removed only by the Supreme Court. Its members are not employed by, and shall not be directed by, the executive branch. Its funding is part of the funding of the courts under VI.4.a. Its members are bound by every limit on the use of force that applies to other law enforcement officers.
+
+**Consequences of defiance:** Upon a finding of defiance:
+
+1. the court may appoint a special officer to carry out the order, who shall have, for that purpose only, every authority of the defiant officer or body;
+2. the defiant officer's authority over the subject of the order is suspended until the officer complies;
+3. the court may impose coercive fines on the defiant officer personally, which shall not be paid from public funds, and other sanctions for contempt;
+4. the defiant officer is not immune from personal civil liability for harm caused by the defiance; and
+5. the court shall certify the finding to the House of Representatives, which shall vote on articles of impeachment against the defiant officer, if impeachable, within thirty days after receiving it. Defiance of an enforceable order is serious abuse of constitutional authority under IV.9.b.
+
+A finding of defiance against the President or Vice President may be made only by the Supreme Court.
+
+**Duty of subordinates:** No officer or employee shall obey an instruction to defy an enforceable order. Compliance with an enforceable order is a complete defense to any discipline or penalty for disobeying such an instruction. Every officer responsible for payments from public funds shall pay a judgment or carry out an order for payment that a court has made enforceable, notwithstanding any contrary instruction.
+
+**No obstruction:** No person shall use the armed forces, any law enforcement agency, or any public funds to obstruct the enforcement of a judicial order.
+
+**Review:** A finding of defiance is subject to expedited appeal. A sanction under this subsection ends when the officer complies or when the order is reversed or stayed.
+
 ---
 
 ## Section 4 — Judicial Independence and Conduct
