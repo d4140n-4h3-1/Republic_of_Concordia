@@ -99,6 +99,33 @@ Reasonable household and family tasks assigned by a parent or legal guardian to 
 
 Congress shall enact laws enforcing this subsection, including remedies for those held in involuntary servitude.
 
+### I.1.e — Freedom of the Press
+
+**Right:** Every person shall have the right to gather, publish, broadcast, and distribute news, information, and opinion to the public by any medium.
+
+**Definitions:**
+
+* **Press** means any person engaged in gathering information and distributing it to the public, whether as an employee, an independent journalist, or an individual, and regardless of medium, credentials, or whether the person is paid.
+* **Prior restraint** means a governmental order or practice that prevents publication before it occurs.
+* **Confidential source** means a person who provides information to the press on a promise that the person's identity will not be disclosed.
+* **Unpublished material** means notes, recordings, drafts, and other material gathered or prepared by the press and not yet published.
+
+**No licensing:** No government shall require a license, registration, accreditation, or approval as a condition of gathering or publishing news, information, or opinion. Credentials for access to a limited space may be issued only by neutral criteria applied equally to all.
+
+**No prior restraint:** No government shall prevent publication, except by a court order, issued after a hearing, upon proof that publication would directly and certainly cause imminent death or serious bodily harm to an identifiable person. The order shall be no broader and last no longer than necessary to prevent that harm, and is subject to expedited appeal.
+
+**Sources and unpublished material:** No person shall be compelled to disclose a confidential source or unpublished material, and no government shall search, seize, or conduct surveillance of the press for the purpose of identifying a confidential source, except by a court order, issued after a hearing, upon proof that the information is essential to prevent imminent death or serious bodily harm and cannot be obtained by any other means.
+
+**Editorial independence:** No government shall own, direct, or control the editorial content of any press. A publicly funded broadcaster or publisher shall be governed independently of any elected official and shall have full editorial independence.
+
+**No retaliation:** No government shall grant, deny, or condition any tax treatment, license, permit, contract, advertising, subsidy, or access to public proceedings or officials on the basis of the content or viewpoint of a person's reporting.
+
+**Public officials:** No public official or public figure may recover damages for a statement concerning the person's public conduct unless the statement was false and the speaker knew it was false or acted with reckless disregard for whether it was false. No law shall make defamation, or the publication of false information about the government or its officials, a criminal offense. No government shall sue for defamation.
+
+**Protection while reporting:** No person shall be arrested, detained, or dispersed solely for gathering news at a public place or event, including a public assembly, while not interfering with lawful operations.
+
+Congress shall provide by law for the early dismissal of any civil action brought to punish or deter the lawful exercise of this right.
+
 ---
 
 ## Section 2 — Right to Education
