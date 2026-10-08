@@ -660,7 +660,7 @@ A temporary inability to conduct an election shall not, by itself, extinguish th
 * **Foreign source** means:
   1. a foreign government, or a person acting on its behalf;
   2. a natural person who is not a citizen;
-  3. an organization organized under the law of a foreign country or having its principal place of business outside the United States; or
+  3. an organization organized under the law of a foreign country or having its principal place of business outside Concordia; or
   4. an organization in which foreign sources directly or indirectly hold a significant ownership interest, as defined by law, or in which a foreign source participates in deciding whether or how the organization makes a contribution or an expenditure concerning an election.
 * **Ballot measure** means a matter submitted to the electorate for decision.
 * **Candidate** means a person seeking an elected office in an election.
@@ -780,7 +780,7 @@ Any communication intended to influence an election that is paid for, produced, 
 
 **Equal protection:** This subsection distinguishes on the basis of citizenship, not national origin. It applies equally to every citizen, however citizenship was acquired (VII.1.c).
 
-This subsection applies to every election held within the United States. It is an express constitutional permission for purposes of I.4.c.
+This subsection applies to every election held within Concordia. It is an express constitutional permission for purposes of I.4.c.
 
 ### III.10.g — Use of Campaign Funds
 

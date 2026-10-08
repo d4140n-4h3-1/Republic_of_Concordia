@@ -4,7 +4,7 @@
 
 ### V.1.a — The President
 
-The executive power of the United States is vested in a President.
+The executive power of Concordia is vested in a President.
 
 The President shall exercise only executive powers granted by this Constitution or by law consistent with it.
 
@@ -15,7 +15,7 @@ The President shall:
 1. take care that the laws be faithfully executed;
 2. direct the executive departments and administrative agencies established by law (IV.1.b);
 3. command the armed forces, subject to civilian constitutional control and to the powers of Congress;
-4. conduct the foreign relations of the United States, subject to Section 7; and
+4. conduct the foreign relations of Concordia, subject to Section 7; and
 5. report to Congress at least once each calendar year on the state of the nation and recommend measures the President considers necessary.
 
 ### V.1.c — Limits on Executive Power
@@ -59,7 +59,7 @@ Where two or more candidacies are tied for elimination, the candidacy with the f
 
 The President and Vice President shall each:
 
-1. be a citizen of the United States; and
+1. be a citizen of Concordia; and
 2. satisfy the age eligibility and other qualifications established by III.6.
 
 For a person who becomes President or Vice President other than by election, the age eligibility of III.6.a is measured on the day the person takes office.
@@ -149,7 +149,7 @@ Such a judge may be removed only by impeachment, or for permanent incapacity und
 
 ### V.5.a — Pardon Power
 
-The President may grant pardons, commutations, and reprieves for offenses against the United States, except in cases of impeachment.
+The President may grant pardons, commutations, and reprieves for offenses against Concordia, except in cases of impeachment.
 
 **Definitions:**
 * **Pardon** means an official act forgiving an offense and ending its criminal penalties.
@@ -226,7 +226,7 @@ A court may invalidate a declaration that does not satisfy V.6.a, or an action t
 
 ### V.7.a — Use of Armed Forces
 
-The President may use the armed forces without authorization from Congress only to repel an armed attack on the United States or its armed forces.
+The President may use the armed forces without authorization from Congress only to repel an armed attack on Concordia or its armed forces.
 
 The President shall report any such use to Congress within forty-eight hours, and shall end it within sixty days unless Congress authorizes it to continue under IV.1.b.
 
@@ -246,7 +246,7 @@ No treaty shall override this Constitution.
 
 The compensation of the President and Vice President shall be fixed by law and shall not be increased or reduced during the term for which they were elected.
 
-Neither the President nor the Vice President shall accept any payment, gift, office, or title from a foreign government, or any compensation from the United States other than that fixed by law.
+Neither the President nor the Vice President shall accept any payment, gift, office, or title from a foreign government, or any compensation from Concordia other than that fixed by law.
 
 The President and Vice President shall publicly disclose their financial interests each year.
 

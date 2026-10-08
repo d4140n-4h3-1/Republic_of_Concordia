@@ -4,15 +4,15 @@
 
 ### VII.1.a — Citizenship by Birth
 
-**Right:** Every person born within the United States is a citizen, regardless of the citizenship or immigration status of the person's parents.
+**Right:** Every person born within Concordia is a citizen, regardless of the citizenship or immigration status of the person's parents.
 
-Every person born outside the United States to at least one parent who is a citizen at the time of the birth is a citizen.
+Every person born outside Concordia to at least one parent who is a citizen at the time of the birth is a citizen.
 
-A child born within the United States to a foreign diplomat who has diplomatic immunity is not a citizen by birth, unless the child would otherwise be stateless.
+A child born within Concordia to a foreign diplomat who has diplomatic immunity is not a citizen by birth, unless the child would otherwise be stateless.
 
 **Definitions:**
 
-* **Within the United States** means within any constituent jurisdiction (VII.2.a).
+* **Within Concordia** means within any constituent jurisdiction (VII.2.a).
 
 ### VII.1.b — Citizenship by Adoption and Naturalization
 
@@ -40,7 +40,7 @@ Naturalization obtained through material fraud is void, but only if a court find
 
 ### VII.2.a — Composition
 
-The United States consists of its constituent states, the federal capital district, and its territories, each of which is a **constituent jurisdiction**.
+Concordia consists of its constituent states, the federal capital district, and its territories, each of which is a **constituent jurisdiction**.
 
 The original constituent jurisdictions are the states, the capital district, and the territories that ratify this Constitution under Article VIII.
 
@@ -54,15 +54,15 @@ No law shall reduce or remove the representation of a constituent jurisdiction.
 
 ### VII.2.c — Citizens Living Abroad
 
-A citizen living outside the United States votes in federal elections in the constituent jurisdiction and House district where the citizen last resided.
+A citizen living outside Concordia votes in federal elections in the constituent jurisdiction and House district where the citizen last resided.
 
-A citizen who has never resided in the United States votes where a citizen parent last resided.
+A citizen who has never resided in Concordia votes where a citizen parent last resided.
 
 The Election Authority shall provide reasonable means for citizens living abroad to register and vote (III.1.f).
 
 ### VII.2.d — Permanence of the Union
 
-The Union is permanent. No constituent jurisdiction may secede from the United States, and none may be expelled, except through Article IX.
+The Union is permanent. No constituent jurisdiction may secede from Concordia, and none may be expelled, except through Article IX.
 
 ### VII.2.e — Admission and Change of Status
 
@@ -127,4 +127,4 @@ A person charged with a crime in one constituent jurisdiction who is found in an
 
 ### VII.4.d — Disputes Between Jurisdictions
 
-Disputes between constituent jurisdictions, or between a constituent jurisdiction and the United States, shall be decided by the Supreme Court (VI.2.k).
+Disputes between constituent jurisdictions, or between a constituent jurisdiction and Concordia, shall be decided by the Supreme Court (VI.2.k).

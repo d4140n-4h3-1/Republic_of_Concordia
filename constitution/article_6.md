@@ -4,7 +4,7 @@
 
 ### VI.1.a — The Courts
 
-The judicial power of the United States is vested in one Supreme Court and in such inferior courts as Congress establishes (IV.1.b).
+The judicial power of Concordia is vested in one Supreme Court and in such inferior courts as Congress establishes (IV.1.b).
 
 ### VI.1.b — Structure of the Inferior Courts
 
@@ -18,13 +18,13 @@ Congress shall not abolish a court, or alter its jurisdiction, for the purpose o
 
 **Definitions:**
 * **Case** means an actual dispute between parties with adverse legal interests that a court can resolve by a binding judgment.
-* **Federal question** means a question arising under this Constitution, a law of the United States, or a treaty.
+* **Federal question** means a question arising under this Constitution, a law of Concordia, or a treaty.
 
 The judicial power extends to every case:
 
 1. involving a federal question;
-2. to which the United States is a party;
-3. between two or more constituent jurisdictions (VII.2.a), or between a constituent jurisdiction and the United States;
+2. to which Concordia is a party;
+3. between two or more constituent jurisdictions (VII.2.a), or between a constituent jurisdiction and Concordia;
 4. affecting ambassadors or other representatives of foreign governments; and
 5. otherwise placed within federal jurisdiction by this Constitution.
 
@@ -147,7 +147,7 @@ Congress may use the circuits to organize the inferior courts, but no law shall 
 
 ### VI.2.k — Jurisdiction
 
-The Supreme Court has original jurisdiction in cases between two or more constituent jurisdictions, and between a constituent jurisdiction and the United States.
+The Supreme Court has original jurisdiction in cases between two or more constituent jurisdictions, and between a constituent jurisdiction and Concordia.
 
 The Supreme Court has appellate jurisdiction over all other cases within the judicial power, and over any case in any court, including a state court, that involves a federal question.
 

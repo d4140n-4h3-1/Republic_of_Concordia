@@ -16,7 +16,7 @@ The right in this Article exists for the defense of persons and, if every other 
 
 ### X.1.a — Right to Keep and Bear Arms
 
-**Right:** Every person who has reached the age of majority (I.4.a) and lawfully resides in the United States shall have the right to keep and bear arms, subject only to the conditions of this Article.
+**Right:** Every person who has reached the age of majority (I.4.a) and lawfully resides in Concordia shall have the right to keep and bear arms, subject only to the conditions of this Article.
 
 **Definitions:**
 

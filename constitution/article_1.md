@@ -52,7 +52,7 @@ No person shall be compelled to profess, practice, support, or participate in a 
 * **Slavery** means the status or condition of a person over whom any of the powers attaching to the right of ownership are exercised.
 * **Serfdom** means the status or condition of a person who is bound by law, custom, or agreement to live and labor on land belonging to another person, or to render services to another person, and who is not free to end that status.
 
-Slavery and serfdom are prohibited everywhere within the United States and wherever its authority extends.
+Slavery and serfdom are prohibited everywhere within Concordia and wherever its authority extends.
 
 No person shall hold, buy, sell, transfer, inherit, or otherwise treat another person as property, or hold another person in serfdom.
 

@@ -4,7 +4,7 @@
 
 ### IV.1.a — Congress
 
-The legislative power of the United States is vested in a Congress consisting of a House of Representatives and a Senate.
+The legislative power of Concordia is vested in a Congress consisting of a House of Representatives and a Senate.
 
 Congress shall exercise only legislative powers granted to it by this Constitution.
 
@@ -15,7 +15,7 @@ Congress shall have power to:
 1. enact laws within the jurisdiction granted to the federal government by this Constitution;
 2. lay and collect taxes, duties, imposts, and excises, subject to this Constitution;
 3. appropriate public funds;
-4. borrow money on the credit of the United States;
+4. borrow money on the credit of Concordia;
 5. issue currency and regulate its value;
 6. regulate interstate and foreign commerce and other matters expressly placed within federal jurisdiction;
 7. establish courts inferior to the Supreme Court;
@@ -65,7 +65,7 @@ Representatives shall be elected by the qualified voters of their respective dis
 
 ### IV.2.c — Qualifications
 
-A Representative shall be a citizen of the United States and shall satisfy the age eligibility and other qualifications established by III.6.
+A Representative shall be a citizen of Concordia and shall satisfy the age eligibility and other qualifications established by III.6.
 
 A Representative shall have resided in the constituent jurisdiction (VII.2.a) containing the district represented for at least one year immediately before the election. A change in district boundaries under Article III, Section 4 shall not disqualify a Representative who satisfies this requirement.
 
@@ -95,7 +95,7 @@ Senators shall be elected by the qualified voters of the jurisdiction they repre
 
 ### IV.3.c — Qualifications
 
-A Senator shall be a citizen of the United States and shall satisfy the age eligibility and other qualifications established by III.6.
+A Senator shall be a citizen of Concordia and shall satisfy the age eligibility and other qualifications established by III.6.
 
 A Senator shall have resided in the jurisdiction represented for at least one year immediately before the election.
 

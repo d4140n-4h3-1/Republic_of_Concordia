@@ -1,8 +1,8 @@
-# A Constitution for the United States (Fictional Draft)
+# A Constitution for Concordia (Fictional Draft)
 
 ![Flag](constitution/1c39deb5-4efc-4ec9-a588-920318794957.png)
 
-This is a fictional constitution: a rewrite of the founding document of the United States, written as worldbuilding. It is a draft in progress. It is not legal advice and it does not propose real legislation.
+This is a fictional constitution: the founding document of Concordia, an imagined nation, modeled on the Constitution of the United States and written as worldbuilding. It is a draft in progress. It is not legal advice and it does not propose real legislation.
 
 The repository has two parts:
 

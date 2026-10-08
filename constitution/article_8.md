@@ -4,7 +4,7 @@
 
 ### VIII.1.a — Supreme Law
 
-This Constitution is the supreme law of the United States.
+This Constitution is the supreme law of Concordia.
 
 Every law, treaty (V.7.b), regulation, executive order, and governmental action, at every level of government, is subordinate to it. *(For federal and state law, see also VII.3.b; for legislation, IV.12; for judicial review, VI.3.)*
 
@@ -100,7 +100,7 @@ The laws of each constituent jurisdiction remain in force to the extent they are
 
 The debts and obligations of a constituent jurisdiction remain its own unless Congress by law provides otherwise.
 
-A treaty or agreement between a constituent jurisdiction and a foreign government lapses one year after this Constitution takes effect, unless the United States adopts it under V.7.b. *(See VII.3.d.)*
+A treaty or agreement between a constituent jurisdiction and a foreign government lapses one year after this Constitution takes effect, unless Concordia adopts it under V.7.b. *(See VII.3.d.)*
 
 The existing courts of each constituent jurisdiction continue, and may hear federal questions, until Congress establishes inferior courts under VI.1.b.
 
@@ -112,8 +112,8 @@ No person shall remain in custody for conduct that is no longer criminal, or und
 
 ### VIII.3.g — Existing Citizens
 
-Every person who, on the day this Constitution takes effect, is a citizen of a ratifying jurisdiction under that jurisdiction's law becomes a citizen of the United States on that day.
+Every person who, on the day this Constitution takes effect, is a citizen of a ratifying jurisdiction under that jurisdiction's law becomes a citizen of Concordia on that day.
 
-For purposes of VII.1.a, a parent who was a citizen of a ratifying jurisdiction when a person was born before that day is treated as having been a citizen of the United States.
+For purposes of VII.1.a, a parent who was a citizen of a ratifying jurisdiction when a person was born before that day is treated as having been a citizen of Concordia.
 
 This subsection applies in the same way to a jurisdiction that joins later under VIII.2.b or VII.2.e, on the day it joins.
