@@ -23,7 +23,7 @@ The repository has two parts:
 | [VI](constitution/article_6.md) | The Judicial Power | Structure of the courts; the nine judicial circuits; Supreme Court jurisdiction; judicial review; enforcement of court orders; judicial independence, ethics and discipline |
 | [VII](constitution/article_7.md) | Citizenship and the Union | Citizenship; states, territories and the capital district; reserved powers; relations among the jurisdictions |
 | [VIII](constitution/article_8.md) | Supremacy, Ratification, and Transition | Supremacy of the Constitution; ratification by referendum; transition to the first government |
-| [IX](constitution/article_9.md) | Amendment of This Constitution | Proposal by Congress; national referendum; rights that no amendment may reduce; a narrow path for correcting drafting errors; a locked Supreme Court |
+| [IX](constitution/article_9.md) | Amendment of This Constitution | Proposal by Congress; national referendum; rights that no amendment may reduce; a narrow path for correcting drafting errors; a locked Supreme Court, term limits, emergency limits and election independence |
 | [X](constitution/article_10.md) | The Right to Keep and Bear Arms | Why it is last; the right and its conditions (a license to purchase, prohibited persons, places, storage, transfers); no general disarmament or registry; a limited right of resistance as the last resort |
 
 ## Key Features
