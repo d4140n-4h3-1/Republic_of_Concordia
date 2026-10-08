@@ -6,12 +6,14 @@ This is a fictional constitution: a rewrite of the founding document of the Unit
 
 The repository has two parts:
 
-- **The Constitution**: ten Articles, one file each.
+- **The Constitution**: a preamble and ten Articles, one file each.
 - **Bills**: ordinary laws drafted under the Constitution to test how its rules work in practice.
 
 ---
 
 ## The Articles
+
+The Constitution opens with a short [Preamble](constitution/preamble.md) stating its purposes.
 
 | Article | Title | What it covers |
 |---|---|---|
