@@ -151,6 +151,8 @@ Every competent person shall have the right to make decisions concerning their o
 
 **Personal use:** For a person who has reached the age of majority (I.4.a), decisions concerning their own body include the decision to possess or consume a substance for personal use. A minor's right to make decisions concerning their own body under this subsection does not include that decision.
 
+**Minors and personal use:** A minor's possession or consumption of a substance for personal use shall not be a criminal offense or a ground for a juvenile delinquency adjudication, and shall not result in punitive custody (II.2.i). The government may respond to it only through education, treatment, or other non-punitive civil measures. Treatment requires consent given under the rules for minors in this subsection, except as the rules for persons unable to consent permit.
+
 **Persons unable to consent:** Where a person is not competent, consent may be given by a surrogate decision-maker acting in that person's best interests. Where a person is unconscious or otherwise unable to consent and delay would create imminent danger to their life or health, emergency treatment reasonably necessary to preserve life or health is permitted.
 
 **Minors:** A minor who has reached sixteen years of age shall have the right to make decisions concerning their own body and medical care as a competent person. Except as provided in the next paragraph, decisions for a younger minor shall be made by a parent or legal guardian in the minor's best interests, giving the minor's views weight that increases with the minor's age and maturity. A court may intervene where such a decision threatens the minor's life or health.
