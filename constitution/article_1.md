@@ -205,7 +205,11 @@ Every person shall have the right to take reasonable measures to defend themselv
 
 *(Religion, belief, and non-belief are defined in I.0.a.)*
 
-No person shall be denied a right, benefit, protection, opportunity, or service provided by law solely because of protected status, except where a distinction satisfies the constitutional standard for exceptions established in I.4.c.
+No person shall be denied a right, benefit, protection, opportunity, or service provided by law because of protected status, except where a distinction satisfies the constitutional standard for exceptions established in I.4.c. A denial is because of protected status if protected status was a motivating factor in it, even if other factors also motivated it.
+
+**Benefits addressing need:** A law may provide a benefit, service, accommodation, or protection to persons because of age, disability, sex, or socioeconomic status, where the benefit addresses a need, disadvantage, or risk that the status reasonably indicates. This is an express permission for purposes of I.4.c. Such a law satisfies I.4.c if it is reasonably related to the need, disadvantage, or risk it addresses and does not deny any person a right established by Article I, II, or III. It shall not establish a hierarchy of human worth (I.4.b).
+
+**Remedies for discrimination:** A law or court order may take account of protected status to remedy specific, identified discrimination against identifiable persons or groups. The remedy shall be narrowly tailored to the discrimination identified and shall end when its effects have been remedied. This is an express permission for purposes of I.4.c.
 
 **Age-based distinctions:** A distinction based on age that this Constitution expressly establishes (including the age of majority, the voting age, age requirements for elected office, and special protections for minors) is a constitutional exception that applies as written under I.4.c and shall apply equally to all persons of the same age. An age-based distinction not expressly established by this Constitution remains subject to I.4.c.
 
@@ -219,7 +223,7 @@ The rights and protections established by this Article shall apply to every pers
 
 The government shall establish no hierarchy of human worth or civil rights based upon protected status.
 
-Unless expressly provided elsewhere in this Constitution, this Article shall not impose constitutional obligations upon private actors solely by virtue of their private status.
+Unless expressly provided elsewhere in this Constitution, this Article shall not impose constitutional obligations upon private actors solely by virtue of their private status. *(Congress may prohibit discrimination by private actors under IV.1.b(16).)*
 
 *(Government is defined in I.0.a.)*
 
