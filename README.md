@@ -33,7 +33,7 @@ The repository has two parts:
 - **Rights that cannot be amended away.** No amendment may narrow the rights in Articles I–III, either directly or indirectly (IX.3.a).
 - **An elected Supreme Court.** Nine judges, elected in nonpartisan, staggered elections. Each serves a single 18-year term (III.7, VI.2).
 - **Direct presidential election.** The President is chosen by national popular vote with ranked-choice counting. There is no Electoral College (V.2).
-- **Term and age limits.** Most elected offices have four-year terms and a limit of two terms. Candidates must be between 35 and 64 years old when elected (III.5, III.6).
+- **Term and age limits.** Most elected offices have four-year terms and a limit of two terms. Candidates must be between 30 and 64 years old when elected; Supreme Court candidates must be between 35 and 46 (III.5, III.6, III.7).
 - **Elections run independently.** An independent Election Authority runs elections, neutral commissions draw districts, and campaign finance and foreign-interference rules are written into the Constitution itself (III.3, III.4, III.11).
 - **Detailed custody rules.** Article II defines every type of government custody and limits each one, including use of force, solitary confinement, and independent oversight.
 
