@@ -176,14 +176,6 @@ No person shall be subjected to medical treatment, physical intrusion, reproduct
 
 Every competent person shall have the right to make decisions concerning their own body, medical care, and reproduction, subject to the limited exceptions established herein.
 
-**Personal use:** For a person who has reached the age of majority (I.4.a), decisions concerning their own body include the decision to possess or consume a substance for personal use. A minor's right to make decisions concerning their own body under this subsection does not include that decision.
-
-**Minors and personal use:** A minor's possession or consumption of a substance for personal use shall not be a criminal offense or a ground for a juvenile delinquency adjudication, and shall not result in punitive custody (II.2.i). The government may respond to it only through education, treatment, or other non-punitive civil measures. Treatment requires consent given under the rules for minors in this subsection, except as the rules for persons unable to consent permit.
-
-**Forfeiture for personal use:** No property shall be seized or forfeited, by civil or criminal process, because it was acquired, held, or used for a person's possession or consumption of a substance for personal use. For a minor, this does not prevent seizure of the substance itself.
-
-**Civil penalties for personal use:** No government shall impose a fine, or deny, end, or reduce public housing, public benefits, public employment, education, a professional or occupational license, or any immigration or citizenship benefit, because a person possesses or consumes a substance for personal use. Such possession or consumption shall not be treated as evidence of unfitness in any proceeding concerning custody of, or visitation with, a child, unless it is shown to have endangered the child. This does not prevent a law, satisfying I.4.c, that applies to conduct while impaired that endangers other persons, or to impairment while performing a public duty. Any employer, including a government employer, may discipline or dismiss an employee for possessing, consuming, or being impaired by a substance at the workplace or while working. Any school, including a public school, may discipline a student, including a minor, for possessing, consuming, or being impaired by a substance on school grounds or at a school activity, notwithstanding the limits on responses to a minor's personal use in this subsection.
-
 **Persons unable to consent:** Where a person is not competent, consent may be given by a surrogate decision-maker acting in that person's best interests. Where a person is unconscious or otherwise unable to consent and delay would create imminent danger to their life or health, emergency treatment reasonably necessary to preserve life or health is permitted.
 
 **Minors:** A minor who has reached sixteen years of age shall have the right to make decisions concerning their own body and medical care as a competent person. Except as provided in the next paragraph, decisions for a younger minor shall be made by a parent or legal guardian in the minor's best interests, giving the minor's views weight that increases with the minor's age and maturity. A court may intervene where such a decision threatens the minor's life or health.
@@ -203,6 +195,20 @@ A person in non-punitive custody shall be subject only to restrictions necessary
 A person in custody shall retain all bodily rights not expressly and necessarily restricted under this subsection.
 
 Every person shall have the right to take reasonable measures to defend themselves or another person from imminent danger, except where the exercise of that right is necessarily restricted by lawful custodial necessity.
+
+### I.3.b — Personal Use of Substances
+
+**Right:** For a person who has reached the age of majority (I.4.a), decisions concerning their own body under I.3.a include the decision to possess or consume a substance for personal use. A minor's right under I.3.a to make decisions concerning their own body does not include that decision.
+
+**Minors:** A minor's possession or consumption of a substance for personal use shall not be a criminal offense or a ground for a juvenile delinquency adjudication, and shall not result in punitive custody (II.2.i). The government may respond to it only through education, treatment, or other non-punitive civil measures. Treatment requires consent given under the rules for minors in I.3.a, except as the rules for persons unable to consent permit.
+
+**Forfeiture:** No property shall be seized or forfeited, by civil or criminal process, because it was acquired, held, or used for a person's possession or consumption of a substance for personal use. For a minor, this does not prevent seizure of the substance itself.
+
+**Civil penalties:** No government shall impose a fine, or deny, end, or reduce public housing, public benefits, public employment, education, a professional or occupational license, or any immigration or citizenship benefit, because a person possesses or consumes a substance for personal use. Such possession or consumption shall not be treated as evidence of unfitness in any proceeding concerning custody of, or visitation with, a child, unless it is shown to have endangered the child. This does not prevent a law, satisfying I.4.c, that applies to conduct while impaired that endangers other persons, or to impairment while performing a public duty.
+
+**Workplaces and schools:** Any employer, including a government employer, may discipline or dismiss an employee for possessing, consuming, or being impaired by a substance at the workplace or while working. Any school, including a public school, may discipline a student, including a minor, for possessing, consuming, or being impaired by a substance on school grounds or at a school activity, notwithstanding the limits on responses to a minor's personal use in this subsection and the limits on civil penalties above.
+
+**Persons in custody:** The rights established by this subsection are subject to the Exception for Lawful Custody in I.3.a.
 
 ---
 
