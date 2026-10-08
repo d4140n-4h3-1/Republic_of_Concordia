@@ -404,6 +404,8 @@ The government shall bear the burden of proving criminal guilt.
 
 An accused person shall not be required to prove their innocence.
 
+**Facts that increase punishment:** Any fact, including a prior conviction, that increases the maximum punishment or requires a minimum punishment is an element of the offense. It shall be charged (II.4.c) and proven beyond a reasonable doubt to the trier of fact (II.4.j). A court may hear such a fact separately, after a finding of guilt on the other elements, to avoid unfair prejudice to the accused.
+
 ### II.4.g — Prohibition of Double Jeopardy
 
 **Right:** No person shall be placed in jeopardy more than once for the same criminal offense after acquittal or conviction.
@@ -415,6 +417,8 @@ An accused person shall not be required to prove their innocence.
 No person acquitted of an offense shall be retried for that offense, except where the prior proceeding was legally incapable of producing a valid judgment.
 
 No person convicted of an offense shall be prosecuted again for the same offense.
+
+**Multiple punishments:** No person shall receive more than one punishment for the same act or omission, unless each offense for which the person is punished requires proof of a fact that the others do not.
 
 ### II.4.h — Right to Appeal
 
@@ -609,6 +613,8 @@ No person shall be punished for conduct that was not criminal when committed, ex
 * **Legitimate purposes of criminal justice** means constitutionally permissible purposes including public safety, accountability, deterrence, rehabilitation, and lawful protection of others.
 
 No punishment shall be grossly disproportionate to the offense.
+
+This limit applies both to each sentence and to the total punishment imposed on a person for offenses sentenced in the same proceeding or arising from the same criminal episode, including consecutive sentences.
 
 No punishment shall be imposed solely for vengeance, humiliation, or degradation.
 
