@@ -1,7 +1,5 @@
 # ARTICLE IV — THE LEGISLATIVE POWER
 
-> **Draft note:** This version removes provisions that repeated Articles I and III and replaces them with cross-references, so that qualifications, terms, oaths, and rights limits are stated in one place only.
-
 ## Section 1 — Vesting of Legislative Power
 
 ### IV.1.a — Congress

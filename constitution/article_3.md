@@ -45,7 +45,7 @@ An electoral district or electoral system that produces a substantial and durabl
 
 No electoral district shall be created or maintained for the purpose of substantially diluting the votes of a group of eligible voters sharing a protected status (I.4.a).
 
-**Fixed constituencies:** The election of two Senators by each constituent jurisdiction (IV.3.a) and the election of one Supreme Court judge by each judicial circuit (VI.2.f) are express constitutional exceptions to this subsection. Differences in population among constituent jurisdictions or among circuits do not violate it.
+**Fixed constituencies:** The election of two Senators by each constituent jurisdiction (IV.3.a) and the election of one Supreme Court judge by each judicial circuit (VI.2.j) are express constitutional exceptions to this subsection. Differences in population among constituent jurisdictions or among circuits do not violate it.
 
 ### III.1.d — Secret Ballot
 
@@ -159,7 +159,7 @@ Once voting in an election has begun, no material election rule shall be changed
 
 A change under this subsection shall be limited to what is reasonably necessary to restore or preserve constitutional election integrity.
 
-This subsection does not prevent a court from ordering a correction under III.4.d or III.9.b.
+This subsection does not prevent a court from ordering a correction under III.4.d or III.8.b.
 
 ### III.2.e — Election Integrity
 
@@ -392,7 +392,7 @@ Every federal term filled at a general election begins on the seventy-fifth day 
 **Definitions:**
 
 * **Age at election** means the person's age on the date the election is conducted.
-* **Ordinary elected office** means an elected public office other than a Supreme Court judgeship governed by Section 7.
+* **Ordinary elected office** means an elected public office other than a Supreme Court judgeship governed by Article VI, Section 2.
 
 A person elected while within the constitutional age range may complete the person's full term even if the person reaches or exceeds sixty-five years of age during that term.
 
@@ -412,84 +412,9 @@ No elected official may lawfully exercise authority inconsistent with this Const
 
 ---
 
-## Section 7 — Supreme Court
+## Section 7 — Election Integrity and Transparency
 
-### III.7.a — Supreme Court Judges
-
-**Rule:** The Supreme Court shall consist of judges elected by the people of the judicial circuits (VI.2.f) according to procedures established by this Constitution and lawful election legislation.
-
-**Definitions:**
-
-* **Supreme Court judge** means a member of the highest constitutional court established under this Constitution.
-* **Judicial election** means an election in which qualified voters select a person to serve as a judge.
-* **Judicial term** means the constitutionally established period of service of a judge.
-
-The Supreme Court shall consist of nine judges, one elected by the voters of each of the nine judicial circuits.
-
-No Supreme Court judge shall be appointed by the executive, legislature, or any other governmental authority.
-
-### III.7.b — Supreme Court Age Eligibility
-
-A person shall be at least thirty-five years of age and younger than forty-seven years of age at the time of election to the Supreme Court.
-
-No person who is forty-seven years of age or older may be elected to the Supreme Court.
-
-This age requirement exists to permit completion of the full eighteen-year constitutional judicial term before the person reaches sixty-five years of age.
-
-### III.7.c — Eighteen-Year Judicial Term
-
-Each Supreme Court judge shall serve a single term of eighteen years.
-
-A Supreme Court judge shall not be elected to a second eighteen-year term.
-
-A judge who completes the constitutional term shall leave the Supreme Court upon expiration of the term unless this Constitution expressly provides otherwise.
-
-### III.7.d — Judicial Independence
-
-Supreme Court judges shall exercise judicial authority independently and impartially.
-
-No elected official, political party, governmental institution, or private person may direct a Supreme Court judge to decide a case in a particular manner.
-
-Judicial independence shall not exempt a judge from constitutional accountability or lawful disciplinary procedures.
-
-### III.7.e — Judicial Incompatibility
-
-A Supreme Court judge shall not simultaneously hold another elected office or exercise legislative or executive authority.
-
-A person who has served as a Supreme Court judge shall not, for two years after leaving the Court, hold another elected or appointed governmental office.
-
-Nothing in this subsection prohibits a former judge from engaging in private employment, private practice, teaching, scholarship, or other lawful private activity.
-
-### III.7.f — Vacancies and Special Elections
-
-A vacancy on the Supreme Court shall be filled by special election, held in the circuit whose seat is vacant, for the remainder of the unexpired judicial term.
-
-The special election shall occur within six months after the vacancy unless an objectively demonstrated circumstance makes an election within that period impossible.
-
-A person elected to fill a vacancy shall satisfy the age and qualification requirements applicable to a Supreme Court election at the time of the special election.
-
-Service of one-half or less of an unexpired judicial term shall not count as a full judicial term for purposes of III.7.c.
-
-Service of more than one-half of an unexpired judicial term shall count as the person's single judicial term.
-
-### III.7.g — Judicial Qualifications
-
-A candidate for Supreme Court judge shall:
-
-1. be a citizen;
-2. have reached thirty-five years of age and be younger than forty-seven years of age at election;
-3. be licensed to practice law within the jurisdiction;
-4. have at least ten years of professional legal or judicial experience;
-5. have resided in the circuit whose seat is to be filled for at least one year immediately before the election; and
-6. satisfy all other qualifications established consistently with this Constitution.
-
-No qualification may be imposed for the purpose of controlling the political composition or judicial decisions of the Court.
-
----
-
-## Section 8 — Election Integrity and Transparency
-
-### III.8.a — Accurate Counting
+### III.7.a — Accurate Counting
 
 Every lawful ballot shall be counted accurately.
 
@@ -502,19 +427,19 @@ The Election Authority shall establish procedures reasonably designed to:
 5. verify reported results; and
 6. maintain a reliable record of the election.
 
-### III.8.b — Election Records
+### III.7.b — Election Records
 
 Material election records shall be preserved for a constitutionally or lawfully established period sufficient to permit meaningful auditing, recounting, investigation, and judicial review.
 
 Public access to election records may be limited only where necessary to protect ballot secrecy, personal privacy, election security, or another constitutional right.
 
-### III.8.c — Election Audits
+### III.7.c — Election Audits
 
 Elections shall be subject to reasonable post-election auditing procedures established before the election.
 
 Audits shall be conducted according to neutral standards and shall not be selectively applied for political advantage.
 
-### III.8.d — Election Fraud and Interference
+### III.7.d — Election Fraud and Interference
 
 **Definitions:**
 
@@ -533,7 +458,7 @@ No person shall be deprived of constitutional rights solely on the basis of an a
 
 Penalties for election fraud or interference shall not restrict speech protected by I.1.a except as permitted by I.4.c.
 
-### III.8.e — Prohibited Election Conduct
+### III.7.e — Prohibited Election Conduct
 
 The following conduct, when done knowingly, is election fraud or election interference. Law shall make each punishable, with penalties consistent with II.7.
 
@@ -583,9 +508,9 @@ The following conduct, when done knowingly, is election fraud or election interf
 
 This subsection binds private actors as well as the government.
 
-### III.8.f — Protections in Enforcement
+### III.7.f — Protections in Enforcement
 
-The prosecution shall prove every element of an offense under III.8.e, including the required knowledge and intent, beyond a reasonable doubt (II.4.f).
+The prosecution shall prove every element of an offense under III.7.e, including the required knowledge and intent, beyond a reasonable doubt (II.4.f).
 
 No such offense shall be inferred solely from:
 
@@ -600,7 +525,7 @@ A challenge to a voter's eligibility filed by any person other than an election 
 
 No penalty for election fraud or interference shall suspend or diminish a person's voting right (III.1.b).
 
-### III.8.g — Investigation
+### III.7.g — Investigation
 
 The Election Authority shall investigate suspected election fraud and interference (III.3.c) and shall refer a violation it finds probable to the appropriate prosecuting authority. Every election official who becomes aware of suspected election fraud or interference shall report it to the Election Authority.
 
@@ -608,23 +533,23 @@ An investigation shall not:
 
 1. disclose how any individual voter voted, except as strictly necessary to investigate unlawful conduct concerning that ballot (III.1.d);
 2. be opened, expanded, or ended to advantage or disadvantage a candidate, political party, incumbent, or electoral faction; or
-3. delay the counting or certification of an election except by order of a court under Section 9.
+3. delay the counting or certification of an election except by order of a court under Section 8.
 
 After each election, the Election Authority shall publish a report stating the number of suspected violations investigated, referred, and found unfounded, without identifying any person who has not been charged.
 
-### III.8.h — Reporting Persons and Remedies
+### III.7.h — Reporting Persons and Remedies
 
 No person shall be dismissed, disciplined, threatened, or otherwise penalized for reporting in good faith suspected election fraud or interference to the Election Authority, a court, or a prosecuting authority, or for testifying in a proceeding concerning it. An election official also retains the protection of III.3.d.
 
-A voter, candidate, or election official harmed by conduct listed in III.8.e(6) through (23) may bring a civil action against the person responsible for damages, injunctive relief, and reasonable attorney's fees and costs. A court may issue an injunction during an election to stop ongoing intimidation or obstruction of voters.
+A voter, candidate, or election official harmed by conduct listed in III.7.e(6) through (23) may bring a civil action against the person responsible for damages, injunctive relief, and reasonable attorney's fees and costs. A court may issue an injunction during an election to stop ongoing intimidation or obstruction of voters.
 
-A civil action under this subsection does not challenge the result of an election. An election result may be challenged only under Section 9.
+A civil action under this subsection does not challenge the result of an election. An election result may be challenged only under Section 8.
 
 ---
 
-## Section 9 — Election Challenges and Judicial Review
+## Section 8 — Election Challenges and Judicial Review
 
-### III.9.a — Right to Challenge an Election
+### III.8.a — Right to Challenge an Election
 
 **Right:** A person directly and constitutionally affected by an alleged electoral violation shall have access to a judicial procedure capable of determining whether the election complied with this Constitution.
 
@@ -635,7 +560,7 @@ A civil action under this subsection does not challenge the result of an electio
 
 Government shall not prevent a lawful election challenge through unreasonable procedural barriers.
 
-### III.9.b — Election Remedies
+### III.8.b — Election Remedies
 
 A court with proper jurisdiction may order a remedy reasonably necessary to correct an established constitutional violation, including:
 
@@ -649,7 +574,7 @@ A court with proper jurisdiction may order a remedy reasonably necessary to corr
 
 A remedy shall be proportionate to the established violation.
 
-### III.9.c — Certification
+### III.8.c — Certification
 
 Election results shall not be considered final until the constitutionally required counting, verification, and certification procedures have been completed.
 
@@ -665,15 +590,15 @@ Nothing in this subsection prevents judicial review or other remedies necessary 
 
 ---
 
-## Section 10 — Constitutional Limits on Electoral Authority
+## Section 9 — Constitutional Limits on Electoral Authority
 
-### III.10.a — Constitutional Supremacy
+### III.9.a — Constitutional Supremacy
 
 **Right:** No governmental authority may diminish, circumvent, suspend, or nullify a right or limitation established by this Article except where this Constitution expressly permits it and the exception satisfies I.4.c.
 
 No statute, regulation, administrative action, district map, election procedure, or governmental practice may create a broader power than this Constitution grants.
 
-### III.10.b — Governmental Neutrality
+### III.9.b — Governmental Neutrality
 
 Government shall remain neutral among lawful candidates, political parties, political beliefs, and electoral factions.
 
@@ -681,7 +606,7 @@ Government resources and authority shall not be used to provide an unlawful elec
 
 Government shall not condition governmental services, employment, benefits, contracts, licenses, or other governmental privileges upon political support or electoral participation.
 
-### III.10.c — Anti-Circumvention
+### III.9.c — Anti-Circumvention
 
 No governmental authority may evade a constitutional election requirement by:
 
@@ -695,7 +620,7 @@ No governmental authority may evade a constitutional election requirement by:
 
 Where a governmental action has multiple possible applications, it shall be interpreted and applied consistently with the greater protection of the constitutional right.
 
-### III.10.d — Judicial Enforcement
+### III.9.d — Judicial Enforcement
 
 The judiciary shall have authority to determine whether governmental actions affecting elections comply with this Constitution.
 
@@ -703,7 +628,7 @@ Where a governmental action conflicts with this Article, the Constitution shall 
 
 No official's claim that an unconstitutional electoral action was required by ordinary law shall prevent judicial correction of that action.
 
-### III.10.e — Continuity of Democratic Government
+### III.9.e — Continuity of Democratic Government
 
 Elections shall occur at constitutionally established intervals.
 
@@ -717,9 +642,9 @@ A temporary inability to conduct an election shall not, by itself, extinguish th
 
 ---
 
-## Section 11 — Campaign Finance and Foreign Interference
+## Section 10 — Campaign Finance and Foreign Interference
 
-### III.11.a — Definitions
+### III.10.a — Definitions
 
 **Definitions:**
 
@@ -730,7 +655,7 @@ A temporary inability to conduct an election shall not, by itself, extinguish th
   2. refers to a clearly identified candidate and is distributed to voters within a period before an election established by law.
 * **Independent expenditure** means an electoral expenditure that is not coordinated.
 * **Organization** means a corporation, partnership, association, labor union, trust, or other entity that is not a natural person.
-* **Citizen association** means an organization that is funded solely by contributions from natural persons who are citizens, each subject to the limits established under III.11.b, and that is not owned, controlled, or funded by any other organization, except as III.11.c permits for administrative costs.
+* **Citizen association** means an organization that is funded solely by contributions from natural persons who are citizens, each subject to the limits established under III.10.b, and that is not owned, controlled, or funded by any other organization, except as III.10.c permits for administrative costs.
 * **News activity** means news reporting, commentary, or editorial content produced in the ordinary course of business by a press, broadcast, or online publication that is not owned or controlled by a candidate, campaign, or political party.
 * **Foreign source** means:
   1. a foreign government, or a person acting on its behalf;
@@ -744,9 +669,9 @@ A temporary inability to conduct an election shall not, by itself, extinguish th
 * **Small contribution** means a contribution at or below an amount established by law, in total from one contributor to one recipient during an election cycle.
 * **Federal office** means the office of President, Vice President, Senator, Representative, or judge of the Supreme Court.
 
-*(Election and citizen are defined in III.1.a. Thing of value is defined in III.8.d.)*
+*(Election and citizen are defined in III.1.a. Thing of value is defined in III.7.d.)*
 
-### III.11.b — Contributions
+### III.10.b — Contributions
 
 **Natural persons:** Law shall limit the amount that a natural person may contribute to any one candidate or campaign committee per election cycle, to any one political party per calendar year, and to any one citizen association per calendar year.
 
@@ -755,7 +680,7 @@ A temporary inability to conduct an election shall not, by itself, extinguish th
 1. a political party may contribute to, and make coordinated expenditures for, its own candidates without limit; and
 2. a citizen association may contribute to a candidate or campaign committee up to a limit established by law.
 
-**Candidates' own funds:** A candidate may spend their own funds on their own campaign without limit, except as III.11.e provides for a candidate who accepts public matching funds.
+**Candidates' own funds:** A candidate may spend their own funds on their own campaign without limit, except as III.10.e provides for a candidate who accepts public matching funds.
 
 **True source:** A contribution made through, or earmarked by way of, another person is a contribution by the original source, and counts toward both that source's limit and the intermediary's limit.
 
@@ -769,7 +694,7 @@ Every contribution limit shall:
 
 This subsection is an express constitutional permission for purposes of I.4.c.
 
-### III.11.c — Independent Expenditures
+### III.10.c — Independent Expenditures
 
 No organization shall make an independent expenditure in an election for federal office, except a political party or a citizen association.
 
@@ -782,13 +707,13 @@ No law shall limit:
 3. news activity; or
 4. communication by an organization about public issues that is not an electoral expenditure.
 
-An independent expenditure that is in fact coordinated is a contribution and is subject to III.11.b.
+An independent expenditure that is in fact coordinated is a contribution and is subject to III.10.b.
 
-Every person who makes independent expenditures remains subject to III.11.d.
+Every person who makes independent expenditures remains subject to III.10.d.
 
 This subsection is an express constitutional permission for purposes of I.4.c.
 
-### III.11.d — Disclosure
+### III.10.d — Disclosure
 
 **Reports:** Every campaign committee, political party, and citizen association shall file reports with the Election Authority at regular intervals established by law, and more frequently in the period immediately before an election. Each report shall state:
 
@@ -810,7 +735,7 @@ A person may give to an organization on the written condition that the gift not 
 
 **Exemption:** A court shall exempt a contributor from public identification where the contributor shows a reasonable probability that disclosure would expose them to threats, harassment, or reprisal because of the contribution. The application and the contributor's identity shall be sealed. The exempted information shall remain available to the Election Authority.
 
-### III.11.e — Public Financing
+### III.10.e — Public Financing
 
 **Program:** A program of public matching funds is established for candidates for federal office and shall be administered by the Election Authority (III.3).
 
@@ -818,7 +743,7 @@ A person may give to an organization on the written condition that the gift not 
 
 **Conditions:** A participating candidate shall:
 
-1. accept no contribution from any natural person above a limit established by law, which shall be lower than the limit otherwise established under III.11.b;
+1. accept no contribution from any natural person above a limit established by law, which shall be lower than the limit otherwise established under III.10.b;
 2. accept no contribution from any citizen association;
 3. spend no more of their own funds on their own campaign than an amount established by law;
 4. use matching funds only for campaign purposes; and
@@ -834,7 +759,7 @@ A person may give to an organization on the written condition that the gift not 
 
 Any state or territory may establish a similar program for its own elections.
 
-### III.11.f — Foreign Interference
+### III.10.f — Foreign Interference
 
 **Rule:** No foreign source shall, directly or indirectly:
 
@@ -857,19 +782,19 @@ Any communication intended to influence an election that is paid for, produced, 
 
 This subsection applies to every election held within the United States. It is an express constitutional permission for purposes of I.4.c.
 
-### III.11.g — Use of Campaign Funds
+### III.10.g — Use of Campaign Funds
 
 Contributions and public matching funds shall be used only for campaign purposes and for the ordinary expenses of holding the office sought.
 
 No candidate, campaign committee, or political party shall use contributions for personal use, including personal living expenses, personal debts, or payments to the candidate or a family member for services not actually provided at fair market value.
 
-### III.11.h — Supreme Court Elections
+### III.10.h — Supreme Court Elections
 
-This Section applies to elections for judge of the Supreme Court, subject to VI.2.c. No political party shall make a contribution, coordinated expenditure, or independent expenditure for or against a candidate for the Supreme Court.
+This Section applies to elections for judge of the Supreme Court, subject to VI.2.f. No political party shall make a contribution, coordinated expenditure, or independent expenditure for or against a candidate for the Supreme Court.
 
-### III.11.i — Scope, Enforcement, and Limits
+### III.10.i — Scope, Enforcement, and Limits
 
-**Scope:** III.11.b, III.11.c, III.11.d, III.11.e, III.11.g, and III.11.h apply to elections for federal office. III.11.f applies to every election. Each state and territory shall establish rules for its own elections consistent with this Section, and may adopt stricter limits that satisfy III.11.b.
+**Scope:** III.10.b, III.10.c, III.10.d, III.10.e, III.10.g, and III.10.h apply to elections for federal office. III.10.f applies to every election. Each state and territory shall establish rules for its own elections consistent with this Section, and may adopt stricter limits that satisfy III.10.b.
 
 **Enforcement:** Congress shall enact laws enforcing this Section, including civil and criminal penalties consistent with due process (II.1.a) and II.7. The Election Authority shall audit reports, investigate compliance under III.3.c, and may impose a civil penalty only after notice and a hearing, subject to judicial review. Criminal penalties shall apply only to knowing and willful violations.
 
@@ -881,6 +806,6 @@ No law or action under this Section shall:
 
 1. restrict news activity;
 2. restrict speech or spending other than as this Section expressly permits;
-3. favor or disfavor a candidate, political party, political belief, or electoral faction (III.10.b);
+3. favor or disfavor a candidate, political party, political belief, or electoral faction (III.9.b);
 4. restrict communication about public issues that is not an electoral expenditure; or
 5. change a contribution limit, expenditure limit, disclosure requirement, or the terms of public financing for an election in which voting has begun (III.2.d). An inflation adjustment takes effect only at the start of an election cycle.

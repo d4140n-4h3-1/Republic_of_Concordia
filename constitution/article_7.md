@@ -10,7 +10,9 @@ Every person born outside the United States to at least one parent who is a citi
 
 A child born within the United States to a foreign diplomat who has diplomatic immunity is not a citizen by birth, unless the child would otherwise be stateless.
 
-**Definition:** *Within the United States* means within any constituent jurisdiction (VII.2.a).
+**Definitions:**
+
+* **Within the United States** means within any constituent jurisdiction (VII.2.a).
 
 ### VII.1.b — Citizenship by Adoption and Naturalization
 
@@ -125,4 +127,4 @@ A person charged with a crime in one constituent jurisdiction who is found in an
 
 ### VII.4.d — Disputes Between Jurisdictions
 
-Disputes between constituent jurisdictions, or between a constituent jurisdiction and the United States, shall be decided by the Supreme Court (VI.2.d).
+Disputes between constituent jurisdictions, or between a constituent jurisdiction and the United States, shall be decided by the Supreme Court (VI.2.k).

@@ -1,7 +1,5 @@
 # ARTICLE V — THE EXECUTIVE POWER
 
-> **Draft note:** Age, term, term-limit, and oath rules for the President and Vice President are not repeated here; they come from III.5, III.6, and III.6.c.
-
 ## Section 1 — Vesting of Executive Power
 
 ### V.1.a — The President
@@ -33,6 +31,8 @@ The President shall spend appropriated funds as Congress directs, and shall not 
 ---
 
 ## Section 2 — Election and Qualifications
+
+*(Age, term, term-limit, and oath rules for the President and Vice President are in III.5, III.6, and III.6.c, and are not repeated here.)*
 
 ### V.2.a — Election of the President and Vice President
 
@@ -207,12 +207,12 @@ During an emergency, the President may exercise only emergency powers that Congr
 No emergency declaration shall:
 
 1. suspend or narrow a right established by Article I, II, III, or X beyond what I.4.c would permit without an emergency;
-2. postpone, cancel, or alter an election, or extend any term of office (III.10.e);
+2. postpone, cancel, or alter an election, or extend any term of office (III.9.e);
 3. adjourn, dissolve, or obstruct Congress or any court;
 4. authorize spending without an appropriation (IV.10.a); or
 5. create a criminal offense.
 
-This Section is the only authorization for emergency powers in this Constitution, and it does not authorize altering an election for purposes of III.10.e.
+This Section is the only authorization for emergency powers in this Constitution, and it does not authorize altering an election for purposes of III.9.e.
 
 ### V.6.d — Judicial Review
 
