@@ -23,7 +23,7 @@ The repository has two parts:
 | [VI](constitution/article_6.md) | The Judicial Power | Structure of the courts; Supreme Court jurisdiction; judicial review; judicial independence, ethics and discipline |
 | [VII](constitution/article_7.md) | Citizenship and the Union | Citizenship; states, territories and the capital district; reserved powers; relations among the jurisdictions |
 | [VIII](constitution/article_8.md) | Supremacy, Ratification, and Transition | Supremacy of the Constitution; ratification by referendum; transition to the first government |
-| [IX](constitution/article_9.md) | Amendment of This Constitution | Proposal by Congress; national referendum; rights that no amendment may reduce |
+| [IX](constitution/article_9.md) | Amendment of This Constitution | Proposal by Congress; national referendum; rights that no amendment may reduce; a narrow path for correcting drafting errors |
 
 ## Key Features
 

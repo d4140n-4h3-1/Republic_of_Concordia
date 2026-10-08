@@ -47,7 +47,7 @@ A ratified amendment becomes part of this Constitution upon certification of the
 
 ### IX.3.a — Protection of Fundamental Rights
 
-No amendment shall repeal, narrow, suspend, or create a new exception to a right established by Article I, Article II, or Article III.
+Except as IX.3.d permits, no amendment shall repeal, narrow, suspend, or create a new exception to a right established by Article I, Article II, or Article III.
 
 This limit applies to an amendment that would accomplish the same result indirectly, including by changing a definition used in those Articles, by altering the constitutional standard for exceptions in I.4.c or II.10.d, or by lengthening a time limit or weakening a procedure that protects such a right.
 
@@ -61,6 +61,28 @@ No amendment shall repeal, narrow, or suspend this Section.
 
 ### IX.3.c — Judicial Review of Amendments
 
-A court of competent jurisdiction may determine whether an amendment was proposed and ratified in compliance with this Article and whether it violates IX.3.a.
+A court of competent jurisdiction may determine whether an amendment was proposed and ratified in compliance with this Article and whether it violates IX.3.a or exceeds IX.3.d.
 
-An amendment that violates IX.3.a shall have no legal effect.
+An amendment that violates IX.3.a or exceeds IX.3.d shall have no legal effect.
+
+### IX.3.d — Technical Corrections
+
+**Definitions:**
+
+* **Drafting error** means a clerical or typographical error, an incorrect cross-reference, a contradiction between two provisions of this Constitution, or wording that produces a result clearly contrary to the evident purpose of the provision in which it appears.
+* **Correction amendment** means an amendment proposed and ratified under this subsection.
+
+A correction amendment may change a provision of Article I, II, or III to correct a drafting error, even if the correction narrows a right or creates an exception to it, only if all of the following are met:
+
+1. **Single error:** the amendment corrects one drafting error, in no more than one subsection, and states in its text the error it corrects and the purpose of the provision as written.
+2. **Smallest change:** the amendment makes the smallest change that corrects the error.
+3. **Protected core:** the amendment does not repeal a right, does not change I.4.c, II.10.d, IX.3.a, IX.3.b, or this subsection, and does not change a definition used in those provisions.
+4. **No retroactive harm:** the amendment does not make punishable any conduct that occurred before it took effect, and does not take away a remedy for a violation that occurred before it took effect.
+
+**Procedure:** A correction amendment requires all of the following, in this order:
+
+1. proposal by a vote of three-fourths of all members of each House of Congress, under IX.1;
+2. certification by the Supreme Court, after public briefing and argument, that the amendment corrects a drafting error and satisfies this subsection. The Court shall decide within one hundred eighty days after the proposal. An amendment that is not certified shall not be submitted to the voters; and
+3. ratification by referendum under IX.2.a, approved, in place of the majorities in IX.2.b, by both three-fifths of all votes cast on the amendment nationwide and a majority of the votes cast on the amendment in two-thirds of the constituent jurisdictions (VII.2.a).
+
+An amendment that does not narrow a right or create an exception to it does not need to use this subsection.
