@@ -387,7 +387,7 @@ Every federal term filled at a general election begins on the seventy-fifth day 
 
 ### III.6.a — Age Eligibility
 
-**Rule:** No person younger than thirty-five years of age, or sixty-five years of age or older, may be elected to an ordinary elected office.
+**Rule:** No person younger than thirty years of age, or sixty-five years of age or older, may be elected to an ordinary elected office.
 
 **Definitions:**
 
