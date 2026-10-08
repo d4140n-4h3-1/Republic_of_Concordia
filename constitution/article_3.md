@@ -18,7 +18,7 @@ No government shall deny, abridge, or substantially burden the voting right exce
 
 Voter registration and identity verification procedures are permitted when reasonably necessary to administer elections, provided they do not impose unnecessary barriers to voting.
 
-No person's vote shall receive greater or lesser legal weight solely because of political belief, political affiliation, protected status, wealth, property ownership, or social status.
+No person's vote shall receive greater or lesser legal weight because of political belief, political affiliation, protected status, wealth, property ownership, or social status.
 
 ### III.1.b — Voting Rights During Custody
 

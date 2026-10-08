@@ -29,8 +29,9 @@ Congress shall have power to:
 13. raise, organize, regulate, and maintain the armed forces, subject to civilian constitutional control;
 14. provide for the execution of federal law;
 15. enforce Articles I, II, and III against every level of government, by laws that establish uniform standards of governmental conduct protecting the rights those Articles establish and that provide remedies for their violation; such laws may give greater protection than those Articles require, but shall not reduce it;
-16. enact laws necessary and proper to carry into execution powers vested by this Constitution in the federal government; and
-17. exercise such other legislative powers as are expressly granted by this Constitution.
+16. prohibit discrimination because of protected status (I.4.a) by private actors in employment, housing, education, credit, and public accommodations, and provide remedies for it, subject to the freedoms of Article I, Section 1;
+17. enact laws necessary and proper to carry into execution powers vested by this Constitution in the federal government; and
+18. exercise such other legislative powers as are expressly granted by this Constitution.
 
 No law shall enlarge a power beyond the authority granted by this Constitution.
 
