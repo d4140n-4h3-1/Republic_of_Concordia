@@ -1,17 +1,15 @@
 # ARTICLE I — FUNDAMENTAL RIGHTS AND LIBERTIES
 
-> **Draft note:** Changes from your last version are marked **[NEW]** or **[REVISED]**. The same conventions apply to Articles II and III.
+## Section 0 — Common Definitions
 
-## Section 0 — Common Definitions **[NEW]**
-
-### I.0.a — Terms Used Throughout This Constitution **[REVISED]**
+### I.0.a — Terms Used Throughout This Constitution
 
 * **Government** means any national, regional, or local governmental body, agency, official, or person exercising governmental authority under this Constitution.
 * **Religion** means a system of spiritual, theological, or sacred beliefs and practices, and a person's affiliation with such a system.
 * **Belief** means a sincerely held conviction concerning matters of religion, philosophy, morality, or existence.
 * **Non-belief** means the absence of religious or supernatural belief.
 * **Conscience** means an individual's sincerely held moral or ethical convictions.
-* **Religious leave** means a day on which a person abstains from work because of a sincerely held religion or belief, including recurring days of the week and religious or observance holidays, as designated by that person according to law. **[NEW]**
+* **Religious leave** means a day on which a person abstains from work because of a sincerely held religion or belief, including recurring days of the week and religious or observance holidays, as designated by that person according to law.
 
 These definitions apply throughout this Constitution unless a provision expressly states otherwise.
 
@@ -41,11 +39,11 @@ The government shall not abridge these rights on the basis of viewpoint or polit
 
 * **Religious practice** means an act, observance, ritual, or omission undertaken as an expression of religious belief.
 
-*(Religion, belief, non-belief, and conscience are defined in I.0.a.)* **[REVISED]**
+*(Religion, belief, non-belief, and conscience are defined in I.0.a.)*
 
 No person shall be compelled to profess, practice, support, or participate in a religion or religious practice. The government shall neither establish a religion nor discriminate in favor of or against any religion, belief, or non-belief.
 
-### I.1.c — Freedom from Slavery and Serfdom **[NEW]**
+### I.1.c — Freedom from Slavery and Serfdom
 
 **Right:** No person shall be held in slavery or serfdom.
 
@@ -66,7 +64,7 @@ No law, contract, or custom that establishes or recognizes slavery or serfdom sh
 
 Congress shall enact laws enforcing this subsection, including criminal penalties for those who hold or traffic persons in slavery or serfdom and remedies for those so held.
 
-### I.1.d — Freedom from Involuntary Servitude **[NEW]**
+### I.1.d — Freedom from Involuntary Servitude
 
 **Right:** No person shall be held in involuntary servitude, except as permitted by this subsection.
 
@@ -120,9 +118,9 @@ The government shall maintain and support an educational system reasonably acces
 
 Education shall promote literacy, knowledge, critical reasoning, scientific and cultural understanding, and the capacity for informed civic participation.
 
-**Levels and cost [NEW]:** Public primary, secondary, higher, and vocational education shall be provided free of charge. Admission to public higher and vocational education may be based on neutral academic criteria.
+**Levels and cost:** Public primary, secondary, higher, and vocational education shall be provided free of charge. Admission to public higher and vocational education may be based on neutral academic criteria.
 
-**Private and home education [NEW]:** Every person shall have the right to pursue private education or home education, subject to minimum educational standards established by law consistent with this Section.
+**Private and home education:** Every person shall have the right to pursue private education or home education, subject to minimum educational standards established by law consistent with this Section.
 
 ---
 
@@ -143,8 +141,8 @@ Education shall promote literacy, knowledge, critical reasoning, scientific and 
 * **Defense of others** means the reasonable use of force or other necessary measures by a person to prevent or stop an imminent unlawful threat of bodily harm to another person.
 * **Imminent danger** means a threat of harm that is occurring or reasonably appears likely to occur without sufficient opportunity for ordinary protective intervention.
 * **Reasonable force** means force proportionate to the nature and immediacy of the threat and reasonably necessary to prevent or stop it.
-* **Person in custody** means a person held under any custodial category established in Article II. **[REVISED]**
-* **Lawful custodial necessity** means an interference with bodily autonomy that is expressly authorized by law and strictly necessary to carry out the lawful purpose of the custody (including a lawful sentence), prevent escape, or protect the life or physical safety of the person in custody or another person. **[REVISED]**
+* **Person in custody** means a person held under any custodial category established in Article II.
+* **Lawful custodial necessity** means an interference with bodily autonomy that is expressly authorized by law and strictly necessary to carry out the lawful purpose of the custody (including a lawful sentence), prevent escape, or protect the life or physical safety of the person in custody or another person.
 * **Surrogate decision-maker** means a person lawfully authorized to make a decision on behalf of a person who is not competent to make it.
 
 No person shall be subjected to medical treatment, physical intrusion, reproductive intervention, or other substantial interference with their body without informed and voluntary consent, except as expressly permitted by this Constitution.
@@ -153,17 +151,17 @@ Every competent person shall have the right to make decisions concerning their o
 
 **Persons unable to consent:** Where a person is not competent, consent may be given by a surrogate decision-maker acting in that person's best interests. Where a person is unconscious or otherwise unable to consent and delay would create imminent danger to their life or health, emergency treatment reasonably necessary to preserve life or health is permitted.
 
-**Minors [NEW]:** A minor who has reached sixteen years of age shall have the right to make decisions concerning their own body and medical care as a competent person. Except as provided in the next paragraph, decisions for a younger minor shall be made by a parent or legal guardian in the minor's best interests, giving the minor's views weight that increases with the minor's age and maturity. A court may intervene where such a decision threatens the minor's life or health.
+**Minors:** A minor who has reached sixteen years of age shall have the right to make decisions concerning their own body and medical care as a competent person. Except as provided in the next paragraph, decisions for a younger minor shall be made by a parent or legal guardian in the minor's best interests, giving the minor's views weight that increases with the minor's age and maturity. A court may intervene where such a decision threatens the minor's life or health.
 
 Decisions concerning a minor's contraception and pregnancy, including whether to continue or end a pregnancy, belong to the minor at every age. No parent, legal guardian, court, or government shall compel a minor to continue or end a pregnancy.
 
 No minor shall be sterilized, whether by the minor's own decision or by the decision of a parent or legal guardian, unless sterilization is medically necessary to treat a serious illness or condition, such as cancer, that threatens the minor's life or health. A medically necessary sterilization shall be decided under the rules for minors in this subsection.
 
-**Public health [NEW]:** Interference with bodily autonomy to prevent imminent, serious harm to others from a communicable disease or from dangerous incapacity is permitted only under I.4.c, with judicial review within the period set for prompt review in II.3.c.
+**Public health:** Interference with bodily autonomy to prevent imminent, serious harm to others from a communicable disease or from dangerous incapacity is permitted only under I.4.c, with judicial review within the period set for prompt review in II.3.c.
 
-**Reproduction [NEW]:** Decisions concerning reproduction include decisions concerning contraception, abortion, assisted reproduction, and sterilization, subject to the limits on sterilization of minors in this subsection.
+**Reproduction:** Decisions concerning reproduction include decisions concerning contraception, abortion, assisted reproduction, and sterilization, subject to the limits on sterilization of minors in this subsection.
 
-**Exception for Lawful Custody [REVISED]:** The rights established by this subsection may be restricted with respect to a person in custody only to the extent required by lawful custodial necessity, and only in compliance with II.2.o and II.10.d. No restriction shall extend beyond what is strictly necessary for that purpose.
+**Exception for Lawful Custody:** The rights established by this subsection may be restricted with respect to a person in custody only to the extent required by lawful custodial necessity, and only in compliance with II.2.o and II.10.d. No restriction shall extend beyond what is strictly necessary for that purpose.
 
 A person in non-punitive custody shall be subject only to restrictions necessary for the specific purpose of that custodial category. No restriction that depends on a criminal sentence shall be imposed on a person who is not in punitive custody (II.2.i).
 
@@ -197,11 +195,11 @@ Every person shall have the right to take reasonable measures to defend themselv
 * **Age of majority** means eighteen years of age. A person reaches the age of majority upon attaining their eighteenth birthday.
 * **Socioeconomic status** means a person's economic and social position as reasonably determined by factors such as income, wealth, occupation, or access to resources.
 
-*(Religion, belief, and non-belief are defined in I.0.a.)* **[REVISED]**
+*(Religion, belief, and non-belief are defined in I.0.a.)*
 
 No person shall be denied a right, benefit, protection, opportunity, or service provided by law solely because of protected status, except where a distinction satisfies the constitutional standard for exceptions established in I.4.c.
 
-**Age-based distinctions [NEW]:** A distinction based on age that this Constitution expressly establishes (including the age of majority, the voting age, age requirements for elected office, and special protections for minors) is a constitutional exception that applies as written under I.4.c and shall apply equally to all persons of the same age. An age-based distinction not expressly established by this Constitution remains subject to I.4.c.
+**Age-based distinctions:** A distinction based on age that this Constitution expressly establishes (including the age of majority, the voting age, age requirements for elected office, and special protections for minors) is a constitutional exception that applies as written under I.4.c and shall apply equally to all persons of the same age. An age-based distinction not expressly established by this Constitution remains subject to I.4.c.
 
 ### I.4.b — Application
 
@@ -215,9 +213,9 @@ The government shall establish no hierarchy of human worth or civil rights based
 
 Unless expressly provided elsewhere in this Constitution, this Article shall not impose constitutional obligations upon private actors solely by virtue of their private status.
 
-*(Government is defined in I.0.a.)* **[REVISED]**
+*(Government is defined in I.0.a.)*
 
-**Conflicts between rights [NEW]:** Where the exercise of one right would infringe the fundamental rights of another person, the conflict shall be resolved under I.4.c.
+**Conflicts between rights:** Where the exercise of one right would infringe the fundamental rights of another person, the conflict shall be resolved under I.4.c.
 
 ### I.4.c — Constitutional Standard for Exceptions
 
@@ -236,9 +234,9 @@ A constitutional right shall not be restricted unless either:
 1. This Constitution expressly permits the restriction; or
 2. The restriction is necessary to protect the fundamental rights of another person as recognized by this Constitution.
 
-Where this Constitution itself fixes a specific restriction (for example, a stated age requirement), that restriction applies as written. Every other restriction, including any law or governmental action relying on an express permission, shall satisfy all of the following requirements: **[REVISED]**
+Where this Constitution itself fixes a specific restriction (for example, a stated age requirement), that restriction applies as written. Every other restriction, including any law or governmental action relying on an express permission, shall satisfy all of the following requirements:
 
-1. **Constitutional authorization:** The restriction must have a specific basis in this Constitution, either an express permission or the protection of another person's fundamental rights as recognized by this Constitution. **[REVISED]**
+1. **Constitutional authorization:** The restriction must have a specific basis in this Constitution, either an express permission or the protection of another person's fundamental rights as recognized by this Constitution.
 2. **Compelling interest:** The restriction must serve a compelling governmental interest or protect the fundamental rights of another person.
 3. **Narrow tailoring:** The restriction must be narrowly tailored to that purpose.
 4. **Least restrictive means:** No reasonably available, less restrictive measure may provide substantially equivalent protection.

@@ -1,6 +1,6 @@
 # ARTICLE VIII — SUPREMACY, RATIFICATION, AND TRANSITION
 
-> **Draft note:** This entire Article is **[NEW]**. "The Founding Convention" names the body that proposes this Constitution; rename it to fit the story.
+> **Draft note:** "The Founding Convention" names the body that proposes this Constitution; rename it to fit the story.
 
 ## Section 1 — Supremacy of This Constitution
 

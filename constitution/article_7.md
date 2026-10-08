@@ -1,7 +1,5 @@
 # ARTICLE VII — CITIZENSHIP AND THE UNION
 
-> **Draft note:** This entire Article is **[NEW]**.
-
 ## Section 1 — Citizenship
 
 ### VII.1.a — Citizenship by Birth

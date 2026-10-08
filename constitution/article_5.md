@@ -1,6 +1,6 @@
 # ARTICLE V — THE EXECUTIVE POWER
 
-> **Draft note:** This entire Article is **[NEW]**. Age, term, term-limit, and oath rules for the President and Vice President are not repeated here; they come from III.5, III.6, and III.6.c.
+> **Draft note:** Age, term, term-limit, and oath rules for the President and Vice President are not repeated here; they come from III.5, III.6, and III.6.c.
 
 ## Section 1 — Vesting of Executive Power
 
@@ -129,7 +129,7 @@ The President may remove any executive officer the President appointed, except w
 
 The President shall not remove or direct members of the Election Authority (III.3.b) or the districting commission (III.4.c).
 
-Congress may by law provide that the head of an office established to investigate or prosecute misconduct by government officers may be removed only for cause stated in that law, and that no official may direct the office in a particular investigation or prosecution. Such a law shall permit judicial review of a removal. **[NEW]**
+Congress may by law provide that the head of an office established to investigate or prosecute misconduct by government officers may be removed only for cause stated in that law, and that no official may direct the office in a particular investigation or prosecution. Such a law shall permit judicial review of a removal.
 
 Judges may be removed only by impeachment, or for permanent incapacity under VI.4.f.
 
