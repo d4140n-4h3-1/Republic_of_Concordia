@@ -1,6 +1,6 @@
 # ARTICLE VI — THE JUDICIAL POWER
 
-> **Draft note:** This entire Article is **[NEW]**. The election, qualifications, term, and vacancies of Supreme Court judges remain in Article III, Section 7, and the appointment and tenure of inferior-court judges remain in V.4; they are not repeated here.
+> **Draft note:** The election, qualifications, term, and vacancies of Supreme Court judges remain in Article III, Section 7, and the appointment and tenure of inferior-court judges remain in V.4; they are not repeated here.
 
 ## Section 1 — Vesting of Judicial Power
 

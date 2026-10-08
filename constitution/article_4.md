@@ -1,6 +1,6 @@
 # ARTICLE IV — THE LEGISLATIVE POWER
 
-> **Draft note:** Changes from your last version are marked **[NEW]** or **[REVISED]**. This version removes provisions that repeated Articles I and III and replaces them with cross-references, so that qualifications, terms, oaths, and rights limits are stated in one place only.
+> **Draft note:** This version removes provisions that repeated Articles I and III and replaces them with cross-references, so that qualifications, terms, oaths, and rights limits are stated in one place only.
 
 ## Section 1 — Vesting of Legislative Power
 
@@ -10,31 +10,31 @@ The legislative power of the United States is vested in a Congress consisting of
 
 Congress shall exercise only legislative powers granted to it by this Constitution.
 
-### IV.1.b — Enumerated Legislative Powers **[REVISED]**
+### IV.1.b — Enumerated Legislative Powers
 
 Congress shall have power to:
 
 1. enact laws within the jurisdiction granted to the federal government by this Constitution;
 2. lay and collect taxes, duties, imposts, and excises, subject to this Constitution;
 3. appropriate public funds;
-4. borrow money on the credit of the United States; **[NEW]**
-5. issue currency and regulate its value; **[NEW]**
+4. borrow money on the credit of the United States;
+5. issue currency and regulate its value;
 6. regulate interstate and foreign commerce and other matters expressly placed within federal jurisdiction;
 7. establish courts inferior to the Supreme Court;
 8. establish executive departments and administrative agencies as authorized by law;
 9. establish uniform rules concerning naturalization and citizenship where authorized by this Constitution;
-10. make laws for the territories and the federal capital district, subject to VII.2.f and VII.3.c; **[NEW]**
+10. make laws for the territories and the federal capital district, subject to VII.2.f and VII.3.c;
 11. provide for the common defense;
-12. declare war and authorize the sustained use of armed force; **[NEW]**
+12. declare war and authorize the sustained use of armed force;
 13. raise, organize, regulate, and maintain the armed forces, subject to civilian constitutional control;
 14. provide for the execution of federal law;
-15. enforce Articles I, II, and III against every level of government, by laws that establish uniform standards of governmental conduct protecting the rights those Articles establish and that provide remedies for their violation; such laws may give greater protection than those Articles require, but shall not reduce it; **[NEW]**
+15. enforce Articles I, II, and III against every level of government, by laws that establish uniform standards of governmental conduct protecting the rights those Articles establish and that provide remedies for their violation; such laws may give greater protection than those Articles require, but shall not reduce it;
 16. enact laws necessary and proper to carry into execution powers vested by this Constitution in the federal government; and
 17. exercise such other legislative powers as are expressly granted by this Constitution.
 
 No law shall enlarge a power beyond the authority granted by this Constitution.
 
-### IV.1.c — Legislative Limits **[REVISED]**
+### IV.1.c — Legislative Limits
 
 Every law enacted by Congress is subject to Article I. A law that restricts a constitutional right shall satisfy I.4.c.
 
@@ -56,7 +56,7 @@ No delegated authority shall exceed the authority Congress itself possesses.
 
 ## Section 2 — House of Representatives
 
-### IV.2.a — Composition **[REVISED]**
+### IV.2.a — Composition
 
 The House of Representatives shall consist of members elected from districts established under Article III, Section 4.
 
@@ -64,17 +64,17 @@ The House of Representatives shall consist of members elected from districts est
 
 Representatives shall be elected by the qualified voters of their respective districts.
 
-### IV.2.c — Qualifications **[REVISED]**
+### IV.2.c — Qualifications
 
 A Representative shall be a citizen of the United States and shall satisfy the age eligibility and other qualifications established by III.6.
 
-A Representative shall have resided in the constituent jurisdiction (VII.2.a) containing the district represented for at least one year immediately before the election. A change in district boundaries under Article III, Section 4 shall not disqualify a Representative who satisfies this requirement. **[NEW]**
+A Representative shall have resided in the constituent jurisdiction (VII.2.a) containing the district represented for at least one year immediately before the election. A change in district boundaries under Article III, Section 4 shall not disqualify a Representative who satisfies this requirement.
 
-### IV.2.d — Terms **[REVISED]**
+### IV.2.d — Terms
 
 Representatives serve the term established by III.5.a and are subject to the term limits of III.5.b and III.5.c.
 
-### IV.2.e — Vacancies **[REVISED]**
+### IV.2.e — Vacancies
 
 When a vacancy occurs in the House, the affected district shall elect a successor according to law.
 
@@ -86,7 +86,7 @@ A temporary appointment may be made only under IV.4.e.
 
 ### IV.3.a — Composition
 
-Each constituent jurisdiction (VII.2.a) shall elect two Senators. **[REVISED]**
+Each constituent jurisdiction (VII.2.a) shall elect two Senators.
 
 Each Senator shall possess one vote.
 
@@ -94,19 +94,19 @@ Each Senator shall possess one vote.
 
 Senators shall be elected by the qualified voters of the jurisdiction they represent.
 
-### IV.3.c — Qualifications **[REVISED]**
+### IV.3.c — Qualifications
 
 A Senator shall be a citizen of the United States and shall satisfy the age eligibility and other qualifications established by III.6.
 
-A Senator shall have resided in the jurisdiction represented for at least one year immediately before the election. **[NEW]**
+A Senator shall have resided in the jurisdiction represented for at least one year immediately before the election.
 
-### IV.3.d — Terms **[REVISED]**
+### IV.3.d — Terms
 
 Senators serve the term established by III.5.a and are subject to the term limits of III.5.b and III.5.c.
 
 Senate elections shall be staggered so that approximately one-half of the Senate is elected every two years.
 
-### IV.3.e — Vacancies **[REVISED]**
+### IV.3.e — Vacancies
 
 When a vacancy occurs in the Senate, the affected jurisdiction shall elect a successor according to law.
 
@@ -142,7 +142,7 @@ Congress shall assemble at least once each calendar year.
 
 Neither House shall adjourn for an extended period without the consent of the other House where such adjournment would prevent the constitutional functioning of Congress.
 
-### IV.4.e — Temporary Appointments **[NEW]**
+### IV.4.e — Temporary Appointments
 
 A vacancy in either House may be filled by temporary appointment only where necessary to preserve representation until the successor elected under IV.2.e or IV.3.e assumes office. The appointment shall terminate when the elected successor assumes office.
 
@@ -163,7 +163,7 @@ No appointee shall be required to vote according to the direction of any politic
 
 ## Section 5 — Legislative Procedure
 
-### IV.5.a — Passage of Bills **[REVISED]**
+### IV.5.a — Passage of Bills
 
 A bill shall become law only after:
 
@@ -206,7 +206,7 @@ Each House and its committees may conduct investigations reasonably related to a
 
 An investigation shall not be used as a substitute for a criminal prosecution or judicial proceeding.
 
-### IV.6.b — Constitutional Limits **[REVISED]**
+### IV.6.b — Constitutional Limits
 
 Congress shall not investigate, compel testimony, or demand records for the purpose of punishing a person for exercising a constitutional right.
 
@@ -239,13 +239,13 @@ The President may veto a bill by returning it to the House in which it originate
 
 The President shall not veto a bill selectively by deleting or altering individual provisions.
 
-### IV.7.d — Failure to Act **[REVISED]**
+### IV.7.d — Failure to Act
 
 If the President neither signs nor vetoes a bill within ten days after presentation, excluding days of the President's religious leave (I.0.a), the bill shall become law unless Congress has adjourned in a manner that prevents its return.
 
-A day counts as religious leave for this purpose only if the President publicly designated it in advance. The President shall make this designation upon taking office and may amend it once each calendar year. An amendment shall not apply to a bill presented before the amendment was made public. **[NEW]**
+A day counts as religious leave for this purpose only if the President publicly designated it in advance. The President shall make this designation upon taking office and may amend it once each calendar year. An amendment shall not apply to a bill presented before the amendment was made public.
 
-No more than ten days of religious leave shall be excluded from the review period of any one bill. **[NEW]**
+No more than ten days of religious leave shall be excluded from the review period of any one bill.
 
 ### IV.7.e — Veto Override
 
@@ -257,7 +257,7 @@ Upon such vote, the bill shall become law.
 
 ## Section 8 — Legislative Immunities and Ethics
 
-### IV.8.a — Oath **[REVISED]**
+### IV.8.a — Oath
 
 Members of Congress shall take the oath required by III.6.c before exercising legislative authority.
 
@@ -325,7 +325,7 @@ Judgment upon conviction shall extend only to:
 
 Impeachment shall not prevent criminal prosecution or civil liability for conduct independently subject to such proceedings.
 
-### IV.9.f — Presidential Impeachment Trial **[REVISED]**
+### IV.9.f — Presidential Impeachment Trial
 
 When the President is tried, the Supreme Court judge with the longest current continuous service shall preside over the Senate. Where two or more judges have equal service, the presiding judge shall be chosen among them by lot.
 
@@ -369,7 +369,7 @@ Congress shall establish laws governing temporary vacancies and inability to per
 
 ---
 
-## Section 12 — Subordination of Legislation to the Constitution **[REVISED]**
+## Section 12 — Subordination of Legislation to the Constitution
 
 ### IV.12.a — Invalid Legislation
 

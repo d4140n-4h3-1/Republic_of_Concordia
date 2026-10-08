@@ -1,6 +1,6 @@
 # ARTICLE IX — AMENDMENT OF THIS CONSTITUTION
 
-> **Draft note:** This entire Article is **[NEW]**. This is the last Article.
+> **Draft note:** This is the last Article.
 
 ## Section 1 — Proposal
 

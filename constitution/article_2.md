@@ -1,7 +1,5 @@
 # ARTICLE II — CUSTODY AND JUSTICE
 
-> **Draft note:** Changes from your last version are marked **[NEW]** or **[REVISED]**.
-
 ## Section 1 — Justice and Due Process
 
 ### II.1.a — Right to Due Process
@@ -60,7 +58,7 @@ The person's custodial category shall be recorded and communicated to the person
 
 Investigative detention shall be based upon reasonable suspicion supported by specific and articulable facts.
 
-Investigative detention shall last no longer than reasonably necessary for its lawful purpose, and in no event longer than twenty-four hours without release, arrest, or lawful conversion to another custodial category. **[NEW]**
+Investigative detention shall last no longer than reasonably necessary for its lawful purpose, and in no event longer than twenty-four hours without release, arrest, or lawful conversion to another custodial category.
 
 Investigative detention shall not constitute punishment.
 
@@ -80,7 +78,7 @@ Arrest custody shall not constitute a criminal sentence.
 
 **Definition:** Pretrial custody means custody after arrest and before final adjudication.
 
-Pretrial custody shall be imposed only on a ground permitted by II.3.d and only when no less restrictive measure is adequate for that ground. **[REVISED]**
+Pretrial custody shall be imposed only on a ground permitted by II.3.d and only when no less restrictive measure is adequate for that ground.
 
 A person held before trial shall retain the presumption of innocence.
 
@@ -96,7 +94,7 @@ Protective custody shall be necessary and limited to the duration of the danger.
 
 The least restrictive reasonably effective measure shall be used.
 
-Protective custody shall be subject to prompt judicial review. **[REVISED]**
+Protective custody shall be subject to prompt judicial review.
 
 Protective custody shall not constitute punishment or serve as a substitute for criminal prosecution.
 
@@ -110,7 +108,7 @@ Emergency custody shall last only as long as reasonably necessary to stabilize t
 
 The government shall document the factual circumstances requiring emergency custody.
 
-Emergency custody shall be subject to prompt judicial review. Where the emergency itself makes review within that period impossible, review shall occur as soon as the emergency permits, and the government shall document why the delay was unavoidable. **[REVISED]**
+Emergency custody shall be subject to prompt judicial review. Where the emergency itself makes review within that period impossible, review shall occur as soon as the emergency permits, and the government shall document why the delay was unavoidable.
 
 Emergency custody shall not become a continuing custodial status merely through administrative continuation.
 
@@ -120,7 +118,7 @@ Emergency custody shall not become a continuing custodial status merely through 
 
 Civil protective custody shall not constitute punishment.
 
-All constitutional rights shall remain in force except for restrictions necessary for the purpose of this custodial category that satisfy II.10.d. **[REVISED]**
+All constitutional rights shall remain in force except for restrictions necessary for the purpose of this custodial category that satisfy II.10.d.
 
 Civil protective custody shall be subject to periodic judicial review.
 
@@ -144,7 +142,7 @@ Public-safety detention shall be periodically reconsidered.
 
 Punitive custody shall exist only pursuant to a lawful sentence.
 
-A person shall not be placed in punitive custody before conviction. **[REVISED]**
+A person shall not be placed in punitive custody before conviction.
 
 Restrictions imposed during punitive custody shall be limited to those authorized by the sentence, necessary for lawful custodial administration, or expressly permitted by this Constitution.
 
@@ -166,7 +164,7 @@ Administrative custody shall last only as long as reasonably necessary for its l
 
 ### II.2.k — Custody of Minors
 
-**Definition:** Minor means a person below the age of majority (I.4.a). **[REVISED]**
+**Definition:** Minor means a person below the age of majority (I.4.a).
 
 Custody of a minor shall have a lawful purpose authorized by this Constitution or by law consistent with this Constitution.
 
@@ -180,7 +178,7 @@ A minor shall not be treated as an adult solely because the minor is accused or 
 
 Status-based custody shall not constitute criminal punishment.
 
-All constitutional rights shall remain in force except for restrictions necessary for the purpose of this custodial category that satisfy II.10.d. **[REVISED]**
+All constitutional rights shall remain in force except for restrictions necessary for the purpose of this custodial category that satisfy II.10.d.
 
 Status-based custody shall be subject to prompt judicial review.
 
@@ -206,15 +204,15 @@ A minor shall not be removed separately from a parent or legal guardian when bot
 
 If the parent or legal guardian is legally prohibited from accompanying the minor, is unable to accompany the minor because of circumstances beyond the government's control, or presents a constitutionally sufficient and individualized danger to the minor, the minor shall default to governmental care.
 
-If no parent or legal guardian accompanies the minor to the country of destination, the minor shall default to governmental care. Governmental care shall be provided within the territory. **[REVISED]**
+If no parent or legal guardian accompanies the minor to the country of destination, the minor shall default to governmental care. Governmental care shall be provided within the territory.
 
-A minor in governmental care may later be removed only to a parent, legal guardian, or other lawful custodian able to receive the minor in the country of destination, and only after judicial review of the minor's best interests. **[NEW]**
+A minor in governmental care may later be removed only to a parent, legal guardian, or other lawful custodian able to receive the minor in the country of destination, and only after judicial review of the minor's best interests.
 
 Governmental care shall not constitute punishment and shall be exercised according to the minor's best interests, safety, dignity, bodily integrity, education, and other constitutional rights.
 
 Governmental care shall continue until the minor is lawfully reunited with a parent or legal guardian, transferred to another lawful custodian, or reaches the age of majority, as applicable under law.
 
-Nothing in this subsection authorizes the removal of a minor or parent or legal guardian where such removal is otherwise prohibited by this Constitution, including by II.2.p. **[REVISED]**
+Nothing in this subsection authorizes the removal of a minor or parent or legal guardian where such removal is otherwise prohibited by this Constitution, including by II.2.p.
 
 ### II.2.n — Custody Reclassification
 
@@ -238,7 +236,7 @@ Where two or more custodial categories could lawfully apply, the government shal
 
 No person shall be placed in undefined or unclassified governmental custody.
 
-### II.2.p — Prohibition of Removal to Torture or Persecution **[NEW]**
+### II.2.p — Prohibition of Removal to Torture or Persecution
 
 **Right:** No person shall be removed, extradited, or otherwise transferred to a country or place where there are substantial grounds to believe the person faces a substantial risk of torture or persecution.
 
@@ -266,7 +264,7 @@ An arrest shall not be arbitrary.
 
 An arrest shall require an arrest warrant based upon probable cause or probable cause under circumstances in which obtaining a warrant is not reasonably practicable.
 
-A person arrested without a warrant shall be brought before a tribunal without unnecessary delay, and in no event later than the period set in II.3.c, measured from the start of custody, including any investigative detention that preceded the arrest. **[REVISED]**
+A person arrested without a warrant shall be brought before a tribunal without unnecessary delay, and in no event later than the period set in II.3.c, measured from the start of custody, including any investigative detention that preceded the arrest.
 
 Arrest shall not constitute punishment before conviction.
 
@@ -301,16 +299,16 @@ If the government cannot establish lawful grounds for continued detention, the p
 
 The government shall bear the burden of establishing the lawful basis for continued detention.
 
-**Timing [NEW]:** Judicial review of detention shall occur within forty-eight hours of the start of custody (including any investigative detention or arrest custody that preceded it) and shall be repeated at intervals of no more than thirty days for as long as detention continues. In this Article, "prompt" review means review within the first period, and "periodic" review means review at the repeated interval, unless a provision sets a different period. **[REVISED]**
+**Timing:** Judicial review of detention shall occur within forty-eight hours of the start of custody (including any investigative detention or arrest custody that preceded it) and shall be repeated at intervals of no more than thirty days for as long as detention continues. In this Article, "prompt" review means review within the first period, and "periodic" review means review at the repeated interval, unless a provision sets a different period.
 
 ### II.3.d — Pretrial Detention
 
 **Definitions:**
-* **Pretrial detention** means pretrial custody as defined in II.2.d. **[REVISED]**
+* **Pretrial detention** means pretrial custody as defined in II.2.d.
 * **Flight risk** means a substantial and factually supported likelihood that a person will intentionally evade lawful judicial proceedings.
 * **Proceeding integrity** means protection of witnesses, evidence, jurors, or other essential components of a pending judicial proceeding from a specific and substantial threat.
 
-Pretrial detention may be imposed only when no less restrictive measure is adequate and only when reasonably necessary to: **[REVISED]**
+Pretrial detention may be imposed only when no less restrictive measure is adequate and only when reasonably necessary to:
 1. Protect another person or the public from a substantial and immediate danger, established under II.2.h;
 2. Prevent a substantial and supported risk of flight; or
 3. Protect the integrity of a judicial proceeding.
@@ -377,7 +375,7 @@ An accused person shall have the right to a speedy and public trial.
 
 No person shall be subjected to indefinite prosecution through unreasonable governmental delay.
 
-**Custody before trial [NEW]:** An accused person held in custody shall be brought to trial within one hundred eighty days after being charged. If trial has not begun within that period, the person shall be released from custody pending trial unless a court finds that the delay was caused by the accused.
+**Custody before trial:** An accused person held in custody shall be brought to trial within one hundred eighty days after being charged. If trial has not begun within that period, the person shall be released from custody pending trial unless a court finds that the delay was caused by the accused.
 
 Public access may be restricted only when necessary to protect a compelling constitutional interest and no substantially less restrictive measure is adequate.
 
@@ -414,7 +412,7 @@ An accused person shall not be required to prove their innocence.
 * **Jeopardy** means exposure to a lawful criminal proceeding in which a determination of guilt or innocence may be entered.
 * **Same criminal offense** means the same offense as defined by law, including offenses that arise from the same legally protected conduct where separate prosecution would constitute a second prosecution for the same offense.
 
-No person acquitted of an offense shall be retried for that offense, except where the prior proceeding was legally incapable of producing a valid judgment. **[REVISED]**
+No person acquitted of an offense shall be retried for that offense, except where the prior proceeding was legally incapable of producing a valid judgment.
 
 No person convicted of an offense shall be prosecuted again for the same offense.
 
@@ -436,13 +434,13 @@ An indigent person shall receive counsel where necessary for a meaningful appeal
 
 The government shall not impose criminal liability or procedural disadvantage merely because an accused person lacks sufficient proficiency in the language of the proceeding.
 
-### II.4.j — Trier of Fact **[NEW]**
+### II.4.j — Trier of Fact
 
 **Right:** A person accused of a criminal offense punishable by imprisonment of more than six months shall have guilt determined by an impartial jury drawn from a fair cross-section of the community.
 
 A conviction requires a unanimous verdict.
 
-Every juror shall have reached the age of majority (I.4.a). **[NEW]**
+Every juror shall have reached the age of majority (I.4.a).
 
 ## Section 5 — Custodial Treatment
 
@@ -466,7 +464,7 @@ The government shall be responsible for the basic safety and humane treatment of
 * **Medically necessary care** means medical treatment reasonably required to prevent serious deterioration, address serious illness or injury, or protect life or essential bodily function.
 * **Medical neglect** means unjustified failure to provide constitutionally required medical care.
 
-The government shall not intentionally deny medically necessary care as punishment, and shall not commit medical neglect. **[REVISED]**
+The government shall not intentionally deny medically necessary care as punishment, and shall not commit medical neglect.
 
 Medical treatment in custody shall remain subject to the bodily autonomy protections of Article I except where a restriction is expressly and constitutionally permitted.
 
@@ -500,9 +498,9 @@ Solitary confinement shall not be imposed as punishment for convenience alone.
 
 It shall be used only when reasonably necessary for a specific and documented safety or security purpose.
 
-The conditions and duration shall be reviewed within twenty-four hours of placement and at least every five days thereafter. This is a different period for purposes of II.3.c. **[REVISED]**
+The conditions and duration shall be reviewed within twenty-four hours of placement and at least every five days thereafter. This is a different period for purposes of II.3.c.
 
-Solitary confinement shall not exceed fifteen consecutive days, and shall not be imposed on a minor or on a person whose mental or physical condition it would substantially worsen. **[NEW]**
+Solitary confinement shall not exceed fifteen consecutive days, and shall not be imposed on a minor or on a person whose mental or physical condition it would substantially worsen.
 
 Solitary confinement shall not be imposed in a manner that constitutes torture or cruel, inhuman, or degrading treatment.
 
@@ -514,7 +512,7 @@ The government shall take reasonable measures to prevent, investigate, and remed
 
 ### II.5.g — Forced Labor
 
-No person in custody shall be compelled to perform labor, except labor imposed by a sentencing court under I.1.d. No custodial official shall compel labor as discipline, retaliation, or exploitation. **[REVISED]**
+No person in custody shall be compelled to perform labor, except labor imposed by a sentencing court under I.1.d. No custodial official shall compel labor as discipline, retaliation, or exploitation.
 
 Lawful work programs may be established in custodial institutions when consistent with human dignity, safety, applicable labor protections, and this Constitution.
 
@@ -553,7 +551,7 @@ The government shall not intrude upon a person's protected privacy without const
 
 Searches and seizures shall be reasonable.
 
-General warrants shall be prohibited. Every warrant shall be a particularized warrant. **[REVISED]**
+General warrants shall be prohibited. Every warrant shall be a particularized warrant.
 
 ### II.6.c — Warrant Requirement
 
@@ -599,7 +597,7 @@ The scope of any warrant or lawful warrantless access shall be limited to the in
 
 No person shall be punished without a valid constitutional and legal basis.
 
-**Clarity of criminal law [NEW]:** No person shall be punished under a criminal law so vague that an ordinary person cannot reasonably understand what conduct it prohibits.
+**Clarity of criminal law:** No person shall be punished under a criminal law so vague that an ordinary person cannot reasonably understand what conduct it prohibits.
 
 No person shall be punished for conduct that was not criminal when committed, except that a later law reducing or eliminating punishment may be applied retroactively where authorized.
 
@@ -654,7 +652,7 @@ No later law, judicial interpretation, administrative practice, or custodial arr
 
 The protections of this subsection shall be determined by the person's age at the time of the offense, regardless of the person's age at arrest, conviction, sentencing, or imprisonment.
 
-### II.7.e — Adult Capital Punishment **[REVISED]**
+### II.7.e — Adult Capital Punishment
 
 **Rule:** A sentence of death may be imposed only for aggravated murder and only in compliance with this subsection.
 
@@ -721,7 +719,7 @@ A collateral restriction shall have an independent lawful basis and shall not ex
 
 The government shall facilitate lawful reentry where reasonably practicable.
 
-**Parole [NEW]:** Parole shall be available at least to the extent required by II.7.d. Where parole is available, release decisions shall be made through an individualized procedure that satisfies due process and gives written reasons for any denial. **[REVISED]**
+**Parole:** Parole shall be available at least to the extent required by II.7.d. Where parole is available, release decisions shall be made through an individualized procedure that satisfies due process and gives written reasons for any denial.
 
 ## Section 9 — Judicial Integrity and Remedies
 
@@ -764,7 +762,7 @@ Depending upon the circumstances, an effective remedy may include:
 
 No remedy shall be denied solely because a government official acted pursuant to an ordinary law that is inconsistent with this Constitution.
 
-**Exclusion of evidence [NEW]:** Evidence obtained in violation of this Constitution, and evidence derived from such a violation, shall be excluded from any criminal proceeding against a person whose constitutional rights were violated in obtaining it, except where the government proves that the evidence:
+**Exclusion of evidence:** Evidence obtained in violation of this Constitution, and evidence derived from such a violation, shall be excluded from any criminal proceeding against a person whose constitutional rights were violated in obtaining it, except where the government proves that the evidence:
 
 1. was also obtained from a lawful source independent of the violation; or
 2. would inevitably have been discovered through lawful means already underway at the time of the violation.
@@ -776,7 +774,7 @@ No law shall create any other exception.
 ### II.10.a — Limited Nature of Custody
 
 **Definitions:**
-* **Custodial power** means governmental authority to restrict a person's physical liberty under a lawful custodial category. *(Custodial authority, meaning the responsible government body, is defined in II.2.a.)* **[REVISED]**
+* **Custodial power** means governmental authority to restrict a person's physical liberty under a lawful custodial category. *(Custodial authority, meaning the responsible government body, is defined in II.2.a.)*
 * **Custodial purpose** means the specific constitutionally permissible objective for which custody is imposed.
 
 Custody shall confer only those governmental powers reasonably necessary to accomplish the lawful custodial purpose.
@@ -803,7 +801,7 @@ Custodial necessity shall not be presumed merely for governmental convenience.
 * **Individualized determination** means a determination based upon facts and circumstances specific to the person and relevant to the lawful custodial purpose.
 * **Blanket restriction** means a restriction imposed upon an entire class of persons without consideration of relevant individual circumstances.
 
-Custody status alone shall not establish that every restriction is necessary. A blanket restriction is permitted only where individualized determination is not reasonably practicable and the restriction otherwise satisfies II.10.d. **[REVISED]**
+Custody status alone shall not establish that every restriction is necessary. A blanket restriction is permitted only where individualized determination is not reasonably practicable and the restriction otherwise satisfies II.10.d.
 
 ### II.10.d — Constitutional Standard for Custodial Exceptions
 

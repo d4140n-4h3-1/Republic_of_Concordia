@@ -1,12 +1,10 @@
 # ARTICLE III — DEMOCRATIC GOVERNMENT AND ELECTIONS
 
-> **Draft note:** Changes from your last version are marked **[NEW]** or **[REVISED]**.
-
 ## Section 1 — Voting Rights
 
 ### III.1.a — Right to Vote
 
-**Right:** Every citizen who has reached the age of majority (I.4.a) shall have the right to vote in elections for which the citizen is legally eligible. **[REVISED]**
+**Right:** Every citizen who has reached the age of majority (I.4.a) shall have the right to vote in elections for which the citizen is legally eligible.
 
 **Definitions:**
 
@@ -45,7 +43,7 @@ Government shall not intentionally or substantially dilute the voting power of e
 
 An electoral district or electoral system that produces a substantial and durable dilution of a group's voting power shall be presumed constitutionally invalid unless the government demonstrates that the result is reasonably necessary to satisfy neutral constitutional criteria.
 
-No electoral district shall be created or maintained for the purpose of substantially diluting the votes of a group of eligible voters sharing a protected status (I.4.a). **[REVISED]**
+No electoral district shall be created or maintained for the purpose of substantially diluting the votes of a group of eligible voters sharing a protected status (I.4.a).
 
 ### III.1.d — Secret Ballot
 
@@ -114,7 +112,7 @@ Government shall administer elections neutrally and shall not favor or disfavor 
 * **Qualified candidate** means a person who satisfies the constitutional and lawful qualifications for the office sought.
 * **Ballot requirement** means a condition that a candidate must satisfy to appear on an election ballot.
 
-Ballot requirements shall be neutral, publicly established, uniformly applied, and reasonably related to legitimate electoral administration. **[REVISED]**
+Ballot requirements shall be neutral, publicly established, uniformly applied, and reasonably related to legitimate electoral administration.
 
 Government shall not establish or enforce a ballot requirement whose primary purpose is to prevent an otherwise qualified candidate from seeking elected office.
 
@@ -124,7 +122,7 @@ Material ballot requirements shall be established sufficiently before the electi
 
 ### III.2.c — Election Administration
 
-Election administration shall be conducted by the Election Authority and election administrators acting on its behalf, operating under neutral and publicly established rules. **[REVISED]**
+Election administration shall be conducted by the Election Authority and election administrators acting on its behalf, operating under neutral and publicly established rules.
 
 Election administrators shall:
 
@@ -203,7 +201,7 @@ The Election Authority shall exercise only powers granted by this Constitution o
 
 The Election Authority shall operate independently of candidates, political parties, elected officials, and other persons whose electoral interests could materially conflict with its constitutional duties.
 
-No elected official, candidate, political party, or governmental institution may direct the Election Authority to alter an election result, ballot determination, or other official electoral decision for political advantage, or direct the districting commission (III.4.c) to alter a district boundary for political advantage. **[REVISED]**
+No elected official, candidate, political party, or governmental institution may direct the Election Authority to alter an election result, ballot determination, or other official electoral decision for political advantage, or direct the districting commission (III.4.c) to alter a district boundary for political advantage.
 
 ### III.3.c — Election Authority Duties
 
@@ -222,7 +220,7 @@ The Election Authority shall establish and administer procedures necessary to:
 
 Legislation may establish additional administrative procedures but shall not diminish constitutional voting rights.
 
-### III.3.d — Removal and Discipline of Election Administrators **[REVISED]**
+### III.3.d — Removal and Discipline of Election Administrators
 
 An election administrator shall not be removed, disciplined, threatened, or otherwise penalized solely for faithfully performing a constitutional election duty.
 
@@ -234,9 +232,9 @@ No disciplinary procedure may be used as retaliation for an election administrat
 
 The Election Authority shall consist of nine members serving staggered six-year terms.
 
-No more than three members may be affiliated with the same political party at any time. **[REVISED]**
+No more than three members may be affiliated with the same political party at any time.
 
-Members shall be selected under III.3.f, a process designed to prevent control of the Election Authority by any single political party, candidate, elected official, or political faction. **[REVISED]**
+Members shall be selected under III.3.f, a process designed to prevent control of the Election Authority by any single political party, candidate, elected official, or political faction.
 
 A member shall not simultaneously hold elected office, serve as a candidate for elected office, or exercise leadership of a political party.
 
@@ -244,7 +242,7 @@ The Election Authority shall receive funding sufficient to perform its constitut
 
 Funding shall not be reduced or conditioned for the purpose of influencing an election decision or retaliating against the Authority for faithful constitutional enforcement.
 
-### III.3.f — Selection of Members **[NEW]**
+### III.3.f — Selection of Members
 
 This subsection governs the selection of members of the Election Authority and of the districting commission (III.4.c).
 
@@ -291,7 +289,7 @@ A districting plan that produces a substantial and durable partisan advantage, o
 
 Electoral districts shall be established according to neutral, publicly disclosed criteria.
 
-Electoral districts shall contain substantially equal population, except that a constituent jurisdiction guaranteed a single House seat by VII.2.b forms one district regardless of its population. This exception is the only permitted departure from equal population for House districts, and it does not violate III.1.c. **[REVISED]**
+Electoral districts shall contain substantially equal population, except that a constituent jurisdiction guaranteed a single House seat by VII.2.b forms one district regardless of its population. This exception is the only permitted departure from equal population for House districts, and it does not violate III.1.c.
 
 Districting shall, where reasonably practicable:
 
@@ -310,9 +308,9 @@ District boundaries shall be established by an independent districting commissio
 
 No legislator, elected executive, political party, candidate, or incumbent shall possess unilateral authority to establish electoral districts for the purpose of securing an electoral advantage.
 
-The districting commission shall consist of nine members serving staggered six-year terms, selected under III.3.f. **[REVISED]**
+The districting commission shall consist of nine members serving staggered six-year terms, selected under III.3.f.
 
-No more than three members may be affiliated with the same political party at any time. **[REVISED]**
+No more than three members may be affiliated with the same political party at any time.
 
 No member may be a current elected official, candidate, lobbyist for a political party, or incumbent whose electoral district would be affected by the commission's work.
 
@@ -346,11 +344,11 @@ No unconstitutional district shall become constitutional solely because it has b
 * **Partial term** means service in an office for less than its full constitutionally established period.
 * **Same elected office** means an elected office possessing substantially the same constitutional powers, jurisdiction, and constituency, regardless of a change in title or administrative structure.
 
-Term limits for ordinary elected offices are governed by III.5.b and III.5.c. **[REVISED]**
+Term limits for ordinary elected offices are governed by III.5.b and III.5.c.
 
 ### III.5.b — Term Limits
 
-**Term limit:** No person may serve more than two terms in the same ordinary elected office. A term counts toward this limit if the person was elected to it or served more than one-half of it under III.5.c. **[REVISED]**
+**Term limit:** No person may serve more than two terms in the same ordinary elected office. A term counts toward this limit if the person was elected to it or served more than one-half of it under III.5.c.
 
 The limitation applies whether the terms are consecutive or separated by any period of absence.
 
@@ -375,7 +373,7 @@ A person's eligibility to seek future office shall not affect the person's right
 
 Except where this Constitution expressly provides otherwise, reaching an age limit after election shall not terminate an existing term.
 
-### III.5.e — Election Schedule and Start of Terms **[NEW]**
+### III.5.e — Election Schedule and Start of Terms
 
 A general election for federal offices shall be held every two years, on a date established by law in advance. The first general election is held under VIII.3.c.
 
@@ -387,7 +385,7 @@ Every federal term filled at a general election begins on the seventy-fifth day 
 
 ### III.6.a — Age Eligibility
 
-**Rule:** No person younger than thirty-five years of age, or sixty-five years of age or older, may be elected to an ordinary elected office. **[REVISED]**
+**Rule:** No person younger than thirty-five years of age, or sixty-five years of age or older, may be elected to an ordinary elected office.
 
 **Definitions:**
 
@@ -400,7 +398,7 @@ A person elected while within the constitutional age range may complete the pers
 
 Additional qualifications for elected office may be established only by this Constitution or by legislation consistent with this Constitution.
 
-No qualification may exclude an otherwise eligible person on the basis of protected status unless it satisfies I.4.c, other than the age requirements established in this Article. **[REVISED]**
+No qualification may exclude an otherwise eligible person on the basis of protected status unless it satisfies I.4.c, other than the age requirements established in this Article.
 
 No qualification shall be imposed for the primary purpose of preventing an otherwise eligible candidate from seeking office.
 
@@ -513,18 +511,18 @@ Elections shall be subject to reasonable post-election auditing procedures estab
 
 Audits shall be conducted according to neutral standards and shall not be selectively applied for political advantage.
 
-### III.8.d — Election Fraud and Interference **[REVISED]**
+### III.8.d — Election Fraud and Interference
 
 **Definitions:**
 
 * **Election fraud** means intentional unlawful conduct designed to corrupt, falsify, or materially misrepresent an election or its results.
 * **Election interference** means intentional unlawful conduct designed to prevent, obstruct, coerce, corrupt, or materially distort lawful electoral participation or administration.
-* **Ballot** means any paper, electronic, or other record by which a voter casts a vote, including a mail ballot, a provisional ballot, and the record produced by voting equipment. **[NEW]**
-* **Election record** means any record the Election Authority creates or keeps in administering an election, including voter registration records, poll books, ballots, tallies, audit records, chain-of-custody records, and certification documents. **[NEW]**
-* **Election system** means any equipment, software, network, database, or facility used to register voters, or to cast, store, transmit, count, or tabulate ballots, or to report or certify results. **[NEW]**
-* **Thing of value** means money, property, services, employment, a contract, a debt reduction, or any other material benefit. It does not include transportation to a polling place, time off work to vote, or food, drink, or comfort offered to everyone waiting to vote, when offered without regard to how a person will vote. **[NEW]**
-* **Intimidation** means using or threatening force, violence, economic harm, loss of employment, loss of housing, legal action known to be groundless, or disclosure of private information, to make a person act or refrain from acting in an election. **[NEW]**
-* **Election official** means an election administrator, a member or employee of the Election Authority, a member of the districting commission (III.4.c), or any person lawfully serving as a poll worker, counter, auditor, or observer. **[NEW]**
+* **Ballot** means any paper, electronic, or other record by which a voter casts a vote, including a mail ballot, a provisional ballot, and the record produced by voting equipment.
+* **Election record** means any record the Election Authority creates or keeps in administering an election, including voter registration records, poll books, ballots, tallies, audit records, chain-of-custody records, and certification documents.
+* **Election system** means any equipment, software, network, database, or facility used to register voters, or to cast, store, transmit, count, or tabulate ballots, or to report or certify results.
+* **Thing of value** means money, property, services, employment, a contract, a debt reduction, or any other material benefit. It does not include transportation to a polling place, time off work to vote, or food, drink, or comfort offered to everyone waiting to vote, when offered without regard to how a person will vote.
+* **Intimidation** means using or threatening force, violence, economic harm, loss of employment, loss of housing, legal action known to be groundless, or disclosure of private information, to make a person act or refrain from acting in an election.
+* **Election official** means an election administrator, a member or employee of the Election Authority, a member of the districting commission (III.4.c), or any person lawfully serving as a poll worker, counter, auditor, or observer.
 
 Government shall establish penalties and procedures for election fraud and unlawful election interference consistent with due process.
 
@@ -532,7 +530,7 @@ No person shall be deprived of constitutional rights solely on the basis of an a
 
 Penalties for election fraud or interference shall not restrict speech protected by I.1.a except as permitted by I.4.c.
 
-### III.8.e — Prohibited Election Conduct **[NEW]**
+### III.8.e — Prohibited Election Conduct
 
 The following conduct, when done knowingly, is election fraud or election interference. Law shall make each punishable, with penalties consistent with II.7.
 
@@ -582,7 +580,7 @@ The following conduct, when done knowingly, is election fraud or election interf
 
 This subsection binds private actors as well as the government.
 
-### III.8.f — Protections in Enforcement **[NEW]**
+### III.8.f — Protections in Enforcement
 
 The prosecution shall prove every element of an offense under III.8.e, including the required knowledge and intent, beyond a reasonable doubt (II.4.f).
 
@@ -599,7 +597,7 @@ A challenge to a voter's eligibility filed by any person other than an election 
 
 No penalty for election fraud or interference shall suspend or diminish a person's voting right (III.1.b).
 
-### III.8.g — Investigation **[NEW]**
+### III.8.g — Investigation
 
 The Election Authority shall investigate suspected election fraud and interference (III.3.c) and shall refer a violation it finds probable to the appropriate prosecuting authority. Every election official who becomes aware of suspected election fraud or interference shall report it to the Election Authority.
 
@@ -611,7 +609,7 @@ An investigation shall not:
 
 After each election, the Election Authority shall publish a report stating the number of suspected violations investigated, referred, and found unfounded, without identifying any person who has not been charged.
 
-### III.8.h — Reporting Persons and Remedies **[NEW]**
+### III.8.h — Reporting Persons and Remedies
 
 No person shall be dismissed, disciplined, threatened, or otherwise penalized for reporting in good faith suspected election fraud or interference to the Election Authority, a court, or a prosecuting authority, or for testifying in a proceeding concerning it. An election official also retains the protection of III.3.d.
 
@@ -716,7 +714,7 @@ A temporary inability to conduct an election shall not, by itself, extinguish th
 
 ---
 
-## Section 11 — Campaign Finance and Foreign Interference **[NEW]**
+## Section 11 — Campaign Finance and Foreign Interference
 
 ### III.11.a — Definitions
 
