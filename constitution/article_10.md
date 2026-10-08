@@ -37,17 +37,19 @@ The conditions in Section 2 are express constitutional exceptions and apply as w
 
 ## Section 2 — Conditions
 
-### X.2.a — License
+### X.2.a — License to Purchase
 
-A law may require a license to bear arms, and a license to keep arms that are not kept in the home.
+A law may require a person to hold a license to purchase before acquiring arms by sale or other transfer. No license shall be required to keep or bear arms that a person lawfully holds.
 
-A license shall be issued to every applicant who:
+A license to purchase shall be issued to every applicant who:
 
 1. is not a prohibited person under X.2.b;
 2. passes a background check; and
 3. completes a course in safe handling, storage, and the law of self-defense.
 
 The course shall be offered free of charge, at reasonable times and places, and shall not exceed `[DECIDE: maximum course length in hours]`.
+
+A license to purchase is valid for five years and may be renewed. It may be suspended only while the holder is a prohibited person under X.2.b.
 
 The license shall be issued or denied within thirty days. A license not acted on within that time is issued by operation of law. A denial shall be in writing, shall state the reason, and is subject to judicial review.
 
@@ -93,7 +95,9 @@ A law may require that arms be stored securely, by a lock or a locked container,
 
 ### X.2.f — Transfers
 
-A law may require a background check before any sale or other transfer of arms, other than a transfer between family members or a temporary transfer for immediate self-defense, hunting, or sport under the transferor's supervision.
+A law may require that arms be sold or otherwise transferred only to a person who holds a valid license to purchase, confirmed at the time of transfer, other than a transfer between family members or a temporary transfer for immediate self-defense, hunting, or sport under the transferor's supervision.
+
+Confirming a license shall show only whether it is valid. No record of the arms transferred shall be sent to or kept by any government (X.3.b).
 
 ### X.2.g — Minors
 

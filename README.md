@@ -24,7 +24,7 @@ The repository has two parts:
 | [VII](constitution/article_7.md) | Citizenship and the Union | Citizenship; states, territories and the capital district; reserved powers; relations among the jurisdictions |
 | [VIII](constitution/article_8.md) | Supremacy, Ratification, and Transition | Supremacy of the Constitution; ratification by referendum; transition to the first government |
 | [IX](constitution/article_9.md) | Amendment of This Constitution | Proposal by Congress; national referendum; rights that no amendment may reduce; a narrow path for correcting drafting errors; a locked Supreme Court |
-| [X](constitution/article_10.md) | The Right to Keep and Bear Arms | Why it is last; the right and its conditions (licensing, prohibited persons, places, storage, transfers); no general disarmament or registry; a limited right of resistance as the last resort |
+| [X](constitution/article_10.md) | The Right to Keep and Bear Arms | Why it is last; the right and its conditions (a license to purchase, prohibited persons, places, storage, transfers); no general disarmament or registry; a limited right of resistance as the last resort |
 
 ## Key Features
 
