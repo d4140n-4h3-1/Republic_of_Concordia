@@ -76,17 +76,17 @@ A member of the Founding Convention may be a candidate in the first general elec
 
 Within sixty days after this Constitution takes effect, the interim government shall conduct the first public drawings of the Election Authority and the districting commission under III.3.f. For these first drawings, any person eligible to vote in a ratification referendum under VIII.2.a may apply. Challenges to eligibility shall be heard by the courts of the constituent jurisdictions.
 
-Within one hundred eighty days after this Constitution takes effect, the districting commission shall adopt the first House districts, apportioned under VII.2.b, and shall assign every constituent jurisdiction to one of the nine judicial circuits under VI.2.f. The assignment is subject to judicial review for compliance with VI.2.f.
+Within one hundred eighty days after this Constitution takes effect, the districting commission shall adopt the first House districts, apportioned under VII.2.b, and shall assign every constituent jurisdiction to one of the nine judicial circuits under VI.2.j. The assignment is subject to judicial review for compliance with VI.2.j.
 
 The Judicial Conduct Commission shall be selected under VI.4.d within one year after the first Congress convenes.
 
 ### VIII.3.c — First Elections
 
-The Election Authority shall hold the first general election within one year after this Constitution takes effect. The interim government shall not postpone it (III.10.e).
+The Election Authority shall hold the first general election within one year after this Constitution takes effect. The interim government shall not postpone it (III.9.e).
 
 At the first general election, voters shall elect the President and Vice President, every member of the House of Representatives, every Senator, and all nine judges of the Supreme Court.
 
-For each constituent jurisdiction, lot shall assign one of its two Senate seats a first term of two years, so that one-half of the Senate is elected every two years (IV.3.d). The first Supreme Court terms are assigned under VI.2.b.
+For each constituent jurisdiction, lot shall assign one of its two Senate seats a first term of two years, so that one-half of the Senate is elected every two years (IV.3.d). The first Supreme Court terms are assigned under VI.2.e.
 
 Every person elected at the first general election takes office on the seventy-fifth day after the election.
 
@@ -94,7 +94,7 @@ Every person elected at the first general election takes office on the seventy-f
 
 Service in any office before this Constitution takes effect, and service in the interim government, does not count toward any term limit under this Constitution.
 
-A shortened first term assigned under this Section, VI.2.b, or VII.2.e, does not count as a full term for purposes of III.5.b, except as VI.2.b provides for the Supreme Court.
+A shortened first term assigned under this Section, VI.2.e, or VII.2.e, does not count as a full term for purposes of III.5.b, except as VI.2.e provides for the Supreme Court.
 
 ### VIII.3.e — Existing Law
 

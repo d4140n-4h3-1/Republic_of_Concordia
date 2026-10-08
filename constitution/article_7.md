@@ -125,4 +125,4 @@ A person charged with a crime in one constituent jurisdiction who is found in an
 
 ### VII.4.d — Disputes Between Jurisdictions
 
-Disputes between constituent jurisdictions, or between a constituent jurisdiction and the United States, shall be decided by the Supreme Court (VI.2.d).
+Disputes between constituent jurisdictions, or between a constituent jurisdiction and the United States, shall be decided by the Supreme Court (VI.2.k).

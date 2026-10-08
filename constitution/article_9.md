@@ -39,7 +39,7 @@ A proposed amendment is ratified only if it is approved by both:
 
 ### IX.2.c — Effect
 
-A ratified amendment becomes part of this Constitution upon certification of the referendum result under III.9.c, or on a later date stated in the amendment.
+A ratified amendment becomes part of this Constitution upon certification of the referendum result under III.8.c, or on a later date stated in the amendment.
 
 ---
 
@@ -94,28 +94,29 @@ No amendment, including a correction amendment under IX.3.d, shall do any of the
 **The Supreme Court:**
 
 1. change the number of judges of the Supreme Court or the number of judicial circuits;
-2. create, abolish, divide, merge, or redraw a judicial circuit, except as VI.2.f provides;
-3. change the single eighteen-year term of a Supreme Court judge (III.7.c); or
-4. change the schedule of staggered elections in VI.2.b.
+2. create, abolish, divide, merge, or redraw a judicial circuit, except as VI.2.j provides;
+3. change the single eighteen-year term of a Supreme Court judge (VI.2.d);
+4. change the schedule of staggered elections in VI.2.e; or
+5. replace the election of each judge by the voters of a judicial circuit with any other method of selection, or permit a political party to nominate, endorse, or support a candidate (VI.2.a, VI.2.f).
 
 **Terms of office:**
 
-5. lengthen the term of any elected office, including the terms in III.5.a, IV.2.d, and IV.3.d;
-6. increase the number of terms a person may serve in an office, or weaken the rules against evading term limits, under III.5.b and III.5.c; or
-7. extend the term of any person holding office when the amendment takes effect.
+6. lengthen the term of any elected office, including the terms in III.5.a, IV.2.d, and IV.3.d;
+7. increase the number of terms a person may serve in an office, or weaken the rules against evading term limits, under III.5.b and III.5.c; or
+8. extend the term of any person holding office when the amendment takes effect.
 
 **Emergency limits:**
 
-8. lengthen the duration of an emergency declaration, or the period of an extension, under V.6.b;
-9. remove or weaken any limit on emergency power in V.6.c, or judicial review of emergencies under V.6.d;
-10. allow the armed forces to be used to influence an election, suppress the exercise of a constitutional right, or enforce civilian law, beyond what V.7.a permits; or
-11. allow any election to be postponed or cancelled, or any term to be extended, under III.10.e.
+9. lengthen the duration of an emergency declaration, or the period of an extension, under V.6.b;
+10. remove or weaken any limit on emergency power in V.6.c, or judicial review of emergencies under V.6.d;
+11. allow the armed forces to be used to influence an election, suppress the exercise of a constitutional right, or enforce civilian law, beyond what V.7.a permits; or
+12. allow any election to be postponed or cancelled, or any term to be extended, under III.9.e.
 
 **Independence of elections:**
 
-12. subject the Election Authority or the districting commission to direction by any elected official, candidate, political party, or governmental institution (III.3.b, III.4.c);
-13. allow any elected official, candidate, or political party to select or remove members of the Election Authority or the districting commission, or replace selection by public random drawing under III.3.f with a method that gives any of them that power;
-14. remove or loosen the limits on party affiliation of members of the Election Authority or the districting commission; or
-15. allow districts to be drawn by any body other than an independent commission, or remove the prohibition of gerrymandering in III.4.a.
+13. subject the Election Authority or the districting commission to direction by any elected official, candidate, political party, or governmental institution (III.3.b, III.4.c);
+14. allow any elected official, candidate, or political party to select or remove members of the Election Authority or the districting commission, or replace selection by public random drawing under III.3.f with a method that gives any of them that power;
+15. remove or loosen the limits on party affiliation of members of the Election Authority or the districting commission; or
+16. allow districts to be drawn by any body other than an independent commission, or remove the prohibition of gerrymandering in III.4.a.
 
 An amendment may otherwise change the design of these institutions, and may shorten a term of office for terms that begin after the amendment takes effect.

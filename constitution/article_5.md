@@ -207,12 +207,12 @@ During an emergency, the President may exercise only emergency powers that Congr
 No emergency declaration shall:
 
 1. suspend or narrow a right established by Article I, II, III, or X beyond what I.4.c would permit without an emergency;
-2. postpone, cancel, or alter an election, or extend any term of office (III.10.e);
+2. postpone, cancel, or alter an election, or extend any term of office (III.9.e);
 3. adjourn, dissolve, or obstruct Congress or any court;
 4. authorize spending without an appropriation (IV.10.a); or
 5. create a criminal offense.
 
-This Section is the only authorization for emergency powers in this Constitution, and it does not authorize altering an election for purposes of III.10.e.
+This Section is the only authorization for emergency powers in this Constitution, and it does not authorize altering an election for purposes of III.9.e.
 
 ### V.6.d — Judicial Review
 

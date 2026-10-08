@@ -1,7 +1,5 @@
 # ARTICLE VI — THE JUDICIAL POWER
 
-> **Draft note:** The election, qualifications, term, and vacancies of Supreme Court judges remain in Article III, Section 7, and the appointment and tenure of inferior-court judges remain in V.4; they are not repeated here.
-
 ## Section 1 — Vesting of Judicial Power
 
 ### VI.1.a — The Courts
@@ -36,25 +34,62 @@ Courts shall decide only cases, and shall not issue advisory opinions.
 
 ## Section 2 — The Supreme Court
 
-### VI.2.a — Composition
+### VI.2.a — Composition and Election
 
-The Supreme Court consists of nine judges, one elected from each judicial circuit (VI.2.f) under Article III, Section 7.
+**Rule:** The Supreme Court shall consist of nine judges, one elected by the voters of each judicial circuit (VI.2.j), according to procedures established by this Constitution and lawful election legislation.
+
+**Definitions:**
+
+* **Supreme Court judge** means a member of the highest constitutional court established under this Constitution.
+* **Judicial election** means an election in which qualified voters select a person to serve as a judge.
+* **Judicial term** means the constitutionally established period of service of a judge.
+
+No Supreme Court judge shall be appointed by the executive, legislature, or any other governmental authority.
 
 The judge with the longest current continuous service is the presiding judge of the Court. Where two or more judges have equal service, the presiding judge shall be chosen among them by lot. *(This is the same judge who presides over a presidential impeachment trial under IV.9.f.)*
 
-### VI.2.b — Staggered Elections
+### VI.2.b — Age Eligibility
+
+A person shall be at least thirty-five years of age and younger than forty-seven years of age at the time of election to the Supreme Court.
+
+No person who is forty-seven years of age or older may be elected to the Supreme Court.
+
+This age requirement exists to permit completion of the full eighteen-year constitutional judicial term before the person reaches sixty-five years of age.
+
+### VI.2.c — Qualifications
+
+A candidate for Supreme Court judge shall:
+
+1. be a citizen;
+2. have reached thirty-five years of age and be younger than forty-seven years of age at election;
+3. be licensed to practice law within the jurisdiction;
+4. have at least ten years of professional legal or judicial experience;
+5. have resided in the circuit whose seat is to be filled for at least one year immediately before the election; and
+6. satisfy all other qualifications established consistently with this Constitution.
+
+No qualification may be imposed for the purpose of controlling the political composition or judicial decisions of the Court.
+
+### VI.2.d — Eighteen-Year Judicial Term
+
+Each Supreme Court judge shall serve a single term of eighteen years.
+
+A Supreme Court judge shall not be elected to a second eighteen-year term.
+
+A judge who completes the constitutional term shall leave the Supreme Court upon expiration of the term unless this Constitution expressly provides otherwise.
+
+### VI.2.e — Staggered Elections
 
 One seat on the Supreme Court shall be filled at the general election held every two years, so that each seat is filled once in each eighteen-year cycle. Only the voters of the circuit whose seat is being filled vote in that election.
 
 For the first Court, lot shall assign the nine circuits' seats to terms ending two, four, six, eight, ten, twelve, fourteen, sixteen, and eighteen years after the Court first convenes.
 
-A first-Court judge assigned a term of nine years or less may later be elected to one full term. A first-Court judge assigned a term of more than nine years has served the judge's single term under III.7.c. *(This follows the one-half rule of III.7.f.)*
+A first-Court judge assigned a term of nine years or less may later be elected to one full term. A first-Court judge assigned a term of more than nine years has served the judge's single term under VI.2.d. *(This follows the one-half rule of VI.2.g.)*
 
 A judge's term begins on the seventy-fifth day after the election.
 
-A judge elected in a special election under III.7.f serves the remainder of the unexpired term, so that the staggered schedule is preserved.
+A judge elected in a special election under VI.2.g serves the remainder of the unexpired term, so that the staggered schedule is preserved.
 
-### VI.2.c — Nonpartisan Elections
+### VI.2.f — Nonpartisan Elections
 
 Supreme Court elections shall be nonpartisan.
 
@@ -69,25 +104,35 @@ A candidate for the Supreme Court shall not:
 
 A candidate may discuss the candidate's qualifications, judicial philosophy, and past rulings or writings.
 
-### VI.2.d — Jurisdiction
+### VI.2.g — Vacancies and Special Elections
 
-The Supreme Court has original jurisdiction in cases between two or more constituent jurisdictions, and between a constituent jurisdiction and the United States.
+A vacancy on the Supreme Court shall be filled by special election, held in the circuit whose seat is vacant, for the remainder of the unexpired judicial term.
 
-The Supreme Court has appellate jurisdiction over all other cases within the judicial power, and over any case in any court, including a state court, that involves a federal question.
+The special election shall occur within six months after the vacancy unless an objectively demonstrated circumstance makes an election within that period impossible.
 
-Congress may regulate appellate procedure, but shall not remove from the Supreme Court or from every inferior court the jurisdiction to decide whether a law or governmental action complies with this Constitution.
+A person elected to fill a vacancy shall satisfy the age and qualification requirements applicable to a Supreme Court election at the time of the special election.
 
-### VI.2.e — Decisions
+Service of one-half or less of an unexpired judicial term shall not count as a full judicial term for purposes of VI.2.d.
 
-At least six judges shall participate in a decision of the Supreme Court.
+Service of more than one-half of an unexpired judicial term shall count as the person's single judicial term.
 
-The Court decides by a majority of the judges participating, except that an act of Congress may be held unconstitutional only with the agreement of at least five judges.
+### VI.2.h — Judicial Independence
 
-Where the judges participating are equally divided, the judgment under review stands.
+Supreme Court judges shall exercise judicial authority independently and impartially.
 
-Every decision of the Court shall be accompanied by a public written opinion stating its reasons. Any judge may publish a separate opinion.
+No elected official, political party, governmental institution, or private person may direct a Supreme Court judge to decide a case in a particular manner.
 
-### VI.2.f — Judicial Circuits
+Judicial independence shall not exempt a judge from constitutional accountability or lawful disciplinary procedures.
+
+### VI.2.i — Judicial Incompatibility
+
+A Supreme Court judge shall not simultaneously hold another elected office or exercise legislative or executive authority.
+
+A person who has served as a Supreme Court judge shall not, for two years after leaving the Court, hold another elected or appointed governmental office.
+
+Nothing in this subsection prohibits a former judge from engaging in private employment, private practice, teaching, scholarship, or other lawful private activity.
+
+### VI.2.j — Judicial Circuits
 
 There are nine judicial circuits. Each circuit consists of one or more whole constituent jurisdictions (VII.2.a), contiguous where practicable.
 
@@ -99,6 +144,24 @@ The first circuits are drawn under VIII.3.b so that their land areas are as near
 A judge of the Supreme Court decides every case for the whole Union and does not represent the circuit that elected the judge.
 
 Congress may use the circuits to organize the inferior courts, but no law shall change a circuit.
+
+### VI.2.k — Jurisdiction
+
+The Supreme Court has original jurisdiction in cases between two or more constituent jurisdictions, and between a constituent jurisdiction and the United States.
+
+The Supreme Court has appellate jurisdiction over all other cases within the judicial power, and over any case in any court, including a state court, that involves a federal question.
+
+Congress may regulate appellate procedure, but shall not remove from the Supreme Court or from every inferior court the jurisdiction to decide whether a law or governmental action complies with this Constitution.
+
+### VI.2.l — Decisions
+
+At least six judges shall participate in a decision of the Supreme Court.
+
+The Court decides by a majority of the judges participating, except that an act of Congress may be held unconstitutional only with the agreement of at least five judges.
+
+Where the judges participating are equally divided, the judgment under review stands.
+
+Every decision of the Court shall be accompanied by a public written opinion stating its reasons. Any judge may publish a separate opinion.
 
 ---
 
@@ -153,7 +216,7 @@ A finding of defiance against the President or Vice President may be made only b
 
 ### VI.4.a — Independence and Compensation
 
-Judges shall decide cases independently and impartially, as required by II.9.a and III.7.d.
+Judges shall decide cases independently and impartially, as required by II.9.a and VI.2.h.
 
 The compensation of a Supreme Court judge shall not be reduced during the judge's term. *(For inferior-court judges, see V.4.d.)*
 
@@ -216,4 +279,4 @@ The judge may seek review of the finding by the Supreme Court, excluding the jud
 
 A finding of incapacity is not discipline and carries no penalty.
 
-A vacancy on the Supreme Court is filled under III.7.f. A vacancy on an inferior court is filled under V.4.a.
+A vacancy on the Supreme Court is filled under VI.2.g. A vacancy on an inferior court is filled under V.4.a.
