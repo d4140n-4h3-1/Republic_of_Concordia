@@ -56,6 +56,7 @@ Bills live in [`constitution/bills/`](constitution/bills/). Each one is written 
 ## Reading the Text
 
 - **Citations** use the form `Article.Section.subsection`. For example, `I.4.c` means Article I, Section 4, subsection c.
+- **Section 0.** Where an Article has a Section 0, it holds framing material for the whole Article: shared definitions in Article I, and the reason for its placement in Article X.
 - **Draft notes.** A *Draft note* at the top of some Articles gives context for the drafting.
 - **Open decisions.** A `[DECIDE: ...]` line in a bill marks a policy choice that hasn't been made yet. Penalties are usually left open this way.
 - **Placeholder names.** Some names are placeholders. For example, "the Founding Convention" in Article VIII can be renamed to fit the story.

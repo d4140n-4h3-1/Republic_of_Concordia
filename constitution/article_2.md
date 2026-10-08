@@ -54,7 +54,9 @@ The person's custodial category shall be recorded and communicated to the person
 
 ### II.2.b — Investigative Detention
 
-**Definition:** Investigative detention means temporary custody for the limited purpose of investigating a specific suspected offense or immediate threat.
+**Definitions:**
+
+* **Investigative detention** means temporary custody for the limited purpose of investigating a specific suspected offense or immediate threat.
 
 Investigative detention shall be based upon reasonable suspicion supported by specific and articulable facts.
 
@@ -68,7 +70,9 @@ Investigative detention shall not be used merely to investigate a person's ident
 
 ### II.2.c — Arrest Custody
 
-**Definition:** Arrest custody means custody arising when a person is arrested based upon probable cause that the person committed or is committing a criminal offense.
+**Definitions:**
+
+* **Arrest custody** means custody arising when a person is arrested based upon probable cause that the person committed or is committing a criminal offense.
 
 Arrest custody shall be limited to lawful processing, investigation, prosecution, prevention of flight, protection from an identified legally sufficient danger, or bringing the person before a tribunal.
 
@@ -76,7 +80,9 @@ Arrest custody shall not constitute a criminal sentence.
 
 ### II.2.d — Pretrial Custody
 
-**Definition:** Pretrial custody means custody after arrest and before final adjudication.
+**Definitions:**
+
+* **Pretrial custody** means custody after arrest and before final adjudication.
 
 Pretrial custody shall be imposed only on a ground permitted by II.3.d and only when no less restrictive measure is adequate for that ground.
 
@@ -88,7 +94,9 @@ Pretrial custody shall be subject to judicial review.
 
 ### II.2.e — Protective Custody
 
-**Definition:** Protective custody means temporary custody imposed to protect a person from an immediate or substantial threat to life or physical safety when voluntary protective measures are inadequate.
+**Definitions:**
+
+* **Protective custody** means temporary custody imposed to protect a person from an immediate or substantial threat to life or physical safety when voluntary protective measures are inadequate.
 
 Protective custody shall be necessary and limited to the duration of the danger.
 
@@ -102,7 +110,9 @@ The wishes of a competent person placed in protective custody shall be given sub
 
 ### II.2.f — Emergency Custody
 
-**Definition:** Emergency custody means temporary custody during an immediate emergency in which delay would create a substantial risk of death, serious bodily harm, or comparable catastrophe.
+**Definitions:**
+
+* **Emergency custody** means temporary custody during an immediate emergency in which delay would create a substantial risk of death, serious bodily harm, or comparable catastrophe.
 
 Emergency custody shall last only as long as reasonably necessary to stabilize the emergency or transfer the person to an appropriate lawful status.
 
@@ -114,7 +124,9 @@ Emergency custody shall not become a continuing custodial status merely through 
 
 ### II.2.g — Civil Protective Custody
 
-**Definition:** Civil protective custody means custody imposed for a noncriminal protective purpose, including protection of a person legally incapable of protecting their own immediate interests.
+**Definitions:**
+
+* **Civil protective custody** means custody imposed for a noncriminal protective purpose, including protection of a person legally incapable of protecting their own immediate interests.
 
 Civil protective custody shall not constitute punishment.
 
@@ -124,7 +136,9 @@ Civil protective custody shall be subject to periodic judicial review.
 
 ### II.2.h — Public-Safety Detention
 
-**Definition:** Public-safety detention means pretrial custody based upon an individualized and substantiated determination that releasing a person would create a substantial and immediate danger to another person or the public.
+**Definitions:**
+
+* **Public-safety detention** means pretrial custody based upon an individualized and substantiated determination that releasing a person would create a substantial and immediate danger to another person or the public.
 
 Public-safety detention requires specific supporting facts and an individualized determination.
 
@@ -138,7 +152,9 @@ Public-safety detention shall be periodically reconsidered.
 
 ### II.2.i — Punitive and Post-Conviction Custody
 
-**Definition:** Punitive custody means imprisonment or another custodial restriction imposed as criminal punishment after valid conviction and pursuant to a lawful sentence.
+**Definitions:**
+
+* **Punitive custody** means imprisonment or another custodial restriction imposed as criminal punishment after valid conviction and pursuant to a lawful sentence.
 
 Punitive custody shall exist only pursuant to a lawful sentence.
 
@@ -146,7 +162,9 @@ A person shall not be placed in punitive custody before conviction.
 
 Restrictions imposed during punitive custody shall be limited to those authorized by the sentence, necessary for lawful custodial administration, or expressly permitted by this Constitution.
 
-**Definition:** Post-conviction custody means custody imposed after conviction for the purpose of carrying out a lawful sentence.
+**Definitions:**
+
+* **Post-conviction custody** means custody imposed after conviction for the purpose of carrying out a lawful sentence.
 
 Post-conviction custody shall exist only for the period authorized by the sentence and applicable law.
 
@@ -154,7 +172,9 @@ Custody shall terminate when its lawful basis expires, subject to lawful modific
 
 ### II.2.j — Administrative Custody
 
-**Definition:** Administrative custody means temporary custody imposed for a specific lawful administrative purpose that does not constitute criminal punishment.
+**Definitions:**
+
+* **Administrative custody** means temporary custody imposed for a specific lawful administrative purpose that does not constitute criminal punishment.
 
 Administrative custody shall not be used to circumvent the constitutional requirements governing arrest, detention, prosecution, or punishment.
 
@@ -164,7 +184,9 @@ Administrative custody shall last only as long as reasonably necessary for its l
 
 ### II.2.k — Custody of Minors
 
-**Definition:** Minor means a person below the age of majority (I.4.a).
+**Definitions:**
+
+* **Minor** means a person below the age of majority (I.4.a).
 
 Custody of a minor shall have a lawful purpose authorized by this Constitution or by law consistent with this Constitution.
 
@@ -174,7 +196,9 @@ A minor shall not be treated as an adult solely because the minor is accused or 
 
 ### II.2.l — Status-Based Custody
 
-**Definition:** Status-based custody means custody imposed because of immigration status, residency, citizenship, nationality, or another civil legal status rather than criminal conviction.
+**Definitions:**
+
+* **Status-based custody** means custody imposed because of immigration status, residency, citizenship, nationality, or another civil legal status rather than criminal conviction.
 
 Status-based custody shall not constitute criminal punishment.
 
@@ -216,7 +240,9 @@ Nothing in this subsection authorizes the removal of a minor or parent or legal 
 
 ### II.2.n — Custody Reclassification
 
-**Definition:** Custody reclassification means the lawful transfer of a person between custodial categories because the legal or factual basis for custody has changed.
+**Definitions:**
+
+* **Custody reclassification** means the lawful transfer of a person between custodial categories because the legal or factual basis for custody has changed.
 
 Reclassification requires a lawful basis.
 
@@ -476,7 +502,9 @@ Medical treatment in custody shall remain subject to the bodily autonomy protect
 
 Custody shall not constitute punishment unless it is imposed pursuant to a lawful criminal sentence.
 
-**Definition:** Custodial restriction means a restriction imposed for a lawful custodial purpose rather than as criminal punishment.
+**Definitions:**
+
+* **Custodial restriction** means a restriction imposed for a lawful custodial purpose rather than as criminal punishment.
 
 A person held before conviction shall not be subjected to punitive conditions merely because the person is accused of an offense.
 
@@ -484,7 +512,9 @@ Necessary security measures shall not constitute punishment solely because they 
 
 ### II.5.d — Use of Force
 
-**Definition:** Custodial force means physical force used by a government officer or agent against a person in custody.
+**Definitions:**
+
+* **Custodial force** means physical force used by a government officer or agent against a person in custody.
 
 Custodial force shall be used only when reasonably necessary for a lawful custodial purpose.
 
@@ -496,7 +526,9 @@ Force shall not be used for punishment, retaliation, humiliation, or coercion.
 
 ### II.5.e — Solitary Confinement
 
-**Definition:** Solitary confinement means confinement in which a person is substantially isolated from meaningful human contact for a continuous period.
+**Definitions:**
+
+* **Solitary confinement** means confinement in which a person is substantially isolated from meaningful human contact for a continuous period.
 
 Solitary confinement shall not be imposed as punishment for convenience alone.
 
@@ -524,7 +556,9 @@ No person shall be compelled to perform labor that constitutes cruel, degrading,
 
 ### II.5.h — Custodial Oversight
 
-**Definition:** Custodial oversight means independent examination of governmental custody for compliance with this Constitution and applicable law.
+**Definitions:**
+
+* **Custodial oversight** means independent examination of governmental custody for compliance with this Constitution and applicable law.
 
 Governmental custodial institutions shall be subject to lawful inspection and independent oversight.
 
@@ -686,7 +720,9 @@ This subsection is an express constitutional permission for purposes of I.4.c an
 
 **Right:** No person shall be subjected to excessive fines.
 
-**Definition:** Excessive fine means a monetary penalty grossly disproportionate to the offense, the person's culpability, or the legitimate purpose of the penalty.
+**Definitions:**
+
+* **Excessive fine** means a monetary penalty grossly disproportionate to the offense, the person's culpability, or the legitimate purpose of the penalty.
 
 No fine shall be imposed primarily for governmental enrichment or punishment unrelated to legitimate criminal-justice purposes.
 

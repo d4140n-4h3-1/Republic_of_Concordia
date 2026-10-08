@@ -1,7 +1,5 @@
 # ARTICLE X — THE RIGHT TO KEEP AND BEAR ARMS
 
-> **Draft note:** This is the last Article, and it is last on purpose. See X.0.
-
 ## Section 0 — Why This Article Is Last
 
 ### X.0.a — The Last Safeguard

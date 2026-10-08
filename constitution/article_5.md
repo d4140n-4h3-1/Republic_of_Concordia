@@ -1,7 +1,5 @@
 # ARTICLE V — THE EXECUTIVE POWER
 
-> **Draft note:** Age, term, term-limit, and oath rules for the President and Vice President are not repeated here; they come from III.5, III.6, and III.6.c.
-
 ## Section 1 — Vesting of Executive Power
 
 ### V.1.a — The President
@@ -33,6 +31,8 @@ The President shall spend appropriated funds as Congress directs, and shall not 
 ---
 
 ## Section 2 — Election and Qualifications
+
+*(Age, term, term-limit, and oath rules for the President and Vice President are in III.5, III.6, and III.6.c, and are not repeated here.)*
 
 ### V.2.a — Election of the President and Vice President
 

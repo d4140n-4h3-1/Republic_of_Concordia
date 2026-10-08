@@ -10,7 +10,9 @@ Every person born outside the United States to at least one parent who is a citi
 
 A child born within the United States to a foreign diplomat who has diplomatic immunity is not a citizen by birth, unless the child would otherwise be stateless.
 
-**Definition:** *Within the United States* means within any constituent jurisdiction (VII.2.a).
+**Definitions:**
+
+* **Within the United States** means within any constituent jurisdiction (VII.2.a).
 
 ### VII.1.b — Citizenship by Adoption and Naturalization
 

@@ -1,7 +1,5 @@
 # ARTICLE IX — AMENDMENT OF THIS CONSTITUTION
 
-> **Draft note:** Article X follows this Article and is the last.
-
 ## Section 1 — Proposal
 
 ### IX.1.a — Proposal by Congress

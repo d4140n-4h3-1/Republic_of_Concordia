@@ -281,11 +281,11 @@ A constitutional right shall not be restricted unless either:
 
 Where this Constitution itself fixes a specific restriction (for example, a stated age requirement), that restriction applies as written. Every other restriction, including any law or governmental action relying on an express permission, shall satisfy all of the following requirements:
 
-1. **Constitutional authorization:** The restriction must have a specific basis in this Constitution, either an express permission or the protection of another person's fundamental rights as recognized by this Constitution.
-2. **Compelling interest:** The restriction must serve a compelling governmental interest or protect the fundamental rights of another person.
-3. **Narrow tailoring:** The restriction must be narrowly tailored to that purpose.
+1. **Constitutional authorization:** The restriction shall have a specific basis in this Constitution, either an express permission or the protection of another person's fundamental rights as recognized by this Constitution.
+2. **Compelling interest:** The restriction shall serve a compelling governmental interest or protect the fundamental rights of another person.
+3. **Narrow tailoring:** The restriction shall be narrowly tailored to that purpose.
 4. **Least restrictive means:** No reasonably available, less restrictive measure may provide substantially equivalent protection.
-5. **Proportionality:** The restriction must impose no greater burden upon the affected right than is necessary to accomplish its purpose.
+5. **Proportionality:** The restriction shall impose no greater burden upon the affected right than is necessary to accomplish its purpose.
 6. **Duration:** The restriction shall exist only for as long as the circumstances requiring it continue.
 7. **Equal application:** The restriction shall not be selectively imposed because of protected status, viewpoint, political belief, religion, or other constitutionally protected characteristic.
 8. **Burden of justification:** The government shall bear the burden of demonstrating that every requirement of this standard has been satisfied.
