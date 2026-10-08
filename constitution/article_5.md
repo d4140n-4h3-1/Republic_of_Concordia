@@ -164,8 +164,9 @@ The President shall not grant a pardon, commutation, or reprieve:
 1. to the President;
 2. to a family member of the President or Vice President;
 3. to an officer or employee of the President's own administration for an offense committed in connection with official duties;
-4. for an offense not yet committed; or
-5. in exchange for anything of value or any political or personal benefit.
+4. for an offense not yet committed;
+5. in exchange for anything of value or any political or personal benefit; or
+6. for contempt of court, or any other offense, arising from a failure to comply with a judicial order (VI.3.e).
 
 A pardon, commutation, or reprieve granted in violation of this subsection shall have no legal effect.
 
