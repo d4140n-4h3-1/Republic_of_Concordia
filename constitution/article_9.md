@@ -61,9 +61,9 @@ No amendment shall repeal, narrow, or suspend this Section.
 
 ### IX.3.c — Judicial Review of Amendments
 
-A court of competent jurisdiction may determine whether an amendment was proposed and ratified in compliance with this Article and whether it violates IX.3.a or exceeds IX.3.d.
+A court of competent jurisdiction may determine whether an amendment was proposed and ratified in compliance with this Article and whether it violates IX.3.a or IX.3.e or exceeds IX.3.d.
 
-An amendment that violates IX.3.a or exceeds IX.3.d shall have no legal effect.
+An amendment that violates IX.3.a or IX.3.e or exceeds IX.3.d shall have no legal effect.
 
 ### IX.3.d — Technical Corrections
 
@@ -87,11 +87,35 @@ A correction amendment may change a provision of Article I, II, III, or X to cor
 
 An amendment that does not narrow a right or create an exception to it does not need to use this subsection.
 
-### IX.3.e — Protection of the Supreme Court
+### IX.3.e — Protection of Structural Safeguards
 
-No amendment, including a correction amendment under IX.3.d, shall:
+No amendment, including a correction amendment under IX.3.d, shall do any of the following.
+
+**The Supreme Court:**
 
 1. change the number of judges of the Supreme Court or the number of judicial circuits;
 2. create, abolish, divide, merge, or redraw a judicial circuit, except as VI.2.f provides;
 3. change the single eighteen-year term of a Supreme Court judge (III.7.c); or
 4. change the schedule of staggered elections in VI.2.b.
+
+**Terms of office:**
+
+5. lengthen the term of any elected office, including the terms in III.5.a, IV.2.d, and IV.3.d;
+6. increase the number of terms a person may serve in an office, or weaken the rules against evading term limits, under III.5.b and III.5.c; or
+7. extend the term of any person holding office when the amendment takes effect.
+
+**Emergency limits:**
+
+8. lengthen the duration of an emergency declaration, or the period of an extension, under V.6.b;
+9. remove or weaken any limit on emergency power in V.6.c, or judicial review of emergencies under V.6.d;
+10. allow the armed forces to be used to influence an election, suppress the exercise of a constitutional right, or enforce civilian law, beyond what V.7.a permits; or
+11. allow any election to be postponed or cancelled, or any term to be extended, under III.10.e.
+
+**Independence of elections:**
+
+12. subject the Election Authority or the districting commission to direction by any elected official, candidate, political party, or governmental institution (III.3.b, III.4.c);
+13. allow any elected official, candidate, or political party to select or remove members of the Election Authority or the districting commission, or replace selection by public random drawing under III.3.f with a method that gives any of them that power;
+14. remove or loosen the limits on party affiliation of members of the Election Authority or the districting commission; or
+15. allow districts to be drawn by any body other than an independent commission, or remove the prohibition of gerrymandering in III.4.a.
+
+An amendment may otherwise change the design of these institutions, and may shorten a term of office for terms that begin after the amendment takes effect.
