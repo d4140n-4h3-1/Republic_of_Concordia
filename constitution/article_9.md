@@ -53,7 +53,7 @@ This limit applies to an amendment that would accomplish the same result indirec
 
 An amendment may expand or strengthen a right established by those Articles.
 
-Provisions of Articles II and III that establish institutions or procedures, such as the composition of the Election Authority or the districting commission, may be amended under this Article, provided the amendment does not narrow a right protected by this subsection.
+Provisions of Articles II and III that establish institutions or procedures, such as the composition of the Election Authority or the districting commission, may be amended under this Article, provided the amendment does not narrow a right protected by this subsection and does not violate IX.3.e.
 
 ### IX.3.b — Protection of This Section
 
@@ -86,3 +86,12 @@ A correction amendment may change a provision of Article I, II, or III to correc
 3. ratification by referendum under IX.2.a, approved, in place of the majorities in IX.2.b, by both three-fifths of all votes cast on the amendment nationwide and a majority of the votes cast on the amendment in two-thirds of the constituent jurisdictions (VII.2.a).
 
 An amendment that does not narrow a right or create an exception to it does not need to use this subsection.
+
+### IX.3.e — Protection of the Supreme Court
+
+No amendment, including a correction amendment under IX.3.d, shall:
+
+1. change the number of judges of the Supreme Court or the number of judicial circuits;
+2. create, abolish, divide, merge, or redraw a judicial circuit, except as VI.2.f provides;
+3. change the single eighteen-year term of a Supreme Court judge (III.7.c); or
+4. change the schedule of staggered elections in VI.2.b.

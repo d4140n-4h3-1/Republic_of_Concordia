@@ -414,7 +414,7 @@ No elected official may lawfully exercise authority inconsistent with this Const
 
 ### III.7.a — Supreme Court Judges
 
-**Rule:** The Supreme Court shall consist of judges elected by the people according to procedures established by this Constitution and lawful election legislation.
+**Rule:** The Supreme Court shall consist of judges elected by the people of the judicial circuits (VI.2.f) according to procedures established by this Constitution and lawful election legislation.
 
 **Definitions:**
 
@@ -422,7 +422,7 @@ No elected official may lawfully exercise authority inconsistent with this Const
 * **Judicial election** means an election in which qualified voters select a person to serve as a judge.
 * **Judicial term** means the constitutionally established period of service of a judge.
 
-The Supreme Court shall consist of nine judges.
+The Supreme Court shall consist of nine judges, one elected by the voters of each of the nine judicial circuits.
 
 No Supreme Court judge shall be appointed by the executive, legislature, or any other governmental authority.
 
@@ -460,7 +460,7 @@ Nothing in this subsection prohibits a former judge from engaging in private emp
 
 ### III.7.f — Vacancies and Special Elections
 
-A vacancy on the Supreme Court shall be filled by special election for the remainder of the unexpired judicial term.
+A vacancy on the Supreme Court shall be filled by special election, held in the circuit whose seat is vacant, for the remainder of the unexpired judicial term.
 
 The special election shall occur within six months after the vacancy unless an objectively demonstrated circumstance makes an election within that period impossible.
 
@@ -477,8 +477,9 @@ A candidate for Supreme Court judge shall:
 1. be a citizen;
 2. have reached thirty-five years of age and be younger than forty-seven years of age at election;
 3. be licensed to practice law within the jurisdiction;
-4. have at least ten years of professional legal or judicial experience; and
-5. satisfy all other qualifications established consistently with this Constitution.
+4. have at least ten years of professional legal or judicial experience;
+5. have resided in the circuit whose seat is to be filled for at least one year immediately before the election; and
+6. satisfy all other qualifications established consistently with this Constitution.
 
 No qualification may be imposed for the purpose of controlling the political composition or judicial decisions of the Court.
 
