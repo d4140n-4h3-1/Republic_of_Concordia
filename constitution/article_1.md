@@ -149,6 +149,8 @@ No person shall be subjected to medical treatment, physical intrusion, reproduct
 
 Every competent person shall have the right to make decisions concerning their own body, medical care, and reproduction, subject to the limited exceptions established herein.
 
+**Personal use:** Decisions concerning a person's own body include the decision to possess or consume a substance for personal use.
+
 **Persons unable to consent:** Where a person is not competent, consent may be given by a surrogate decision-maker acting in that person's best interests. Where a person is unconscious or otherwise unable to consent and delay would create imminent danger to their life or health, emergency treatment reasonably necessary to preserve life or health is permitted.
 
 **Minors:** A minor who has reached sixteen years of age shall have the right to make decisions concerning their own body and medical care as a competent person. Except as provided in the next paragraph, decisions for a younger minor shall be made by a parent or legal guardian in the minor's best interests, giving the minor's views weight that increases with the minor's age and maturity. A court may intervene where such a decision threatens the minor's life or health.
