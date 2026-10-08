@@ -91,7 +91,7 @@ Every decision of the Court shall be accompanied by a public written opinion sta
 
 There are nine judicial circuits. Each circuit consists of one or more whole constituent jurisdictions (VII.2.a), contiguous where practicable.
 
-The first circuits are drawn under VIII.3.b so that their populations are as nearly equal as practicable. After that, no circuit shall be created, abolished, divided, merged, or redrawn, except that:
+The first circuits are drawn under VIII.3.b so that their land areas are as nearly equal as practicable. Once drawn, the circuits are fixed and shall not be redrawn because of changes in population. After that, no circuit shall be created, abolished, divided, merged, or redrawn, except that:
 
 1. a newly admitted constituent jurisdiction (VII.2.e) joins the adjacent circuit with the smallest population at the time of admission, or, if no circuit is adjacent, the nearest circuit; and
 2. where a constituent jurisdiction is divided, merged, or changes status under VII.2.e, each resulting area remains in the circuit that contained it.

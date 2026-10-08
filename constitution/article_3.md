@@ -45,6 +45,8 @@ An electoral district or electoral system that produces a substantial and durabl
 
 No electoral district shall be created or maintained for the purpose of substantially diluting the votes of a group of eligible voters sharing a protected status (I.4.a).
 
+**Fixed constituencies:** The election of two Senators by each constituent jurisdiction (IV.3.a) and the election of one Supreme Court judge by each judicial circuit (VI.2.f) are express constitutional exceptions to this subsection. Differences in population among constituent jurisdictions or among circuits do not violate it.
+
 ### III.1.d — Secret Ballot
 
 **Right:** Every voter shall have the right to cast a ballot in secrecy.
