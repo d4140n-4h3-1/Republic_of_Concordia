@@ -48,6 +48,7 @@ Bills live in [`constitution/bills/`](constitution/bills/). Each one is written 
 | [b-04](constitution/bills/b-04.md) | Custodial Oversight Act | Draft |
 | [b-05](constitution/bills/b-05.md) | Personal Cultivation Licensing Act | Draft: 2 open decisions |
 | [b-06](constitution/bills/b-06.md) | Bias-Motivated Crimes Act | Draft |
+| [b-07](constitution/bills/b-07.md) | Defensive Use of Unlawful Weapons Act | Draft |
 
 ## Reading the Text
 
