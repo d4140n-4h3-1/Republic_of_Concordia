@@ -46,6 +46,7 @@ Bills live in [`constitution/bills/`](constitution/bills/). Each one is written 
 | [b-02](constitution/bills/b-02.md) | Conversion Practices Prohibition Act | Draft: 1 open decision |
 | [b-03](constitution/bills/b-03.md) | Use of Force Act | Draft |
 | [b-04](constitution/bills/b-04.md) | Custodial Oversight Act | Draft |
+| [b-05](constitution/bills/b-05.md) | Personal Cultivation Licensing Act | Draft: 2 open decisions |
 
 ## Reading the Text
 
