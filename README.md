@@ -1,6 +1,6 @@
 # A Constitution for the United States (Fictional Draft)
 
-![Flag](1c39deb5-4efc-4ec9-a588-920318794957.png)
+![Flag](constitution/1c39deb5-4efc-4ec9-a588-920318794957.png)
 
 This is a fictional constitution: a rewrite of the founding document of the United States, written as worldbuilding. It is a draft in progress. It is not legal advice and it does not propose real legislation.
 
