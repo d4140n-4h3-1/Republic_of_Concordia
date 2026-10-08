@@ -15,15 +15,15 @@ The repository has two parts:
 
 | Article | Title | What it covers |
 |---|---|---|
-| [I](article_1.md) | Fundamental Rights and Liberties | Shared definitions; speech, religion, freedom from slavery and servitude; education; bodily autonomy; equal protection and the strict test for any exception to a right |
-| [II](article_2.md) | Custody and Justice | Due process; every category of custody; arrest and detention; rights of the accused; treatment in custody; search and privacy; sentencing; rights after conviction; judicial remedies |
-| [III](article_3.md) | Democratic Government and Elections | Voting rights; the independent Election Authority; a ban on gerrymandering; terms, term limits and age limits; the elected Supreme Court; election integrity; campaign finance and foreign interference |
-| [IV](article_4.md) | The Legislative Power | Congress (House and Senate); legislative procedure; investigations and subpoenas; veto; ethics; impeachment; appropriations |
-| [V](article_5.md) | The Executive Power | The President and Vice President; national popular vote with ranked-choice counting; succession; appointments; pardons; emergency powers; armed forces and treaties |
-| [VI](article_6.md) | The Judicial Power | Structure of the courts; Supreme Court jurisdiction; judicial review; judicial independence, ethics and discipline |
-| [VII](article_7.md) | Citizenship and the Union | Citizenship; states, territories and the capital district; reserved powers; relations among the jurisdictions |
-| [VIII](article_8.md) | Supremacy, Ratification, and Transition | Supremacy of the Constitution; ratification by referendum; transition to the first government |
-| [IX](article_9.md) | Amendment of This Constitution | Proposal by Congress; national referendum; rights that no amendment may reduce |
+| [I](constitution/article_1.md) | Fundamental Rights and Liberties | Shared definitions; speech, religion, freedom from slavery and servitude; education; bodily autonomy; equal protection and the strict test for any exception to a right |
+| [II](constitution/article_2.md) | Custody and Justice | Due process; every category of custody; arrest and detention; rights of the accused; treatment in custody; search and privacy; sentencing; rights after conviction; judicial remedies |
+| [III](constitution/article_3.md) | Democratic Government and Elections | Voting rights; the independent Election Authority; a ban on gerrymandering; terms, term limits and age limits; the elected Supreme Court; election integrity; campaign finance and foreign interference |
+| [IV](constitution/article_4.md) | The Legislative Power | Congress (House and Senate); legislative procedure; investigations and subpoenas; veto; ethics; impeachment; appropriations |
+| [V](constitution/article_5.md) | The Executive Power | The President and Vice President; national popular vote with ranked-choice counting; succession; appointments; pardons; emergency powers; armed forces and treaties |
+| [VI](constitution/article_6.md) | The Judicial Power | Structure of the courts; Supreme Court jurisdiction; judicial review; judicial independence, ethics and discipline |
+| [VII](constitution/article_7.md) | Citizenship and the Union | Citizenship; states, territories and the capital district; reserved powers; relations among the jurisdictions |
+| [VIII](constitution/article_8.md) | Supremacy, Ratification, and Transition | Supremacy of the Constitution; ratification by referendum; transition to the first government |
+| [IX](constitution/article_9.md) | Amendment of This Constitution | Proposal by Congress; national referendum; rights that no amendment may reduce |
 
 ## Key Features
 
@@ -38,14 +38,14 @@ The repository has two parts:
 
 ## Bills
 
-Bills live in [`bills/`](bills/). Each one is written as an act of Congress under this Constitution and cites the provisions it relies on.
+Bills live in [`constitution/bills/`](constitution/bills/). Each one is written as an act of Congress under this Constitution and cites the provisions it relies on.
 
 | File | Act | Status |
 |---|---|---|
-| [b-01](bills/b-01.md) | Unlawful Possession With Intent to Profit Act | Draft: 1 open decision |
-| [b-02](bills/b-02.md) | Conversion Practices Prohibition Act | Draft: 1 open decision |
-| [b-03](bills/b-03.md) | Use of Force Act | Draft |
-| [b-04](bills/b-04.md) | Custodial Oversight Act | Draft |
+| [b-01](constitution/bills/b-01.md) | Unlawful Possession With Intent to Profit Act | Draft: 1 open decision |
+| [b-02](constitution/bills/b-02.md) | Conversion Practices Prohibition Act | Draft: 1 open decision |
+| [b-03](constitution/bills/b-03.md) | Use of Force Act | Draft |
+| [b-04](constitution/bills/b-04.md) | Custodial Oversight Act | Draft |
 
 ## Reading the Text
 
