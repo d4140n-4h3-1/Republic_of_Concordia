@@ -38,15 +38,15 @@ Courts shall decide only cases, and shall not issue advisory opinions.
 
 ### VI.2.a — Composition
 
-The Supreme Court consists of nine judges elected under Article III, Section 7.
+The Supreme Court consists of nine judges, one elected from each judicial circuit (VI.2.f) under Article III, Section 7.
 
 The judge with the longest current continuous service is the presiding judge of the Court. Where two or more judges have equal service, the presiding judge shall be chosen among them by lot. *(This is the same judge who presides over a presidential impeachment trial under IV.9.f.)*
 
 ### VI.2.b — Staggered Elections
 
-One seat on the Supreme Court shall be filled at the general election held every two years, so that each seat is filled once in each eighteen-year cycle.
+One seat on the Supreme Court shall be filled at the general election held every two years, so that each seat is filled once in each eighteen-year cycle. Only the voters of the circuit whose seat is being filled vote in that election.
 
-For the first Court, lot shall assign the nine seats to terms ending two, four, six, eight, ten, twelve, fourteen, sixteen, and eighteen years after the Court first convenes.
+For the first Court, lot shall assign the nine circuits' seats to terms ending two, four, six, eight, ten, twelve, fourteen, sixteen, and eighteen years after the Court first convenes.
 
 A first-Court judge assigned a term of nine years or less may later be elected to one full term. A first-Court judge assigned a term of more than nine years has served the judge's single term under III.7.c. *(This follows the one-half rule of III.7.f.)*
 
@@ -86,6 +86,19 @@ The Court decides by a majority of the judges participating, except that an act 
 Where the judges participating are equally divided, the judgment under review stands.
 
 Every decision of the Court shall be accompanied by a public written opinion stating its reasons. Any judge may publish a separate opinion.
+
+### VI.2.f — Judicial Circuits
+
+There are nine judicial circuits. Each circuit consists of one or more whole constituent jurisdictions (VII.2.a), contiguous where practicable.
+
+The first circuits are drawn under VIII.3.b so that their land areas are as nearly equal as practicable. Once drawn, the circuits are fixed and shall not be redrawn because of changes in population. Circuits are drawn by land area and fixed once drawn so that they cannot be gerrymandered: no person or body may draw or redraw them to gain an advantage in the election of the Supreme Court. After that, no circuit shall be created, abolished, divided, merged, or redrawn, except that:
+
+1. a newly admitted constituent jurisdiction (VII.2.e) joins the adjacent circuit with the smallest population at the time of admission, or, if no circuit is adjacent, the nearest circuit; and
+2. where a constituent jurisdiction is divided, merged, or changes status under VII.2.e, each resulting area remains in the circuit that contained it.
+
+A judge of the Supreme Court decides every case for the whole Union and does not represent the circuit that elected the judge.
+
+Congress may use the circuits to organize the inferior courts, but no law shall change a circuit.
 
 ---
 

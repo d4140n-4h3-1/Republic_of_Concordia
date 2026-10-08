@@ -17,13 +17,13 @@ The repository has two parts:
 |---|---|---|
 | [I](constitution/article_1.md) | Fundamental Rights and Liberties | Shared definitions; speech, religion, freedom from slavery and servitude; education; bodily autonomy; equal protection and the strict test for any exception to a right |
 | [II](constitution/article_2.md) | Custody and Justice | Due process; every category of custody; arrest and detention; rights of the accused; treatment in custody; search and privacy; sentencing; rights after conviction; judicial remedies |
-| [III](constitution/article_3.md) | Democratic Government and Elections | Voting rights; the independent Election Authority; a ban on gerrymandering; terms, term limits and age limits; the elected Supreme Court; election integrity; campaign finance and foreign interference |
+| [III](constitution/article_3.md) | Democratic Government and Elections | Voting rights; the independent Election Authority; a ban on gerrymandering; terms, term limits and age limits; the elected Supreme Court, one judge per circuit; election integrity; campaign finance and foreign interference |
 | [IV](constitution/article_4.md) | The Legislative Power | Congress (House and Senate); legislative procedure; investigations and subpoenas; veto; ethics; impeachment; appropriations |
 | [V](constitution/article_5.md) | The Executive Power | The President and Vice President; national popular vote with ranked-choice counting; succession; appointments; pardons; emergency powers; armed forces and treaties |
-| [VI](constitution/article_6.md) | The Judicial Power | Structure of the courts; Supreme Court jurisdiction; judicial review; judicial independence, ethics and discipline |
+| [VI](constitution/article_6.md) | The Judicial Power | Structure of the courts; the nine judicial circuits; Supreme Court jurisdiction; judicial review; judicial independence, ethics and discipline |
 | [VII](constitution/article_7.md) | Citizenship and the Union | Citizenship; states, territories and the capital district; reserved powers; relations among the jurisdictions |
 | [VIII](constitution/article_8.md) | Supremacy, Ratification, and Transition | Supremacy of the Constitution; ratification by referendum; transition to the first government |
-| [IX](constitution/article_9.md) | Amendment of This Constitution | Proposal by Congress; national referendum; rights that no amendment may reduce; a narrow path for correcting drafting errors |
+| [IX](constitution/article_9.md) | Amendment of This Constitution | Proposal by Congress; national referendum; rights that no amendment may reduce; a narrow path for correcting drafting errors; a locked Supreme Court |
 
 ## Key Features
 

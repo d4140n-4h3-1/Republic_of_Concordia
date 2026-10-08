@@ -76,7 +76,7 @@ A member of the Founding Convention may be a candidate in the first general elec
 
 Within sixty days after this Constitution takes effect, the interim government shall conduct the first public drawings of the Election Authority and the districting commission under III.3.f. For these first drawings, any person eligible to vote in a ratification referendum under VIII.2.a may apply. Challenges to eligibility shall be heard by the courts of the constituent jurisdictions.
 
-Within one hundred eighty days after this Constitution takes effect, the districting commission shall adopt the first House districts, apportioned under VII.2.b.
+Within one hundred eighty days after this Constitution takes effect, the districting commission shall adopt the first House districts, apportioned under VII.2.b, and shall assign every constituent jurisdiction to one of the nine judicial circuits under VI.2.f. The assignment is subject to judicial review for compliance with VI.2.f.
 
 The Judicial Conduct Commission shall be selected under VI.4.d within one year after the first Congress convenes.
 
