@@ -126,6 +126,28 @@ Congress shall enact laws enforcing this subsection, including remedies for thos
 
 Congress shall provide by law for the early dismissal of any civil action brought to punish or deter the lawful exercise of this right.
 
+### I.1.f — Freedom of Language
+
+**Right:** Every person shall have the right to use their native language, and any other language, in private and public life.
+
+**Definitions:**
+
+* **Native language** means a language that a person learned in childhood, or that is used in the person's family or community.
+* **Official language** means a language designated by law for the conduct of government business.
+* **Workplace** means any place where a person works for an employer, whether public or private.
+
+**Official languages:** This Constitution does not establish an official language. A law may designate one or more official languages for the conduct of government business. No such designation limits the right in this subsection.
+
+**No penalty for language:** No person shall be denied a right, benefit, service, or opportunity, punished, disciplined, or harassed by an official or employer, because the person speaks, writes, or uses their native language, or speaks an official language with an accent or with limited proficiency.
+
+**Workplaces:** An employer may require an employee to be proficient in an official language, or in another language, and to use it while performing work, only to the extent reasonably necessary for the employee to do the work safely and effectively, such as communicating with the public, with coworkers on shared tasks, or in an emergency. An employer shall not prohibit an employee from using their native language during breaks, in private conversation, or while performing work that does not require communication in another language. This paragraph binds private employers as well as the government. *(This is an express provision for purposes of I.4.b.)*
+
+**Government:** The government may conduct its business in an official language. Where a person cannot adequately understand an official language, the government shall provide interpretation or translation where reasonably necessary for the person to understand and exercise a constitutional right, to receive emergency or medical services, or to comply with a legal obligation. *(See II.4.i for criminal proceedings.)*
+
+**Education:** Public education may be provided in an official language. Every person may teach and learn any language, and no student shall be punished for using their native language outside instruction that requires another language.
+
+**Speech of others:** This subsection does not restrict any person's speech, including speech urging another person to use a particular language, except as I.1.a and the law against harassment and threats permit.
+
 ---
 
 ## Section 2 — Right to Education
