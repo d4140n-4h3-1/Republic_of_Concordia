@@ -14,7 +14,7 @@ Every final judgment of a trial court shall be subject to at least one level of 
 
 Congress shall not abolish a court, or alter its jurisdiction, for the purpose of removing a judge or influencing the outcome of a pending case.
 
-**Number of judgeships:** A law that increases the number of judges of the inferior courts requires a vote of three-fifths of all members of each House. The new judgeships shall be filled in equal parts over at least four years, so that no single presidential term fills more than one-half of them.
+**Number of judgeships:** A law that increases the number of judges of the inferior courts requires a vote of three-fifths of all members of each House. The new judgeships shall be filled in equal annual parts over at least eight years, so that no single four-year presidential term fills more than one-half of them.
 
 A law that reduces the number of judgeships takes effect only as seats become vacant, and shall not remove a sitting judge.
 
