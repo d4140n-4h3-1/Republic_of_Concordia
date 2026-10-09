@@ -18,7 +18,7 @@ The Constitution opens with a short [Preamble](constitution/preamble.md) stating
 | Article | Title | What it covers |
 |---|---|---|
 | [I](constitution/article_1.md) | Fundamental Rights and Liberties | Shared definitions; speech, press, religion, freedom from slavery and servitude; education; bodily autonomy; equal protection and the strict test for any exception to a right |
-| [II](constitution/article_2.md) | Custody and Justice | Due process; every category of custody; arrest and detention; rights of the accused; treatment in custody; search and privacy; sentencing; rights after conviction; judicial remedies |
+| [II](constitution/article_2.md) | Custody and Justice | Due process; just compensation for taken property; every category of custody; arrest and detention; rights of the accused; treatment in custody; search and privacy; sentencing; rights after conviction; judicial remedies |
 | [III](constitution/article_3.md) | Democratic Government and Elections | Voting rights; the independent Election Authority; a ban on gerrymandering; terms, term limits and age limits; election integrity; campaign finance and foreign interference |
 | [IV](constitution/article_4.md) | The Legislative Power | Congress (House and Senate); legislative procedure; investigations and subpoenas; veto; ethics; impeachment; appropriations |
 | [V](constitution/article_5.md) | The Executive Power | The President and Vice President; national popular vote with ranked-choice counting; succession; appointments; pardons; emergency powers; armed forces and treaties |
