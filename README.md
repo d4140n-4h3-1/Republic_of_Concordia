@@ -56,6 +56,7 @@ Bills live in [`constitution/bills/`](constitution/bills/). Each one is written 
 | [b-09](constitution/bills/b-09.md) | Emergency Powers Act | Draft |
 | [b-10](constitution/bills/b-10.md) | Judicial Enforcement Service Act | Draft |
 | [b-11](constitution/bills/b-11.md) | Firearm Licensing Act | Draft |
+| [b-12](constitution/bills/b-12.md) | Public Participation Protection Act | Draft |
 
 ## Reading the Text
 
