@@ -45,14 +45,16 @@ Bills live in [`constitution/bills/`](constitution/bills/). Each one is written 
 
 | File | Act | Status |
 |---|---|---|
-| [b-01](constitution/bills/b-01.md) | Unlawful Possession With Intent to Profit Act | Draft: 1 open decision |
-| [b-02](constitution/bills/b-02.md) | Conversion Practices Prohibition Act | Draft: 1 open decision |
+| [b-01](constitution/bills/b-01.md) | Unlawful Possession With Intent to Profit Act | Draft |
+| [b-02](constitution/bills/b-02.md) | Conversion Practices Prohibition Act | Draft |
 | [b-03](constitution/bills/b-03.md) | Use of Force Act | Draft |
 | [b-04](constitution/bills/b-04.md) | Custodial Oversight Act | Draft |
-| [b-05](constitution/bills/b-05.md) | Personal Cultivation Licensing Act | Draft: 2 open decisions |
+| [b-05](constitution/bills/b-05.md) | Personal Cultivation Licensing Act | Draft |
 | [b-06](constitution/bills/b-06.md) | Bias-Motivated Crimes Act | Draft |
 | [b-07](constitution/bills/b-07.md) | Defensive Use of Unlawful Weapons Act | Draft |
-| [b-08](constitution/bills/b-08.md) | Firearm Definition Act | Draft: 1 open decision |
+| [b-08](constitution/bills/b-08.md) | Firearm Definition Act | Draft |
+| [b-09](constitution/bills/b-09.md) | Emergency Powers Act | Draft |
+| [b-10](constitution/bills/b-10.md) | Judicial Enforcement Service Act | Draft |
 
 ## Reading the Text
 
@@ -60,7 +62,7 @@ Bills live in [`constitution/bills/`](constitution/bills/). Each one is written 
 - **Section 0.** Where an Article has a Section 0, it holds framing material for the whole Article: shared definitions in Article I, and the reason for its placement in Article X.
 - **Checking citations.** Run `python3 scripts/check_refs.py` after any edit. It confirms that every citation in the Articles, the bills, and this README points to a section or subsection that exists.
 - **Draft notes.** A *Draft note* at the top of some Articles gives context for the drafting.
-- **Open decisions.** A `[DECIDE: ...]` line in a bill marks a policy choice that hasn't been made yet. Penalties are usually left open this way.
+- **Open decisions.** A `[DECIDE: ...]` line in a bill or Article marks a policy choice that hasn't been made yet. None are open at present.
 - **Placeholder names.** Some names are placeholders. For example, "the Founding Convention" in Article VIII can be renamed to fit the story.
 
 ## Status

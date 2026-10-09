@@ -45,7 +45,7 @@ A license to purchase shall be issued to every applicant who:
 2. passes a background check; and
 3. completes a course in safe handling, storage, and the law of self-defense.
 
-The course shall be offered free of charge, at reasonable times and places, and shall not exceed `[DECIDE: maximum course length in hours]`.
+The course shall be offered free of charge, at reasonable times and places, and shall not exceed **eight hours**.
 
 A license to purchase is valid for five years and may be renewed. It may be suspended only while the holder is a prohibited person under X.2.b.
 
