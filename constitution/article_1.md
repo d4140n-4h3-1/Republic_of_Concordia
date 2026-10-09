@@ -135,10 +135,13 @@ Congress shall provide by law for the early dismissal of any civil action brough
 * **Native language** means a language that a person learned in childhood, or that is used in the person's family or community.
 * **Official language** means a language designated by law for the conduct of government business.
 * **Workplace** means any place where a person works for an employer, whether public or private.
+* **Public accommodation** means a business, facility, or service, whether public or private, that offers goods, services, or access to the general public.
 
 **Official languages:** This Constitution does not establish an official language. A law may designate one or more official languages for the conduct of government business. No such designation limits the right in this subsection.
 
-**No penalty for language:** No person shall be denied a right, benefit, service, or opportunity, punished, disciplined, or harassed by an official or employer, because the person speaks, writes, or uses their native language, or speaks an official language with an accent or with limited proficiency.
+**No penalty for language:** No person shall be denied a right, benefit, service, or opportunity, punished, disciplined, or harassed by an official, an employer, or a public accommodation, because the person speaks, writes, or uses their native language, or speaks an official language with an accent or with limited proficiency.
+
+**Public accommodations:** No public accommodation shall refuse service to a person, serve a person on worse terms, or require a person to leave, because the person uses their native language. A public accommodation is not required to offer its goods or services in any particular language. This paragraph, and the paragraph above as it applies to public accommodations, bind private actors as well as the government. *(This is an express provision for purposes of I.4.b.)*
 
 **Workplaces:** An employer may require an employee to be proficient in an official language, or in another language, and to use it while performing work, only to the extent reasonably necessary for the employee to do the work safely and effectively, such as communicating with the public, with coworkers on shared tasks, or in an emergency. An employer shall not prohibit an employee from using their native language during breaks, in private conversation, or while performing work that does not require communication in another language. This paragraph binds private employers as well as the government. *(This is an express provision for purposes of I.4.b.)*
 
