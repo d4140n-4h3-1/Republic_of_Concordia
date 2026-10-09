@@ -102,6 +102,21 @@ If the Vice President and a majority of the heads of the executive departments d
 
 If the President disputes that declaration, the President resumes the office unless, within twenty-one days, two-thirds of all members of each House vote that the inability continues.
 
+### V.3.e — End of Term and Acting President
+
+The terms of the President and Vice President end on the day the next terms begin under III.5.e, whether or not a successor has been certified. No President or Vice President shall continue in office after the term ends.
+
+If, when the new term begins, no President-elect has been certified:
+
+1. the Vice President-elect, if certified, shall act as President until a President-elect is certified; or
+2. if no Vice President-elect has been certified, the first person in the order of succession established by law under V.3.b who holds an office for which no election is pending, who was not a candidate for President or Vice President in that election, and who satisfies V.2.c, shall act as President until a President-elect or Vice President-elect is certified.
+
+The outgoing President or Vice President shall never act as President under this subsection unless certified as the winner.
+
+**Limits on an acting President:** A person acting as President under this subsection shall not grant a pardon, commutation, or reprieve, and shall not declare an emergency except to respond to an armed attack or a natural disaster that is occurring.
+
+**Prompt resolution:** The Election Authority shall certify the presidential election no later than forty-five days after it is held. Every court shall decide a challenge to that election on an expedited basis, and the Supreme Court shall decide any appeal before the new term begins where possible. If no President-elect or Vice President-elect has been certified within ninety days after the new term begins, a court shall order a new election under III.8.b, to be held within ninety days after the order.
+
 ---
 
 ## Section 4 — Appointments and Removal
@@ -194,7 +209,7 @@ The President may declare an emergency. The declaration shall be in writing and 
 
 A declaration expires thirty days after it is made unless Congress extends it.
 
-Congress may extend a declaration by a majority vote of each House, for no more than thirty days at a time.
+Congress may extend a declaration by a majority vote of each House, for no more than thirty days at a time. Once a declaration, with its extensions, has lasted ninety days, each further extension requires a vote of three-fifths of all members of each House.
 
 Congress may terminate a declaration at any time by a majority vote of each House. A termination is not subject to veto.
 

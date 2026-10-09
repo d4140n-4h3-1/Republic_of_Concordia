@@ -151,6 +151,21 @@ Congress shall provide by law for the early dismissal of any civil action brough
 
 **Speech of others:** This subsection does not restrict any person's speech, including speech urging another person to use a particular language, except as I.1.a and the law against harassment and threats permit.
 
+### I.1.g — Freedom of Movement
+
+**Right:** Every person lawfully present in Concordia shall have the right to move freely within it, and to leave it. Every citizen shall have the right to enter and return to Concordia.
+
+**Definitions:**
+
+* **Curfew** means an order requiring persons in an area to remain indoors, or off public streets, during stated hours.
+* **General restriction on movement** means an order restricting the movement of the public at large, or of everyone in an area, rather than of specific persons.
+
+A restriction on movement shall satisfy I.4.c.
+
+**Curfews and general restrictions:** No government shall impose a curfew or a general restriction on movement, except an order keeping persons out of a specific place of immediate danger, such as a fire, a flood, a collapsing structure, or an active attack, for no longer than the danger lasts.
+
+This subsection does not limit lawful custody under Article II, an individual order under I.3.a or I.1.d, or an individual order of a court.
+
 ---
 
 ## Section 2 — Right to Education

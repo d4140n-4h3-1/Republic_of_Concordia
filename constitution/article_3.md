@@ -381,6 +381,8 @@ A general election for federal offices shall be held every two years, on a date 
 
 Every federal term filled at a general election begins on the seventy-fifth day after that election, unless this Constitution expressly provides otherwise.
 
+**No holdover:** Every term of an elected office ends when the next term for that office begins, whether or not a successor has been certified. No person shall continue to exercise the powers of an elected office after the term ends, except as this Constitution expressly provides. *(See V.3.e for the presidency and IV.4.e for Congress.)*
+
 ---
 
 ## Section 6 — Eligibility for Elected Office
