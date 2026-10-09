@@ -20,6 +20,8 @@ A child adopted by a citizen becomes a citizen upon the adoption.
 
 Congress shall establish uniform rules for naturalization (IV.1.b). No rule of naturalization shall distinguish among applicants on the basis of protected status (I.4.a) unless it satisfies I.4.c.
 
+No rule of naturalization shall require an applicant to speak, read, or write an official language or any other particular language. Every test, interview, and ceremony for naturalization shall be offered in a language the applicant understands, through interpretation or translation where needed (I.1.f).
+
 ### VII.1.c — Equal Citizenship
 
 All citizens possess equal rights and status, whether citizenship was acquired by birth, adoption, naturalization, or under VIII.3.g.
