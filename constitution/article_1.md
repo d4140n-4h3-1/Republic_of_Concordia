@@ -269,6 +269,8 @@ No person shall be denied a right, benefit, protection, opportunity, or service 
 
 **Remedies for discrimination:** A law or court order may take account of protected status to remedy specific, identified discrimination against identifiable persons or groups. The remedy shall be narrowly tailored to the discrimination identified and shall end when its effects have been remedied. This is an express permission for purposes of I.4.c.
 
+**Single-sex spaces:** A government or a private actor may separate restrooms, changing rooms, showers, sleeping quarters, shelters, and housing in places of custody by sex, where privacy or safety reasonably requires it. This is an express permission for purposes of I.4.c. Every government facility separated by sex shall also provide, in the same place or nearby, a private single-occupancy option open to every person, so that no person is left without a facility. Separation by sex does not permit any other distinction based on gender identity, and no person shall be harassed or denied service because of gender identity. Where housing by sex would place a person in custody at substantial risk of harm, the custodial authority shall house the person safely in a way that does not amount to solitary confinement (II.5.e).
+
 **Age-based distinctions:** A distinction based on age that this Constitution expressly establishes (including the age of majority, the voting age, age requirements for elected office, and special protections for minors) is a constitutional exception that applies as written under I.4.c and shall apply equally to all persons of the same age. An age-based distinction not expressly established by this Constitution remains subject to I.4.c.
 
 ### I.4.b — Application
