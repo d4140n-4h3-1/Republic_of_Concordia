@@ -55,6 +55,7 @@ Bills live in [`constitution/bills/`](constitution/bills/). Each one is written 
 | [b-08](constitution/bills/b-08.md) | Firearm Definition Act | Draft |
 | [b-09](constitution/bills/b-09.md) | Emergency Powers Act | Draft |
 | [b-10](constitution/bills/b-10.md) | Judicial Enforcement Service Act | Draft |
+| [b-11](constitution/bills/b-11.md) | Firearm Licensing Act | Draft |
 
 ## Reading the Text
 
