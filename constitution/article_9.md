@@ -45,7 +45,7 @@ A ratified amendment becomes part of this Constitution upon certification of the
 
 ### IX.3.a — Protection of Fundamental Rights
 
-Except as IX.3.d permits, no amendment shall repeal, narrow, suspend, or create a new exception to a right established by Article I, Article II, Article III, or Article X.
+Except as IX.3.d and IX.3.f permit, no amendment shall repeal, narrow, suspend, or create a new exception to a right established by Article I, Article II, Article III, or Article X.
 
 This limit applies to an amendment that would accomplish the same result indirectly, including by changing a definition used in those Articles, by altering the constitutional standard for exceptions in I.4.c or II.10.d, or by lengthening a time limit or weakening a procedure that protects such a right.
 
@@ -59,9 +59,9 @@ No amendment shall repeal, narrow, or suspend this Section.
 
 ### IX.3.c — Judicial Review of Amendments
 
-A court of competent jurisdiction may determine whether an amendment was proposed and ratified in compliance with this Article and whether it violates IX.3.a or IX.3.e or exceeds IX.3.d.
+A court of competent jurisdiction may determine whether an amendment was proposed and ratified in compliance with this Article and whether it violates IX.3.a or IX.3.e or exceeds IX.3.d or IX.3.f.
 
-An amendment that violates IX.3.a or IX.3.e or exceeds IX.3.d shall have no legal effect.
+An amendment that violates IX.3.a or IX.3.e or exceeds IX.3.d or IX.3.f shall have no legal effect.
 
 ### IX.3.d — Technical Corrections
 
@@ -118,3 +118,42 @@ No amendment, including a correction amendment under IX.3.d, shall do any of the
 16. allow districts to be drawn by any body other than an independent commission, or remove the prohibition of gerrymandering in III.4.a.
 
 An amendment may otherwise change the design of these institutions, and may shorten a term of office for terms that begin after the amendment takes effect.
+
+### IX.3.f — Constitutional Review Convention
+
+**Purpose:** Once in each generation, the people may review the details of the rights in Articles I, II, III, and X, without reopening the rights themselves or the safeguards against abuse of power.
+
+**Definitions:**
+
+* **Convention** means a Constitutional Review Convention held under this subsection.
+* **Convention amendment** means an amendment proposed by a convention and ratified under this subsection.
+* **Core provision** means a provision listed under **Permanent core** below.
+
+**Calling a convention:** At the general election held twenty-five years after this Constitution takes effect, and at the general election every twenty-five years after that, the Election Authority shall place on the ballot the question: "Shall a Constitutional Review Convention be held?" A convention is called only if the question is approved by both a majority of all votes cast on it nationwide and a majority of the votes cast on it in a majority of the constituent jurisdictions (VII.2.a). No convention may be called in any other way.
+
+**Delegates:** The convention consists of three hundred delegates, chosen by public random drawing from voters who apply, using the verification and public-drawing procedures of III.3.f, with seats apportioned among the constituent jurisdictions by population and at least one delegate from each. No more than one-third of the delegates may be affiliated (III.3.f) with the same political party. No person may serve as a delegate who, within the previous five years, held elected office, held office in a political party, or was a candidate for elected office. No delegate may be a candidate for elected office within five years after the convention adjourns. Delegates are paid for their service.
+
+**Sessions:** The convention shall meet in public, shall hear testimony from the public, and shall adjourn no later than two years after it first meets.
+
+**What a convention may propose:** A convention may propose amendments that change any provision of Articles I, II, III, and X other than a core provision, including the conditions, exceptions, limits, and details that apply a right, even if the change narrows a right or creates an exception to it. Each proposal shall address a single subject (IX.1.b), shall state the provisions it changes and the reasons, and shall be adopted by two-thirds of all delegates.
+
+**Permanent core:** No convention amendment shall repeal, narrow, suspend, or create an exception to:
+
+1. the statement of a right that follows the label **Right:** in any subsection of Articles I, II, III, and X;
+2. the constitutional standards for exceptions in I.4.c and II.10.d;
+3. the list of protected statuses in I.4.a, except to add a status;
+4. the rights of an accused person and of a person in custody in Article II, Sections 1, 3, 4, and 5;
+5. the right to vote, equal suffrage, and the independence of elections in Article III, Sections 1, 3, and 4;
+6. any safeguard listed in IX.3.e; or
+7. this Section.
+
+**Review and ratification:** A convention amendment requires all of the following, in this order:
+
+1. adoption by the convention under this subsection;
+2. certification by the Supreme Court, after public briefing and argument and within one hundred eighty days after adoption, that the amendment does not repeal, narrow, suspend, or create an exception to any core provision. An amendment that is not certified shall not be submitted to the voters; and
+3. ratification by referendum under IX.2.a, at a general election held at least one year after the convention adjourns, approved, in place of the majorities in IX.2.b, by both three-fifths of all votes cast on the amendment nationwide and a majority of the votes cast on the amendment in two-thirds of the constituent jurisdictions (VII.2.a).
+
+Congress and the President have no power to propose, change, block, or delay a convention amendment.
+
+**No retroactive harm:** No convention amendment shall make punishable any conduct that occurred before it took effect, or take away a remedy for a violation that occurred before it took effect.
+
