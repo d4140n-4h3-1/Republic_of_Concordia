@@ -57,6 +57,7 @@ Bills live in [`constitution/bills/`](constitution/bills/). Each one is written 
 | [b-10](constitution/bills/b-10.md) | Judicial Enforcement Service Act | Draft |
 | [b-11](constitution/bills/b-11.md) | Firearm Licensing Act | Draft |
 | [b-12](constitution/bills/b-12.md) | Public Participation Protection Act | Draft |
+| [b-13](constitution/bills/b-13.md) | Equal Treatment Act | Draft |
 
 ## Reading the Text
 
