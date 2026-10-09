@@ -36,6 +36,29 @@ Government officials shall not intentionally represent an accused person as lega
 
 The presumption of innocence does not prohibit lawful investigative, protective, or custodial measures authorized by this Constitution.
 
+### II.1.c — Taking of Private Property
+
+**Right:** No private property shall be taken for public use without just compensation.
+
+**Definitions:**
+
+* **Taking** means a governmental acquisition of property, a permanent or temporary physical occupation or use of property, or a regulation that deprives the owner of all or substantially all of the property's economically beneficial use.
+* **Public use** means use by the government or the public, or for a public purpose such as roads, utilities, public buildings, or relief in a declared emergency (V.6).
+* **Just compensation** means the fair market value of the property at the time of the taking, or of its use for a temporary taking, together with any damage to the property and the reasonable cost of relocating a person or business displaced by the taking.
+
+**Private transfer:** No property shall be taken in order to transfer it to a private person for private economic development. This does not prevent a taking for a public utility or common carrier that serves the public on equal terms.
+
+**Payment:** Compensation shall be paid before or at the time of a taking. Where property is used in a declared emergency, compensation shall be paid within ninety days after the property is returned.
+
+**Procedure:** The government shall give the owner written notice of a proposed taking and of its offer of compensation. The owner may challenge in court whether the taking is for public use and whether the compensation is just, and the court shall decide both questions independently of the government's determination. Where the final award exceeds the government's offer, the government shall pay the owner's reasonable legal and appraisal costs.
+
+**Not takings:** The following are not takings:
+
+1. taxes, fees, and fines lawfully imposed;
+2. a seizure of property as evidence, or a forfeiture, permitted by this Constitution (I.3.b);
+3. a law that prevents a use of property that would harm the health or safety of others, if the law applies equally to all comparable property; and
+4. the destruction of property that is necessary to prevent imminent danger to life, such as stopping the spread of a fire.
+
 ## Section 2 — Categories of Custody
 
 ### II.2.a — Custody Classification
