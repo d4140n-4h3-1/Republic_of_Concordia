@@ -80,7 +80,7 @@ A correction amendment may change a provision of Article I, II, III, or X to cor
 **Procedure:** A correction amendment requires all of the following, in this order:
 
 1. proposal by a vote of three-fourths of all members of each House of Congress, under IX.1;
-2. certification by the Supreme Court, after public briefing and argument, that the amendment corrects a drafting error and satisfies this subsection. The Court shall decide within one hundred eighty days after the proposal. An amendment that is not certified shall not be submitted to the voters; and
+2. certification by at least seven judges of the Supreme Court, after public briefing and argument, that the amendment corrects a drafting error and satisfies this subsection. The Court shall decide within one hundred eighty days after the proposal. An amendment that is not certified shall not be submitted to the voters; and
 3. ratification by referendum under IX.2.a, approved, in place of the majorities in IX.2.b, by both three-fifths of all votes cast on the amendment nationwide and a majority of the votes cast on the amendment in two-thirds of the constituent jurisdictions (VII.2.a).
 
 An amendment that does not narrow a right or create an exception to it does not need to use this subsection.
@@ -150,7 +150,7 @@ An amendment may otherwise change the design of these institutions, and may shor
 **Review and ratification:** A convention amendment requires all of the following, in this order:
 
 1. adoption by the convention under this subsection;
-2. certification by the Supreme Court, after public briefing and argument and within one hundred eighty days after adoption, that the amendment does not repeal, narrow, suspend, or create an exception to any core provision. An amendment that is not certified shall not be submitted to the voters; and
+2. certification by at least seven judges of the Supreme Court, after public briefing and argument and within one hundred eighty days after adoption, that the amendment does not repeal, narrow, suspend, or create an exception to any core provision. An amendment that is not certified shall not be submitted to the voters; and
 3. ratification by referendum under IX.2.a, at a general election held at least one year after the convention adjourns, approved, in place of the majorities in IX.2.b, by both three-fifths of all votes cast on the amendment nationwide and a majority of the votes cast on the amendment in two-thirds of the constituent jurisdictions (VII.2.a).
 
 Congress and the President have no power to propose, change, block, or delay a convention amendment.

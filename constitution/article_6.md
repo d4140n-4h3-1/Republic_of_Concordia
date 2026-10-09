@@ -157,7 +157,7 @@ Congress may regulate appellate procedure, but shall not remove from the Supreme
 
 At least six judges shall participate in a decision of the Supreme Court.
 
-The Court decides by a majority of the judges participating, except that an act of Congress may be held unconstitutional only with the agreement of at least five judges.
+The Court decides by a majority of the judges participating, except that an act of Congress may be held unconstitutional only with the agreement of at least five judges, and an amendment may be certified under IX.3.d or IX.3.f only with the agreement of at least seven judges. If fewer than seven judges agree, the amendment is not certified.
 
 Where the judges participating are equally divided, the judgment under review stands.
 
