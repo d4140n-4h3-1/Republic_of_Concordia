@@ -54,6 +54,7 @@ Bills live in [`constitution/bills/`](constitution/bills/). Each one is written 
 | [b-07](constitution/bills/b-07.md) | Defensive Use of Unlawful Weapons Act | Draft |
 | [b-08](constitution/bills/b-08.md) | Firearm Definition Act | Draft: 1 open decision |
 | [b-09](constitution/bills/b-09.md) | Emergency Powers Act | Draft |
+| [b-10](constitution/bills/b-10.md) | Judicial Enforcement Service Act | Draft |
 
 ## Reading the Text
 
