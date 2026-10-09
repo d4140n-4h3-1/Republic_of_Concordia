@@ -209,7 +209,7 @@ The President may declare an emergency. The declaration shall be in writing and 
 
 A declaration expires thirty days after it is made unless Congress extends it.
 
-Congress may extend a declaration by a majority vote of each House, for no more than thirty days at a time.
+Congress may extend a declaration by a majority vote of each House, for no more than thirty days at a time. Once a declaration, with its extensions, has lasted ninety days, each further extension requires a vote of three-fifths of all members of each House.
 
 Congress may terminate a declaration at any time by a majority vote of each House. A termination is not subject to veto.
 
