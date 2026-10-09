@@ -233,6 +233,8 @@ Every person shall have the right to take reasonable measures to defend themselv
 
 **Workplaces and schools:** Any employer, including a government employer, may discipline or dismiss an employee for possessing, consuming, or being impaired by a substance at the workplace or while working. Any school, including a public school, may discipline a student, including a minor, for possessing, consuming, or being impaired by a substance on school grounds or at a school activity, notwithstanding the limits on responses to a minor's personal use in this subsection and the limits on civil penalties above.
 
+**Searches:** The possession, odor, or sight of a substance in an amount consistent with personal use, or of items used to consume it, shall not justify a search, seizure, or arrest without a warrant. This does not limit a search with consent under II.6.d.
+
 **Persons in custody:** The rights established by this subsection are subject to the Exception for Lawful Custody in I.3.a.
 
 ---
