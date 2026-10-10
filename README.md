@@ -4,10 +4,11 @@
 
 This is a fictional constitution: the founding document of Concordia, an imagined nation, modeled on the Constitution of the United States and written as worldbuilding. It is a draft in progress. It is not legal advice and it does not propose real legislation.
 
-The repository has two parts:
+The repository has three parts:
 
 - **The Constitution**: a preamble and ten Articles, one file each.
 - **Bills**: ordinary laws drafted under the Constitution to test how its rules work in practice.
+- **Education**: a set of education acts, modeled on Singapore's system, that carry out the right to education in Article I, Section 2.
 
 ---
 
@@ -63,11 +64,23 @@ Bills live in [`constitution/bills/`](constitution/bills/). Each one is written 
 | [b-16](constitution/bills/b-16.md) | Safe Driving Act | Draft |
 | [b-17](constitution/bills/b-17.md) | Freedom of Information Act | Draft |
 
+## Education
+
+The education acts live in [`constitution/education/`](constitution/education/). They are modeled on Singapore's system: high standards, a mastery approach to mathematics, bilingual education, a highly selected and well-paid teaching profession, subject-by-subject placement, and many routes to further study. They adapt it to Concordia's Constitution: free education at every level (I.2.a), language rights (I.1.f), equal protection (I.4.a), and schools run by the states (VII.3.a), with federal standards tied to federal funding.
+
+| File | Act | What it covers |
+|---|---|---|
+| [e-01](constitution/education/e-01.md) | National Education System Act | Stages from early childhood to university; three post-secondary pathways; no dead ends; private and home education |
+| [e-02](constitution/education/e-02.md) | Curriculum and Languages Act | An independent Curriculum Council; core curriculum; mastery mathematics; bilingual education; limits on hours and homework |
+| [e-03](constitution/education/e-03.md) | Teaching Profession Act | Selective entry; paid training; professional pay; 100 hours of development a year; three career tracks; class sizes |
+| [e-04](constitution/education/e-04.md) | Assessment and Pathways Act | Two national assessments; subject-based banding; no rankings; no exclusion by test; free extra help instead of paid tutoring |
+| [e-05](constitution/education/e-05.md) | Learning Funding Act | Equal base funding plus funding for need; student Learning Accounts; Lifelong Learning Accounts; support for families in need |
+
 ## Reading the Text
 
 - **Citations** use the form `Article.Section.subsection`. For example, `I.4.c` means Article I, Section 4, subsection c.
 - **Section 0.** Where an Article has a Section 0, it holds framing material for the whole Article: shared definitions in Article I, and the reason for its placement in Article X.
-- **Checking citations.** Run `python3 scripts/check_refs.py` after any edit. It confirms that every citation in the Articles, the bills, and this README points to a section or subsection that exists.
+- **Checking citations.** Run `python3 scripts/check_refs.py` after any edit. It confirms that every citation in the Articles, the bills, the education acts, and this README points to a section or subsection that exists.
 - **Draft notes.** A *Draft note* at the top of some Articles gives context for the drafting.
 - **Open decisions.** A `[DECIDE: ...]` line in a bill or Article marks a policy choice that hasn't been made yet. None are open at present.
 - **Placeholder names.** Some names are placeholders. For example, "the Founding Convention" in Article VIII can be renamed to fit the story.
