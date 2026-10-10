@@ -4,11 +4,12 @@
 
 This is a fictional constitution: the founding document of Concordia, an imagined nation, modeled on the Constitution of the United States and written as worldbuilding. It is a draft in progress. It is not legal advice and it does not propose real legislation.
 
-The repository has three parts:
+The repository has four parts:
 
 - **The Constitution**: a preamble and ten Articles, one file each.
 - **Bills**: ordinary laws drafted under the Constitution to test how its rules work in practice.
 - **Education**: a set of education acts, modeled on Singapore's system, that carry out the right to education in Article I, Section 2.
+- **Economy**: a set of economic acts, drawing on the best policies of the Nordic countries.
 
 ---
 
@@ -18,7 +19,7 @@ The Constitution opens with a short [Preamble](constitution/preamble.md) stating
 
 | Article | Title | What it covers |
 |---|---|---|
-| [I](constitution/article_1.md) | Fundamental Rights and Liberties | Shared definitions; speech, press, language, movement, religion, freedom from slavery and servitude; education; bodily autonomy; equal protection and the strict test for any exception to a right |
+| [I](constitution/article_1.md) | Fundamental Rights and Liberties | Shared definitions; speech, press, language, movement, association and unions, religion, freedom from slavery and servitude; education; bodily autonomy; equal protection and the strict test for any exception to a right |
 | [II](constitution/article_2.md) | Custody and Justice | Due process; just compensation for taken property; every category of custody; arrest and detention; rights of the accused; treatment in custody; search and privacy; sentencing; rights after conviction; judicial remedies |
 | [III](constitution/article_3.md) | Democratic Government and Elections | Voting rights; the independent Election Authority; a ban on gerrymandering; terms, term limits and age limits; election integrity; campaign finance and foreign interference |
 | [IV](constitution/article_4.md) | The Legislative Power | Congress (House and Senate); legislative procedure; investigations and subpoenas; veto; ethics; impeachment; appropriations |
@@ -77,11 +78,25 @@ The education acts live in [`constitution/education/`](constitution/education/).
 | [e-05](constitution/education/e-05.md) | Learning Funding Act | Equal base funding plus funding for need; student Learning Accounts; Lifelong Learning Accounts; support for families in need |
 | [e-06](constitution/education/e-06.md) | Constitutional Literacy Act | Teaching the full Constitution and how to use it; information literacy; strict neutrality; a free plain-language guide for everyone; training for officials; plain statements of authority and the right to refuse a search; no misstating rights |
 
+## Economy
+
+The economic acts live in [`constitution/economy/`](constitution/economy/). They combine the strongest policies of the Nordic countries: a market economy with sectoral collective bargaining and workers on company boards (Sweden, Norway), flexicurity (Denmark), universal health care and generous parental leave (Sweden), Housing First (Finland), a national wealth fund with a strict spending rule (Norway), pensions that balance themselves automatically (Sweden), and a broad, transparent tax system with an independent fiscal council. They rest on the freedom of association in I.1.h, the taxing and spending powers, and the commerce power.
+
+| File | Act | What it covers |
+|---|---|---|
+| [n-01](constitution/economy/n-01.md) | Work and Collective Bargaining Act | Sectoral bargaining; a National Bargaining Council; minimum wage where no agreement applies; the right to strike; workers on boards; works councils; a Labor Court; equal pay |
+| [n-02](constitution/economy/n-02.md) | Flexicurity Act | Flexible hiring and dismissal with notice and severance; unemployment insurance at 90% of wages for two years; active help to train and find work |
+| [n-03](constitution/economy/n-03.md) | Universal Health Care Act | Tax-funded care for every resident; free dental care to age 25; an annual ceiling on fees; regional delivery; guaranteed waiting times |
+| [n-04](constitution/economy/n-04.md) | Family Support Act | 480 days of paid parental leave, 90 reserved for each parent; a right to childcare from age one with capped fees; a universal child benefit |
+| [n-05](constitution/economy/n-05.md) | Pensions and National Wealth Fund Act | A guaranteed pension plus earnings-related and funded pensions; automatic balancing; a National Wealth Fund with a 3% spending rule and ethical guidelines |
+| [n-06](constitution/economy/n-06.md) | Fiscal Responsibility and Taxation Act | A broad tax base; progressive tax on work and a flat tax on capital; public tax records; pre-filled returns; a surplus target and debt anchor; an independent Fiscal Council; competition and open trade |
+| [n-07](constitution/economy/n-07.md) | Housing Act | Housing First; nonprofit housing open to all; a revolving National Building Fund; housing allowances; tenant protections; planning for supply |
+
 ## Reading the Text
 
 - **Citations** use the form `Article.Section.subsection`. For example, `I.4.c` means Article I, Section 4, subsection c.
 - **Section 0.** Where an Article has a Section 0, it holds framing material for the whole Article: shared definitions in Article I, and the reason for its placement in Article X.
-- **Checking citations.** Run `python3 scripts/check_refs.py` after any edit. It confirms that every citation in the Articles, the bills, the education acts, and this README points to a section or subsection that exists.
+- **Checking citations.** Run `python3 scripts/check_refs.py` after any edit. It confirms that every citation in the Articles, the bills, the education and economic acts, and this README points to a section or subsection that exists.
 - **Draft notes.** A *Draft note* at the top of some Articles gives context for the drafting.
 - **Open decisions.** A `[DECIDE: ...]` line in a bill or Article marks a policy choice that hasn't been made yet. None are open at present.
 - **Placeholder names.** Some names are placeholders. For example, "the Founding Convention" in Article VIII can be renamed to fit the story.
