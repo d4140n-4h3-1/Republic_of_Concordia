@@ -75,6 +75,7 @@ The education acts live in [`constitution/education/`](constitution/education/).
 | [e-03](constitution/education/e-03.md) | Teaching Profession Act | Selective entry; paid training; professional pay; 100 hours of development a year; three career tracks; class sizes |
 | [e-04](constitution/education/e-04.md) | Assessment and Pathways Act | Two national assessments; subject-based banding; no rankings; no exclusion by test; free extra help instead of paid tutoring |
 | [e-05](constitution/education/e-05.md) | Learning Funding Act | Equal base funding plus funding for need; student Learning Accounts; Lifelong Learning Accounts; support for families in need |
+| [e-06](constitution/education/e-06.md) | Constitutional Literacy Act | Teaching the full Constitution and how to use it; information literacy; strict neutrality; a free plain-language guide for everyone; training for officials; plain statements of authority and the right to refuse a search; no misstating rights |
 
 ## Reading the Text
 
