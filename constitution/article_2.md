@@ -641,6 +641,8 @@ A warrantless search or seizure based upon exigent circumstances shall be limite
 
 The government shall not manufacture or intentionally create exigent circumstances solely to avoid the warrant requirement.
 
+**Samples from the body:** The natural fading of a substance from a person's body is not, by itself, an exigent circumstance. A sample of a person's blood, urine, or other bodily fluid or tissue may be taken only with a warrant or with consent. A breath test may be taken without a warrant only after a lawful arrest for impaired conduct that rests on evidence of impairment other than the odor or sight of a substance (I.3.b). The government shall provide a means of obtaining a warrant electronically, from an impartial tribunal, at any hour, so that a warrant for a bodily sample can be sought without delay.
+
 ### II.6.e — Digital and Personal Information
 
 Governmental access to private digital data, electronic communications, or stored personal information shall be subject to the same constitutional protections against unreasonable search and seizure as other protected personal information.
