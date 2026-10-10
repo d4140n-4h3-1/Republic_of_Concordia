@@ -361,3 +361,26 @@ No statute, regulation, order, policy, or governmental practice may create an ex
 A governmental official or institution shall not enlarge, redefine, or create a constitutional exception by interpretation, administrative practice, or ordinary legislation.
 
 Where a restriction can be applied in more than one manner, the interpretation that preserves the greater portion of the constitutional right shall control.
+
+---
+
+## Section 5 — Right to Housing
+
+### I.5.a — Adequate Housing
+
+**Right:** Every person lawfully residing in Concordia shall have the right to adequate housing.
+
+**Definitions:**
+
+* **Adequate housing** means a home that is safe, sanitary, and habitable, held under secure tenure, accessible to a person with a disability who lives there, and affordable.
+* **Secure tenure** means a lease, ownership, or other lawful arrangement that protects the occupant from arbitrary eviction.
+* **Affordable** means that housing costs do not exceed **thirty percent** of the household's income, after any housing allowance provided by law.
+
+**Duty of government:** The government shall ensure that every person who cannot obtain adequate housing by their own means is offered it. An offer of housing shall not be conditioned on sobriety, employment, or acceptance of treatment, but support shall be offered with it (I.3.a).
+
+**Work and housing:** Any minimum wage established by law, together with any housing allowance, shall be sufficient for a person working full time to afford adequate housing.
+
+**Evictions:** No person shall be evicted except under law, for cause, after notice and a hearing (II.1.a). No person shall be evicted into homelessness: before a lawful eviction is carried out against a person who cannot obtain other adequate housing, the government shall offer them adequate housing.
+
+**Limits:** This subsection does not give any person a right to a particular home or location, or to occupy property belonging to another, and does not permit the taking of private property without just compensation (II.1.c). It does not require the government to provide housing free of charge to a person who can afford it.
+
