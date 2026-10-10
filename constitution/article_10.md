@@ -39,7 +39,7 @@ The conditions in Section 2 are express constitutional exceptions and apply as w
 
 A law may require a person to hold a license to purchase before acquiring arms by sale or other transfer. No license shall be required to keep or bear arms that a person lawfully holds.
 
-A license to purchase shall be issued to every applicant who:
+A license to purchase shall be issued to every applicant who holds the right in X.1.a and who:
 
 1. is not a prohibited person under X.2.b;
 2. passes a background check; and
