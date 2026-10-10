@@ -248,6 +248,8 @@ Every person shall have the right to take reasonable measures to defend themselv
 
 **Impairment:** A law, whether criminal or civil, may prohibit conduct while impaired that endangers other persons, such as driving, and impairment while performing a public duty, if the law satisfies I.4.c. **Impaired** means a present reduction in a person's mental or physical faculties, caused by a substance, sufficient to endanger others. The presence of a substance or its byproducts in a person's body is not, by itself, proof of impairment.
 
+**Vehicles:** A law may require that a substance carried in a motor vehicle on a public road be kept in a closed container, or out of the driver's reach, and may prohibit consuming a substance in such a vehicle while it is in motion, if the law applies equally to alcohol and satisfies I.4.c. This is an express permission for purposes of I.4.c and of the civil penalties paragraph above.
+
 **Workplaces and schools:** Any employer, including a government employer, may discipline or dismiss an employee for possessing, consuming, or being impaired by a substance at the workplace or while working. Any school, including a public school, may discipline a student, including a minor, for possessing, consuming, or being impaired by a substance on school grounds or at a school activity, notwithstanding the limits on responses to a minor's personal use in this subsection and the limits on civil penalties above.
 
 **Searches:** The possession, odor, or sight of a substance in an amount consistent with personal use, or of items used to consume it, shall not justify a search, seizure, or arrest without a warrant. This does not limit a search with consent under II.6.d.
