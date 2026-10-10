@@ -377,6 +377,14 @@ Congress shall establish procedures for public accounting of federal revenue, ex
 
 Exceptions for temporary national-security secrecy shall be narrowly construed and subject to lawful oversight.
 
+### IV.10.d — National Wealth Fund
+
+Every payment the federal government receives for the extraction or use of natural resources shall be paid into a national wealth fund, established by law and managed independently.
+
+No more than **three percent** of the fund's value may be transferred to the federal budget in any fiscal year, except by a vote of three-fifths of all members of each House.
+
+The fund shall not be pledged as security for any debt, and its holdings shall be published at least once each year.
+
 ---
 
 ## Section 11 — Legislative Continuity
