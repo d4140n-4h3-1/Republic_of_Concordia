@@ -137,6 +137,11 @@ No tax or fee on arms, ammunition, or licenses shall be imposed for the purpose 
 
 Against any person or group who seeks to abolish this constitutional order by force or by other unconstitutional means, every citizen has the right to resist, including by arms, when no other remedy is available.
 
+**No other remedy:** No other remedy is available only where:
+
+1. a court of competent jurisdiction has ordered that the attempt be stopped, and the order has been defied by force; or the courts have been prevented by force from sitting or from issuing such an order; and
+2. no lawful remedy can prevent an irreversible harm to this constitutional order in time.
+
 ### X.4.b — Limits
 
 The right of resistance does not apply to:
@@ -146,6 +151,12 @@ The right of resistance does not apply to:
 3. any act against a person who is not taking part in the attempt to abolish this constitutional order.
 
 The right of resistance exists only to restore this Constitution, and ends when the constitutional order is restored.
+
+**Force:** Resistance is limited to reasonable force (I.3.a), and shall be directed only at preventing or ending the attempt.
+
+**Collective resistance:** Citizens may resist together. No group organized in advance as an armed force may claim the right of resistance, and X.4.c continues to apply to it.
+
+**Proof:** Where a defendant raises evidence that an act was resistance under this Section, the government bears the burden of proving beyond a reasonable doubt that it was not (II.4.f).
 
 ### X.4.c — Intimidation Prohibited
 
