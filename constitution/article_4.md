@@ -127,6 +127,25 @@ A majority of the members of either House shall constitute a quorum to conduct l
 
 A smaller number may adjourn from day to day and may compel the attendance of absent members in a manner established by the rules of that House.
 
+**Constitutional emergency in a House:** At least one-fifth of the members of a House may declare a constitutional emergency on a pending measure, by a public written declaration that identifies the measure and the provisions of this Constitution it would violate. A declaration may be made only where the members state that the measure would:
+
+1. repeal, narrow, suspend, or create an exception to a right established by Article I, II, III, or X;
+2. violate a safeguard listed in IX.3.e; or
+3. postpone or cancel an election, or extend a term of office.
+
+**Protective quorum:** While a declaration is in effect, the quorum to consider, debate, or vote on that measure is two-thirds of the members of that House. All other business continues under the ordinary quorum.
+
+**Protective absence:** Members may withhold their attendance to deny the protective quorum on that measure. No member shall be compelled to attend, arrested, fined, expelled, censured, or deprived of pay, office, or committee position for doing so. Every member shall attend all other business as the rules of the House require.
+
+**Judicial review:** The House, or any member, may ask the Supreme Court to review the declaration.
+
+1. Within fourteen days, the Court shall decide whether the declaration has a substantial basis. If it does not, the declaration ends, and no new declaration may be made on the same measure unless it is materially changed.
+2. If it does, the Court shall decide within thirty more days whether the measure would violate this Constitution. If it would, the measure shall not be enacted, and any enactment of it has no legal effect. If it would not, the declaration ends.
+
+A declaration also ends when the measure is withdrawn, or amended to remove every provision the declaration identifies.
+
+**Limits:** No declaration may apply to a vote to terminate an emergency declaration (V.6.b), to impeachment (IV.9), or to an appropriation that only continues existing government functions at existing levels.
+
 ### IV.4.c — Journals
 
 Each House shall maintain a public journal of its proceedings.
