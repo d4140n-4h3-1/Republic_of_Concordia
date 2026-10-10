@@ -10,6 +10,8 @@ Every Article before it is meant to make this one unnecessary: rights that no am
 
 The right in this Article exists for the defense of persons and, if every other safeguard has failed, for the defense of this constitutional order itself. It is not a means of settling political disagreement.
 
+In plain words: this Constitution protects itself in every way it can, through courts, elections, impeachment, and enforcement. If all of that is overpowered by force, the people themselves are its last line of defense, but only to restore it, never to replace it.
+
 ---
 
 ## Section 1 — The Right
