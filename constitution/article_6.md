@@ -54,9 +54,9 @@ The judge with the longest current continuous service is the presiding judge of 
 
 ### VI.2.b — Age Eligibility
 
-A person shall be at least thirty-five years of age and younger than forty-seven years of age at the time of election to the Supreme Court.
+A person shall be at least thirty-five years of age at the time of election to the Supreme Court, and younger than forty-seven years of age on the day the term begins.
 
-No person who is forty-seven years of age or older may be elected to the Supreme Court.
+No person who will be forty-seven years of age or older on the day the term begins may be elected to the Supreme Court.
 
 This age requirement exists to permit completion of the full eighteen-year constitutional judicial term before the person reaches sixty-five years of age.
 
@@ -65,7 +65,7 @@ This age requirement exists to permit completion of the full eighteen-year const
 A candidate for Supreme Court judge shall:
 
 1. be a citizen;
-2. have reached thirty-five years of age and be younger than forty-seven years of age at election;
+2. have reached thirty-five years of age at election, and be younger than forty-seven years of age on the day the term begins;
 3. be licensed to practice law within the jurisdiction;
 4. have at least ten years of professional legal or judicial experience;
 5. have resided in the circuit whose seat is to be filled for at least one year immediately before the election; and
@@ -212,7 +212,7 @@ A finding of defiance against the President or Vice President may be made only b
 
 **No obstruction:** No person shall use the armed forces, any law enforcement agency, or any public funds to obstruct the enforcement of a judicial order.
 
-**Review:** A finding of defiance is subject to expedited appeal. A sanction under this subsection ends when the officer complies or when the order is reversed or stayed.
+**Review:** A finding of defiance is subject to expedited appeal. A sanction under this subsection ends no later than when the officer complies or when the order is reversed or stayed. A law may limit the duration of a particular sanction, but the suspension of the officer's authority under item 2 continues until the officer complies.
 
 ---
 
