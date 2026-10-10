@@ -89,7 +89,7 @@ The economic acts live in [`constitution/economy/`](constitution/economy/). They
 | [n-03](constitution/economy/n-03.md) | Universal Health Care Act | Tax-funded care for every resident; free dental care to age 25; an annual ceiling on fees; regional delivery; guaranteed waiting times |
 | [n-04](constitution/economy/n-04.md) | Family Support Act | 480 days of paid parental leave, 90 reserved for each parent; a right to childcare from age one with capped fees; a universal child benefit |
 | [n-05](constitution/economy/n-05.md) | Pensions and National Wealth Fund Act | A guaranteed pension plus earnings-related and funded pensions; automatic balancing; a National Wealth Fund with a 3% spending rule and ethical guidelines |
-| [n-06](constitution/economy/n-06.md) | Fiscal Responsibility and Taxation Act | A broad tax base; progressive tax on work and a flat tax on capital; public tax records for officials; pre-filled returns; a surplus target and debt anchor; an independent Fiscal Council; competition and open trade |
+| [n-06](constitution/economy/n-06.md) | Fiscal Responsibility and Taxation Act | A broad tax base; progressive tax on work and a flat tax on capital; a tax on extreme wealth, gains taxed at death, and an exit tax, funding the right to housing; public tax records for officials; pre-filled returns; a surplus target and debt anchor; an independent Fiscal Council; competition and open trade |
 | [n-07](constitution/economy/n-07.md) | Housing Act | Housing First; nonprofit housing open to all; a revolving National Building Fund; housing allowances; tenant protections; planning for supply |
 
 ## Reading the Text
