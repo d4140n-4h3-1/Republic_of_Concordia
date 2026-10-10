@@ -61,6 +61,7 @@ Bills live in [`constitution/bills/`](constitution/bills/). Each one is written 
 | [b-14](constitution/bills/b-14.md) | Freedom from Servitude Act | Draft |
 | [b-15](constitution/bills/b-15.md) | Fair Competition Act | Draft |
 | [b-16](constitution/bills/b-16.md) | Safe Driving Act | Draft |
+| [b-17](constitution/bills/b-17.md) | Freedom of Information Act | Draft |
 
 ## Reading the Text
 
