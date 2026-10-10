@@ -135,6 +135,12 @@ A smaller number may adjourn from day to day and may compel the attendance of ab
 
 **Protective quorum:** While a declaration is in effect, the quorum to consider, debate, or vote on that measure is two-thirds of the members of that House. In addition, no vote may be taken on that measure while two-thirds or more of the members of any party that holds at least one-fifth of the seats in that House are absent. A member belongs to a party if the member is affiliated with it as defined in III.3.f. All other business continues under the ordinary quorum.
 
+**Absence:** A member is absent on a declared measure if the member is not present, or is present but does not answer a quorum call or vote on that measure.
+
+**Counting:** Any member may ask the Supreme Court to rule on whether the protective quorum is met. The Court shall rule within forty-eight hours, and no vote on the measure may be taken until it does.
+
+**Unlawful votes:** A measure considered, debated, or voted on in violation of the protective quorum has not been lawfully passed, and has no legal effect, whatever the Court later decides about its merits.
+
 **Protective absence:** Members may withhold their attendance to deny the protective quorum on that measure. No member shall be compelled to attend, arrested, fined, expelled, censured, or deprived of pay, office, or committee position for doing so. Every member shall attend all other business as the rules of the House require.
 
 **Judicial review:** The House, or any member, may ask the Supreme Court to review the declaration.
@@ -143,6 +149,8 @@ A smaller number may adjourn from day to day and may compel the attendance of ab
 2. If it does, the Court shall decide within thirty more days whether the measure would violate this Constitution. If it would, the measure shall not be enacted, and any enactment of it has no legal effect. If it would not, the declaration ends.
 
 A declaration also ends when the measure is withdrawn, or amended to remove every provision the declaration identifies.
+
+**Substantially similar measures:** A measure substantially similar to one that the Court has found would violate this Constitution shall not be enacted. Any member may ask the Court to decide whether a measure is substantially similar, and the Court shall decide within seven days. No vote on the measure may be taken until it does.
 
 **Repeated baseless declarations:** A member who has signed three declarations in the same session of Congress that the Court found to have no substantial basis may not sign another declaration for the rest of that session. A declaration without enough eligible signatures is void.
 
