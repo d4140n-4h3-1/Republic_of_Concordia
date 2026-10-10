@@ -86,7 +86,13 @@ The Vice President shall exercise no legislative power.
 
 If the President dies, resigns, or is removed from office, the Vice President becomes President for the remainder of the term.
 
-Congress shall by law establish the further order of succession. Every successor shall be a person who holds an office to which the person was elected or confirmed by the Senate, and who satisfies V.2.c.
+After the Vice President, the order of succession is:
+
+1. the presiding officer of the House of Representatives;
+2. the presiding officer of the Senate; and
+3. the heads of the executive departments, in the order Congress establishes by law, or, where no law establishes an order, in the order in which their departments were established.
+
+If the offices of President and Vice President are both vacant, the first person in this order who is eligible acts as President for the remainder of the term, or until a Vice President is confirmed under V.3.c and becomes President. Congress may by law add further successors after these, but shall not change their order or remove any of them. Every successor shall be a person who holds an office to which the person was elected or confirmed by the Senate, and who satisfies V.2.c.
 
 Service as President through succession counts toward the term limit as provided in III.5.c.
 
@@ -109,7 +115,7 @@ The terms of the President and Vice President end on the day the next terms begi
 If, when the new term begins, no President-elect has been certified:
 
 1. the Vice President-elect, if certified, shall act as President until a President-elect is certified; or
-2. if no Vice President-elect has been certified, the first person in the order of succession established by law under V.3.b who holds an office for which no election is pending, who was not a candidate for President or Vice President in that election, and who satisfies V.2.c, shall act as President until a President-elect or Vice President-elect is certified.
+2. if no Vice President-elect has been certified, the first person in the order of succession under V.3.b who holds an office for which no election is pending, who was not a candidate for President or Vice President in that election, and who satisfies V.2.c, shall act as President until a President-elect or Vice President-elect is certified.
 
 The outgoing President or Vice President shall never act as President under this subsection unless certified as the winner.
 

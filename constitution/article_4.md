@@ -139,10 +139,12 @@ A smaller number may adjourn from day to day and may compel the attendance of ab
 
 **Judicial review:** The House, or any member, may ask the Supreme Court to review the declaration.
 
-1. Within fourteen days, the Court shall decide whether the declaration has a substantial basis. If it does not, the declaration ends, and no new declaration may be made on the same measure unless it is materially changed.
+1. Within seven days, the Court shall decide whether the declaration has a substantial basis. If it does not, the declaration ends, and no new declaration may be made on the same measure unless it is materially changed.
 2. If it does, the Court shall decide within thirty more days whether the measure would violate this Constitution. If it would, the measure shall not be enacted, and any enactment of it has no legal effect. If it would not, the declaration ends.
 
 A declaration also ends when the measure is withdrawn, or amended to remove every provision the declaration identifies.
+
+**Repeated baseless declarations:** A member who has signed three declarations in the same session of Congress that the Court found to have no substantial basis may not sign another declaration for the rest of that session. A declaration without enough eligible signatures is void.
 
 **Limits:** No declaration may apply to a vote to terminate an emergency declaration (V.6.b), to impeachment (IV.9), or to an appropriation that only continues existing government functions at existing levels.
 
