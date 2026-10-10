@@ -814,7 +814,7 @@ The government shall not prevent a person from challenging the legality of their
 
 **Definitions:**
 * **Effective remedy** means a judicial or lawful governmental measure reasonably capable of correcting or redressing a constitutional violation.
-* **Constitutional violation** means governmental conduct that violates a right, limitation, or requirement established by this Constitution.
+* **Constitutional violation** means governmental conduct that violates a right, limitation, or requirement established by this Constitution, or conduct by a private actor that violates a provision of this Constitution that expressly binds private actors.
 
 Every person shall have the right to an effective legal remedy for a constitutional violation.
 
