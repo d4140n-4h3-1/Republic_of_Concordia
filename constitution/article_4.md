@@ -133,7 +133,7 @@ A smaller number may adjourn from day to day and may compel the attendance of ab
 2. violate a safeguard listed in IX.3.e; or
 3. postpone or cancel an election, or extend a term of office.
 
-**Protective quorum:** While a declaration is in effect, the quorum to consider, debate, or vote on that measure is two-thirds of the members of that House. All other business continues under the ordinary quorum.
+**Protective quorum:** While a declaration is in effect, the quorum to consider, debate, or vote on that measure is two-thirds of the members of that House. In addition, no vote may be taken on that measure while two-thirds or more of the members of any party that holds at least one-fifth of the seats in that House are absent. A member belongs to a party if the member is affiliated with it as defined in III.3.f. All other business continues under the ordinary quorum.
 
 **Protective absence:** Members may withhold their attendance to deny the protective quorum on that measure. No member shall be compelled to attend, arrested, fined, expelled, censured, or deprived of pay, office, or committee position for doing so. Every member shall attend all other business as the rules of the House require.
 
