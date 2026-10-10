@@ -168,6 +168,22 @@ A restriction on movement shall satisfy I.4.c.
 
 This subsection does not limit lawful custody under Article II, an individual order under I.3.a or I.1.d, or an individual order of a court.
 
+### I.1.h — Freedom of Association
+
+**Right:** Every person shall have the right to form, join, and leave associations of any kind, and every worker shall have the right to form and join a union, to bargain collectively, and to strike.
+
+**Definitions:**
+
+* **Association** means a voluntary group formed for any lawful purpose, including political, religious, social, economic, or cultural purposes.
+* **Union** means an organization of workers, independent of any employer and any government, formed to represent its members in dealing with employers.
+* **Strike** means a collective refusal by workers to work, undertaken to advance their interests as workers.
+
+No person shall be compelled to join, support, or remain in any association, including a union.
+
+**Workers:** No employer shall dismiss, discipline, or disadvantage a worker for joining or declining to join a union, for taking part in its lawful activities, or for taking part in a lawful strike. Employers may likewise form and join associations to bargain collectively. This paragraph binds private employers as well as the government. *(This is an express provision for purposes of I.4.b.)*
+
+**Strikes:** A law may require notice and an offer of mediation before a strike, may bar strikes over matters settled by a collective agreement while it is in force, and may require that a minimum service be kept in health care, emergency services, and the supply of water and power, if the law satisfies I.4.c. A law may restrict strikes by members of the armed forces and by police officers only if it provides them an independent means of resolving their disputes.
+
 ---
 
 ## Section 2 — Right to Education
