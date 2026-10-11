@@ -125,7 +125,7 @@ a { color: var(--link); }
 .brand-name {
     font-family: var(--serif);
     font-weight: 700;
-    font-size: 1.2rem;
+    font-size: 1.05rem;
     letter-spacing: 0.04em;
     text-transform: uppercase;
 }
@@ -793,8 +793,11 @@ a.cite:hover { text-decoration-style: solid; }
     .pager .next { grid-column: 1; }
 }
 
-@media (max-width: 480px) {
+@media (max-width: 700px) {
     .brand-text { display: none; }
+}
+
+@media (max-width: 480px) {
     .quadrant ul { columns: 1; }
 }
 
