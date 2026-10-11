@@ -154,7 +154,7 @@
 
     function renderLibrary() {
         libraryList.innerHTML = groups.map((g) => `
-            <details open data-group="${g.key}">
+            <details data-group="${g.key}">
                 <summary><span class="swatch" style="background:${g.color}"></span>${escapeHtml(g.label)}</summary>
                 <ul>${g.docs.map((d) => `
                     <li><a href="${route(d)}" data-doc="${d.id}">
@@ -169,7 +169,6 @@
         for (const a of libraryList.querySelectorAll("a[data-doc]")) {
             if (current && a.dataset.doc === current.id) {
                 a.setAttribute("aria-current", "page");
-                a.closest("details").open = true;
             } else {
                 a.removeAttribute("aria-current");
             }
