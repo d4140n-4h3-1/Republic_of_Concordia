@@ -65,6 +65,10 @@ A court of competent jurisdiction may determine whether an amendment was propose
 
 An amendment that violates IX.3.a or IX.3.e or exceeds IX.3.d or IX.3.f shall have no legal effect.
 
+**Before the vote:** A court may also decide, before the referendum, whether a proposed amendment complies with IX.1.b and with this Section. The court shall decide such a challenge on an expedited basis and, where possible, before the ballots are printed. A decision before the vote that an amendment complies does not bar a later challenge on a ground not decided.
+
+**Who may challenge:** Any voter may bring a challenge under this subsection, before or after the vote, and a challenge is a case for purposes of VI.1.c.
+
 ### IX.3.d — Technical Corrections
 
 **Definitions:**

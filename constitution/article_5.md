@@ -108,6 +108,16 @@ If the Vice President and a majority of the heads of the executive departments d
 
 If the President disputes that declaration, the President resumes the office unless, within twenty-one days, two-thirds of all members of each House vote that the inability continues.
 
+**Declarations:** Every declaration under this subsection shall be signed, delivered to the presiding officers of both Houses, and made public at once. Only the heads of the executive departments in office when the Vice President's declaration is delivered count toward its majority, and no head shall be removed for joining or declining to join it.
+
+**Who acts:** If the office of Vice President is vacant, or the Vice President is also unable to act, the powers and duties of the Vice President under this subsection pass to the next person in the order of succession under V.3.b.
+
+**A disputed declaration:** The President disputes a declaration by declaring in writing, delivered and published in the same way, that no inability exists. The Vice President continues to act as President until Congress votes or the twenty-one days end, whichever is sooner. Congress shall convene within forty-eight hours after the President's declaration is delivered. Before voting, each House shall give the President an opportunity to be heard, in person or through counsel, and may receive medical evidence. If either House does not vote within twenty-one days, the President resumes the office.
+
+**Limits while disputed:** While a declaration is disputed, the person acting as President shall not remove or appoint a head of an executive department, grant a pardon, commutation, or reprieve, or declare an emergency except to respond to an armed attack or a natural disaster that is occurring.
+
+**Questions for the courts:** A dispute over whether a declaration was made, delivered, or signed by the persons this subsection requires shall be decided by the Supreme Court within seven days. Whether the President is in fact unable is for Congress alone to decide under this subsection.
+
 ### V.3.e — End of Term and Acting President
 
 The terms of the President and Vice President end on the day the next terms begin under III.5.e, whether or not a successor has been certified. No President or Vice President shall continue in office after the term ends.
