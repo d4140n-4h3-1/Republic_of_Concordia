@@ -632,15 +632,13 @@ No official's claim that an unconstitutional electoral action was required by or
 
 ### III.9.e — Continuity of Democratic Government
 
-Elections shall occur at constitutionally established intervals.
+Elections shall occur at constitutionally established intervals (III.5.e).
 
-No election may be indefinitely postponed, cancelled, or replaced by appointment solely for governmental convenience, political advantage, or administrative difficulty.
+No governmental authority may postpone, cancel, or replace by appointment any election, for any reason, or extend any term of office. No emergency declaration may alter an election or extend a term (V.6.c).
 
-Any constitutional emergency permitting alteration of an election shall be expressly authorized by this Constitution, limited to the circumstances expressly stated, and subject to constitutional limitations and judicial review.
+**Voting prevented by catastrophe:** Where an armed attack, natural disaster, or comparable catastrophe physically prevents voting in a particular area on the day of an election, the Election Authority, and no other body, may extend voting in that area only, by no more than fourteen days, and shall provide every other reasonable means to vote. Where voting still cannot be completed, a court shall order a new election in that area under III.8.b, to be held as soon as voting is possible. Extending voting or ordering a new election under this paragraph does not postpone the election everywhere else or extend any term.
 
-No emergency declaration shall permanently suspend elections or convert an elected office into an appointed office unless another constitutional provision expressly authorizes such action.
-
-A temporary inability to conduct an election shall not, by itself, extinguish the underlying voting right or permanently extend the authority of an elected official beyond the constitutionally authorized period.
+**No holdover:** An inability to hold or complete an election does not extinguish the right to vote and does not extend any term. Every term ends as III.5.e provides, and an office is filled in the meantime only as this Constitution expressly provides (IV.4.e, V.3.e).
 
 ---
 

@@ -317,7 +317,7 @@ The President, Vice President, federal judges, and other civil officers establis
 
 ### IV.9.b — Grounds
 
-Impeachment shall be permitted only for treason, bribery, corruption, serious abuse of constitutional authority, or other grave misconduct established by law consistent with this Constitution.
+Impeachment shall be permitted only for treason, bribery, corruption, serious abuse of constitutional authority, or other grave misconduct defined, consistent with this Constitution, by a law in force when the conduct occurred. No law may make conduct a ground for impeachment after the conduct occurred.
 
 Impeachment shall not be used merely because an officer:
 

@@ -326,7 +326,7 @@ Unless expressly provided elsewhere in this Constitution, this Article shall not
 
 *(Government is defined in I.0.a.)*
 
-**Conflicts between rights:** Where the exercise of one right would infringe the fundamental rights of another person, the conflict shall be resolved under I.4.c.
+**Conflicts between rights:** Where the exercise of one right would cause harm to another person's rights, the conflict shall be resolved under I.4.c.
 
 ### I.4.c — Constitutional Standard for Exceptions
 
@@ -339,6 +339,7 @@ Unless expressly provided elsewhere in this Constitution, this Article shall not
 * **Proportional** means that the burden imposed upon the constitutional right does not exceed what is reasonably necessary to address the governmental interest.
 * **Least restrictive means** means the available lawful measure that accomplishes the governmental objective while imposing the smallest practical restriction upon the affected constitutional right.
 * **Governmental burden** means the government's obligation to demonstrate the factual and legal basis for a claimed constitutional exception.
+* **Harm to another person's rights** means an actual or imminent injury to a fundamental right of one or more persons. It does not include offense, disagreement, disapproval of another person's lawful choices, or a general, remote, or speculative risk.
 
 A constitutional right shall not be restricted unless either:
 
@@ -361,3 +362,14 @@ No statute, regulation, order, policy, or governmental practice may create an ex
 A governmental official or institution shall not enlarge, redefine, or create a constitutional exception by interpretation, administrative practice, or ordinary legislation.
 
 Where a restriction can be applied in more than one manner, the interpretation that preserves the greater portion of the constitutional right shall control.
+
+**Protecting another person's rights:** A restriction may rely on the protection of another person's fundamental rights only where it directly prevents harm to another person's rights. The government shall identify the right protected and the persons, or the class of persons, whose right it protects, and shall show how the restriction prevents the harm.
+
+**Conflicts between rights:** Where the exercise of one right would cause harm to another person's rights, a court shall:
+
+1. protect each right as fully as the conflict allows;
+2. restrict neither right more than is necessary to protect the other;
+3. prefer a resolution that preserves both rights over one that sacrifices either; and
+4. state its reasons in writing.
+
+No right prevails over another merely because it appears earlier in this Constitution or because more persons hold or favor it.
