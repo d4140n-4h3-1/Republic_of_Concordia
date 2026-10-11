@@ -160,13 +160,13 @@ Congress shall provide by law for the early dismissal of any civil action brough
 **Definitions:**
 
 * **Curfew** means an order requiring persons in an area to remain indoors, or off public streets, during stated hours.
-* **General restriction on movement** means an order restricting the movement of the public at large, or of everyone in an area, rather than of specific persons.
+* **General restriction on movement** means an order restricting the movement of the public at large, or of everyone in an area, rather than of specific persons. A closure under the paragraph on national borders and international flights below is permitted only as that paragraph provides.
 
 A restriction on movement shall satisfy I.4.c.
 
-**Curfews and general restrictions:** No government shall impose a curfew or a general restriction on movement, except an order keeping persons out of a specific place of immediate danger, such as a fire, a flood, a collapsing structure, or an active attack, for no longer than the danger lasts.
+**Curfews and general restrictions:** No government shall impose a curfew or a general restriction on movement, except a closure of the national borders or international flights under this subsection, or an order keeping persons out of a specific place of immediate danger, such as a fire, a flood, a collapsing structure, or an active attack, for no longer than the danger lasts.
 
-**Isolation and quarantine:** A communicable disease does not permit a curfew or a general restriction on movement, including an order that the public at large, or everyone in an area, stay at home. The government may order the isolation or quarantine of a specific person only if all of the following are met:
+**Isolation and quarantine:** A communicable disease does not permit a curfew or a general restriction on movement within Concordia, including an order that the public at large, or everyone in an area, stay at home. The government may order the isolation or quarantine of a specific person only if all of the following are met:
 
 1. **Evidence:** the person has, or on specific facts is reasonably believed to have been exposed to, a communicable disease that presents an imminent, serious harm to others;
 2. **Necessity:** the order satisfies I.4.c, and no voluntary or less restrictive measure, such as testing or masking, is adequate;
@@ -174,6 +174,18 @@ A restriction on movement shall satisfy I.4.c.
 4. **Place and support:** the person is isolated at home or in another place of the person's choosing where practicable, and the government provides the food, medical care, and compensation for lost income the person needs while it lasts;
 5. **Review:** a court reviews the order within the period set for prompt review in II.3.c, and periodically while it lasts; and
 6. **Custody:** the order is custody under Article II, and II.2.q applies to it.
+
+**National borders and international flights:** During an emergency declared under V.6 because of a communicable disease that presents an imminent, serious harm to others, a law may authorize the closure of the national borders to entry, and the suspension of international passenger flights to and from Concordia, only if all of the following are met:
+
+1. **Necessity:** the closure satisfies I.4.c on the best available public-health evidence, and is limited to travel from the places where the disease is spreading unless a broader closure is shown to be necessary;
+2. **Duration:** each order lasts no longer than thirty days, may be renewed only on new evidence, and ends when the declaration ends (V.6.e);
+3. **Citizens may return:** no order shall bar a citizen from entering or returning to Concordia. Where flights are suspended, the government shall provide a means for citizens abroad to return. A returning citizen may be tested, and may be isolated or quarantined under the preceding paragraph; arrival from a place where the disease is spreading is a specific fact for its item 1;
+4. **Protection from removal:** no order shall return a person to a place described in II.2.p, and a person at the border who claims a risk of torture or persecution shall receive the determination that II.2.p requires;
+5. **No discrimination:** an order shall turn on where a person has traveled, not on nationality or any protected status (I.4.a);
+6. **Essential traffic:** an order shall not stop the movement of goods, or of medical, humanitarian, or diplomatic flights and personnel; and
+7. **Review:** an order is subject to judicial review under V.6.d.
+
+Travel within Concordia, including between constituent jurisdictions, shall not be closed or suspended because of a communicable disease.
 
 This subsection does not limit lawful custody under Article II, an individual order under I.3.a or I.1.d, or an individual order of a court.
 
