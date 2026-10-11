@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <title>Emblem of Concordia</title>
+  <circle cx="32" cy="32" r="31" fill="#f6f7fb"/>
+  <clipPath id="disc"><circle cx="32" cy="32" r="27"/></clipPath>
+  <g clip-path="url(#disc)">
+    <rect x="0" y="0" width="32" height="32" fill="#0b318f"/>
+    <rect x="32" y="0" width="32" height="32" fill="#a3191f"/>
+    <rect x="0" y="32" width="32" height="32" fill="#14632d"/>
+    <rect x="32" y="32" width="32" height="32" fill="#3d2a80"/>
+  </g>
+  <path d="M29 3h6v58h-6zM3 29h58v6H3z" fill="#f6f7fb"/>
+  <path d="M30.5 6h3v52h-3zM6 30.5h52v3H6z" fill="#dba71c"/>
+  <path d="M32 25l7 7-7 7-7-7z" fill="#dba71c"/>
+</svg>
