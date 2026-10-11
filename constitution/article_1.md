@@ -166,6 +166,15 @@ A restriction on movement shall satisfy I.4.c.
 
 **Curfews and general restrictions:** No government shall impose a curfew or a general restriction on movement, except an order keeping persons out of a specific place of immediate danger, such as a fire, a flood, a collapsing structure, or an active attack, for no longer than the danger lasts.
 
+**Isolation and quarantine:** A communicable disease does not permit a curfew or a general restriction on movement, including an order that the public at large, or everyone in an area, stay at home. The government may order the isolation or quarantine of a specific person only if all of the following are met:
+
+1. **Evidence:** the person has, or on specific facts is reasonably believed to have been exposed to, a communicable disease that presents an imminent, serious harm to others;
+2. **Necessity:** the order satisfies I.4.c, and no voluntary or less restrictive measure, such as testing or masking, is adequate;
+3. **Duration:** the order lasts no longer than the person can transmit the disease, as shown by the best available medical evidence, and ends at once when a test or examination shows the person cannot;
+4. **Place and support:** the person is isolated at home or in another place of the person's choosing where practicable, and the government provides the food, medical care, and compensation for lost income the person needs while it lasts;
+5. **Review:** a court reviews the order within the period set for prompt review in II.3.c, and periodically while it lasts; and
+6. **Custody:** the order is custody under Article II, and II.2.q applies to it.
+
 This subsection does not limit lawful custody under Article II, an individual order under I.3.a or I.1.d, or an individual order of a court.
 
 ### I.1.h — Freedom of Association
@@ -242,7 +251,7 @@ Decisions concerning a minor's contraception and pregnancy, including whether to
 
 No minor shall be sterilized, whether by the minor's own decision or by the decision of a parent or legal guardian, unless sterilization is medically necessary to treat a serious illness or condition, such as cancer, that threatens the minor's life or health. A medically necessary sterilization shall be decided under the rules for minors in this subsection.
 
-**Public health:** Interference with bodily autonomy to prevent imminent, serious harm to others from a communicable disease or from dangerous incapacity is permitted only under I.4.c, with judicial review within the period set for prompt review in II.3.c.
+**Public health:** Interference with bodily autonomy to prevent imminent, serious harm to others from a communicable disease or from dangerous incapacity is permitted only under I.4.c, with judicial review within the period set for prompt review in II.3.c. Isolation and quarantine are governed by I.1.g.
 
 **Reproduction:** Decisions concerning reproduction include decisions concerning contraception, abortion, assisted reproduction, and sterilization, subject to the limits on sterilization of minors in this subsection.
 

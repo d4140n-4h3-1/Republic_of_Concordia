@@ -385,6 +385,22 @@ No more than **three percent** of the fund's value may be transferred to the fed
 
 The fund shall not be pledged as security for any debt, and its holdings shall be published at least once each year.
 
+### IV.10.e — Lapse of Appropriations
+
+**Purpose:** The government shall not shut down because Congress has not passed a budget.
+
+**Automatic continuation:** If, when a fiscal year begins, no appropriation has been enacted for a function of government that was funded in the previous fiscal year, the appropriation for that function in the previous fiscal year continues for the new fiscal year, at the same annual amount and on the same terms. It continues until a law making an appropriation for that function takes effect, and is an appropriation made by law for purposes of IV.10.a. Every amount spent under it counts toward the appropriation that later replaces it for that fiscal year.
+
+**Limits:** An automatic continuation does not:
+
+1. fund a function, program, or project that did not receive an appropriation in the previous fiscal year;
+2. repeat an appropriation that the law making it identified as made once, or for a single fiscal year only; or
+3. continue an appropriation that a law has ended or reduced, beyond what that law allows.
+
+**Obligations always paid:** Payments of principal and interest on the public debt, and payments a court has made enforceable against Concordia (VI.3.e), are appropriated by this subsection whenever no other appropriation is available for them. No law shall direct or permit a default on the public debt.
+
+**No other effect:** This subsection does not limit the power of Congress to enact, change, or end any appropriation by law, and does not allow the President to withhold or delay funds in a way V.1.c forbids. The funding of the courts remains subject to VI.4.a.
+
 ---
 
 ## Section 11 — Legislative Continuity
