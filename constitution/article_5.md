@@ -114,6 +114,8 @@ If the President disputes that declaration, the President resumes the office unl
 
 **A disputed declaration:** The President disputes a declaration by declaring in writing, delivered and published in the same way, that no inability exists. The Vice President continues to act as President until Congress votes or the twenty-one days end, whichever is sooner. Congress shall convene within forty-eight hours after the President's declaration is delivered. Before voting, each House shall give the President an opportunity to be heard, in person or through counsel, and may receive medical evidence. If either House does not vote within twenty-one days, the President resumes the office.
 
+**Authority while disputed:** Until Congress votes or the twenty-one days end, every officer shall take direction from the person acting as President, and not from the President. No person shall use the armed forces, a law enforcement agency, or public funds to obstruct Congress in convening, hearing, or voting under this subsection, or to enforce a claim to the office before the dispute is resolved under it.
+
 **Limits while disputed:** While a declaration is disputed, the person acting as President shall not remove or appoint a head of an executive department, grant a pardon, commutation, or reprieve, or declare an emergency except to respond to an armed attack or a natural disaster that is occurring.
 
 **Questions for the courts:** A dispute over whether a declaration was made, delivered, or signed by the persons this subsection requires shall be decided by the Supreme Court within seven days. Whether the President is in fact unable is for Congress alone to decide under this subsection.
