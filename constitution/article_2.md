@@ -299,6 +299,25 @@ No person shall be transferred to a country or place from which the person is li
 
 Before any removal, extradition, or transfer, a person who claims a risk of torture or persecution shall receive an individualized determination and judicial review of that claim. The person shall not be removed while the claim or its judicial review is pending.
 
+### II.2.q — Requirements Common to Every Custodial Category
+
+Every custodial category, including one established by law, shall meet each of the following requirements in addition to those of its own subsection. Where the subsection for a category is silent on a requirement, this subsection supplies it. A law that establishes a custodial category shall state how the category meets each requirement.
+
+1. **Lawful purpose:** custody shall serve a specific custodial purpose (II.10.a) stated in this Constitution or in a law consistent with it. The purpose and its legal authority shall be recorded when custody begins (II.2.a).
+2. **Necessity:** custody shall begin, and shall continue, only while an individualized determination (II.10.c) shows that it is necessary for that purpose and that no less restrictive measure is adequate (II.2.o, II.10.b).
+3. **Duration:** custody shall end when its purpose is accomplished or its factual basis ceases (II.10.d). Every custodial category established by law shall state a maximum duration, after which custody ends unless a court renews it on a new individualized determination. No person shall be held in any category indefinitely without continuing lawful authority.
+4. **Judicial review:** custody other than punitive custody (II.2.i) is detention for purposes of II.3.c and is reviewed on its schedule. At each review the government bears the burden of II.10.d.
+5. **Remedy:** the person may challenge the custody at any time under II.9.b. Custody that fails any requirement of this subsection is unlawful, entitles the person to release, and gives rise to the remedies of II.9.c.
+
+**No back door to punishment:** Custody in any category other than punitive custody (II.2.i):
+
+1. shall not be imposed or continued as punishment, deterrence, or retribution for past conduct, or as a substitute for criminal prosecution;
+2. shall not be imposed on a person, after a criminal sentence ends, because of the conduct for which the sentence was imposed. Any later custody shall rest on a present, individualized finding that independently satisfies the requirements of its own category;
+3. shall not be used to question a person about a suspected offense, or to gather evidence against the person, without the rights of the accused in Section 4; and
+4. shall be carried out under conditions no more restrictive than its purpose requires (II.5.c) and, where practicable, in facilities and under rules separate from punitive custody.
+
+**Substance over labels:** A custody is governed by its actual purpose and effect, not by the name the government or a law gives it. Custody whose conditions or duration are excessive in relation to its stated purpose is punitive in effect and is unlawful unless it satisfies II.2.i. Reclassification does not cure it (II.2.n).
+
 ## Section 3 — Arrest and Detention
 
 ### II.3.a — Lawful Arrest

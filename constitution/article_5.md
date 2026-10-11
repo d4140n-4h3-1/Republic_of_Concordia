@@ -203,7 +203,7 @@ Every pardon, commutation, and reprieve shall be made public, together with writ
 
 **Definitions:**
 * **Emergency** means an armed attack, natural disaster, epidemic, or comparable catastrophe that presents an imminent threat to life or physical safety and that ordinary law is inadequate to address.
-* **Emergency power** means a governmental power available only during an emergency declared under this Section.
+* **Emergency power** means a governmental power available only during an emergency declared under this Section. A power that a law makes available because of a crisis, disorder, insurrection, threat, or other extraordinary circumstance, rather than for the ordinary administration of the law, is an emergency power, whatever the law calls it.
 
 The President may declare an emergency. The declaration shall be in writing and shall state:
 
@@ -235,11 +235,28 @@ No emergency declaration shall:
 
 This Section is the only authorization for emergency powers in this Constitution, and it does not authorize altering an election for purposes of III.9.e.
 
+**No alternative route:** No law shall authorize any officer to exercise an emergency power without a declaration in force under this Section, or to do without a declaration anything this subsection forbids a declaration to do. An ordinary power, including a power of custody under Article II, Section 2, shall not be used for the purpose of exercising an emergency power without a declaration, or of evading a limit in this Section.
+
 ### V.6.d — Judicial Review
 
 Any person affected by an emergency declaration or emergency power may challenge it in court on an expedited basis.
 
 A court may invalidate a declaration that does not satisfy V.6.a, or an action that exceeds V.6.c.
+
+The government bears the burden of showing that a declaration satisfies V.6.a and that an action is within V.6.c. Courts shall remain open during an emergency and shall decide these challenges on an expedited basis.
+
+The expiration or termination of a declaration does not end a claim for a remedy under II.9.c for harm caused while it was in force.
+
+### V.6.e — End of an Emergency
+
+When a declaration expires, is terminated, or is invalidated:
+
+1. every emergency power invoked under it ends at once, and every regulation, order, or other measure made under it lapses, except as needed to return persons and property;
+2. every person held in custody solely under an emergency power shall be released, or brought before a court within forty-eight hours and held only on a basis under Article II that does not depend on the emergency;
+3. property used under it shall be returned, and compensated under II.1.c; and
+4. armed forces used in support of civilian authorities under V.7.a shall withdraw.
+
+Within ninety days after a declaration ends, the President shall give Congress, and make public, a full account of every emergency power exercised under it, every person held in custody, and all money spent. Publication may be delayed only as V.1.c permits.
 
 ---
 
@@ -252,6 +269,8 @@ The President may use the armed forces without authorization from Congress only 
 The President shall report any such use to Congress within forty-eight hours, and shall end it within sixty days unless Congress authorizes it to continue under IV.1.b.
 
 The armed forces shall not be used to influence an election, suppress the exercise of a constitutional right, or enforce civilian law except as authorized by law in support of civilian authorities during an emergency declared under Section 6.
+
+**Support of civilian authorities:** Armed forces used under that exception act only within the area and for the purposes stated in the declaration, under the direction of the civilian authorities they support, and only while the declaration is in force. They are bound by every limit that applies to civilian law enforcement officers, including Article II, Sections 2, 3, 5, and 6, and they shall comply with judicial orders (VI.3.e). No civilian shall be tried by a military tribunal or held in military custody.
 
 ### V.7.b — Treaties
 
