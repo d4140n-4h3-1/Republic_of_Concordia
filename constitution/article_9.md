@@ -47,6 +47,8 @@ A ratified amendment becomes part of this Constitution upon certification of the
 
 Except as IX.3.d and IX.3.f permit, no amendment shall repeal, narrow, suspend, or create a new exception to a right established by Article I, Article II, Article III, or Article X.
 
+**Meaning of right:** In this Section, a right established by those Articles includes every guarantee to persons, and every prohibition or limit on governmental power, stated in them, whether or not it follows the label **Right:**. The label marks the core statement of a right for IX.3.f; it does not limit the protection of this subsection.
+
 This limit applies to an amendment that would accomplish the same result indirectly, including by changing a definition used in those Articles, by altering the constitutional standard for exceptions in I.4.c or II.10.d, or by lengthening a time limit or weakening a procedure that protects such a right.
 
 An amendment may expand or strengthen a right established by those Articles.

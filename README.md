@@ -38,7 +38,7 @@ The Constitution opens with a short [Preamble](constitution/preamble.md) stating
 
 ## Key Features
 
-- **Rights come first.** A right can be restricted only if the Constitution expressly allows it or if the restriction protects another person's fundamental rights. Even then, the restriction must pass a strict test: narrowly tailored, strictly necessary, proportional, and the least restrictive means (I.4.c, II.10.d).
+- **Rights come first.** A right can be restricted only if the Constitution expressly allows it or if the restriction directly prevents harm to another person's fundamental rights. Even then, the restriction must pass a strict test: narrowly tailored, strictly necessary, proportional, and the least restrictive means (I.4.c, II.10.d).
 - **Broad equal protection.** Protected statuses include race, sex, sexual orientation, gender identity, disability, age, religion, non-belief, and socioeconomic status (I.4.a).
 - **Rights that cannot be amended away.** No amendment may narrow the rights in Articles I–III and X, either directly or indirectly (IX.3.a).
 - **An elected Supreme Court.** Nine judges, elected in nonpartisan, staggered elections. Each serves a single 18-year term (VI.2).
