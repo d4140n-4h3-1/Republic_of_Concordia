@@ -185,6 +185,19 @@ A restriction on movement shall satisfy I.4.c.
 6. **Essential traffic:** an order shall not stop the movement of goods, or of medical, humanitarian, or diplomatic flights and personnel; and
 7. **Review:** an order is subject to judicial review under V.6.d.
 
+**Non-essential services:** During an emergency declared under V.6 because of a communicable disease that presents an imminent, serious harm to others, a law may authorize the temporary closure of non-essential businesses and services, or limits on their capacity, in the area where the disease is spreading, only if all of the following are met:
+
+1. **Necessity:** the closure or limit satisfies I.4.c on the best available public-health evidence that the disease is spreading in settings of that kind, and a less restrictive measure, such as a capacity limit, ventilation, or masking, is not adequate;
+2. **Essential services stay open:** no order shall close food and grocery stores, pharmacies, health care, utilities, transport, banking, fuel, childcare for workers in essential services, shelters, or the press (I.1.e). Essential services may be required to take reasonable precautions;
+3. **Protected activities:** no order shall close places of worship, or stop a peaceful assembly or political activity (I.1.a, I.1.b), except by precautions, such as capacity limits, that are no stricter than those applied to comparable essential services;
+4. **Education:** no order shall deny access to education (I.2.a). In-person schooling may be suspended only where the government provides free remote instruction, with the devices and connection each student needs, for as long as the suspension lasts;
+5. **Equal treatment:** an order shall apply alike to all businesses and services that present a comparable risk, and shall not favor one owner over another or turn on any protected status (I.4.a);
+6. **Duration:** each order lasts no longer than thirty days, may be renewed only on new evidence, and ends when the declaration ends (V.6.e);
+7. **Compensation:** the government shall compensate every business closed or limited by an order for its fixed costs, and every worker who loses wages because of it for the lost income, while the order lasts; and
+8. **Review:** an order is subject to judicial review under V.6.d.
+
+An order under this paragraph does not restrict the movement of any person. No person shall be required to stay at home because of it.
+
 Travel within Concordia, including between constituent jurisdictions, shall not be closed or suspended because of a communicable disease.
 
 This subsection does not limit lawful custody under Article II, an individual order under I.3.a or I.1.d, or an individual order of a court.
