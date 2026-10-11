@@ -108,7 +108,7 @@ No amendment, including a correction amendment under IX.3.d, shall do any of the
 **Emergency limits:**
 
 9. lengthen the duration of an emergency declaration, or the period of an extension, under V.6.b;
-10. remove or weaken any limit on emergency power in V.6.c, or judicial review of emergencies under V.6.d;
+10. remove or weaken the definition of an emergency or an emergency power in V.6.a, any limit on emergency power in V.6.c, judicial review of emergencies under V.6.d, or the end of emergency powers under V.6.e;
 11. allow the armed forces to be used to influence an election, suppress the exercise of a constitutional right, or enforce civilian law, beyond what V.7.a permits; or
 12. allow any election to be postponed or cancelled, or any term to be extended, under III.9.e.
 

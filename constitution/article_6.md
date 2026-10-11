@@ -32,7 +32,7 @@ The judicial power extends to every case:
 4. affecting ambassadors or other representatives of foreign governments; and
 5. otherwise placed within federal jurisdiction by this Constitution.
 
-Courts shall decide only cases, and shall not issue advisory opinions.
+Courts shall decide only cases, and shall not issue advisory opinions. The certification of an amendment by the Supreme Court under IX.3.d or IX.3.f is within the judicial power and is not an advisory opinion (VI.2.m).
 
 ---
 
@@ -167,6 +167,14 @@ Where the judges participating are equally divided, the judgment under review st
 
 Every decision of the Court shall be accompanied by a public written opinion stating its reasons. Any judge may publish a separate opinion.
 
+### VI.2.m — Substitute Judges and Certification of Amendments
+
+**Substitute judges:** Where a seat on the Supreme Court is vacant, or a judge is recused (VI.4.b), suspended (VI.4.e), or unable to act (VI.4.f), so that fewer than nine judges can take part in a certification under IX.3.d or IX.3.f, or fewer than six in any other case, each missing place shall be filled for that matter only by a judge of an inferior appellate court. Substitutes are chosen by public random drawing, conducted by the Judicial Conduct Commission (VI.4.d), from the appellate judges with at least five years of service who are not themselves disqualified under VI.4.b. A substitute is a judge of the Court for that matter only, and counts toward the majorities in VI.2.l.
+
+**Certification:** A correction amendment is presented to the Court by the presiding officers of the two Houses, and a convention amendment by the presiding officer of the convention. Any person may file a brief. The Court decides only whether the amendment satisfies IX.3.d or IX.3.f, not whether it is wise.
+
+**Deadline:** The Court shall not extend the period of one hundred eighty days in IX.3.d or IX.3.f. If the Court has not decided when the period ends, each judge who has not voted shall vote within thirty days. A judge who does not, without a ground under VI.4.b, is replaced for that certification under this subsection, and the substitute shall vote within a further thirty days. A failure to vote that is not excused by a ground under VI.4.b is misconduct under VI.4.e and serious abuse of constitutional authority under IV.9.b.
+
 ---
 
 ## Section 3 — Judicial Review
@@ -235,6 +243,8 @@ A judge shall not participate in a case in which:
 3. the judge previously served as counsel or as a witness in the matter; or
 4. the judge's impartiality might reasonably be questioned.
 
+A judge shall not be required to recuse merely because of the judge's past rulings, published views on a question of law, or the circuit that elected the judge.
+
 A party may ask the other judges of the same court to decide a contested recusal, or, where the court has no other judge, the court that hears appeals from it. On the Supreme Court, the remaining judges decide by majority.
 
 ### VI.4.c — Judicial Ethics
@@ -271,15 +281,24 @@ Except under VI.4.f, only impeachment may remove a judge from office.
 
 No judge shall be disciplined for the content of a lawful ruling. Legal error is corrected by appeal, not by discipline.
 
+**No retaliation:** A complaint shall be dismissed to the extent it rests on the content or outcome of a ruling, or on a judge's vote, unless it alleges facts showing that the ruling was procured by bribery, corruption, or other misconduct independent of its content. No official or body shall file a complaint, open an investigation, make a referral, or change a judge's compensation, staff, security, or assignments in retaliation for a ruling.
+
+**Limits on suspension:** A suspension of a judge takes effect only after the judge's review by the Supreme Court is decided, or the time to seek it expires. No judge shall be suspended for more than one year in total for conduct arising from the same facts.
+
+
 A disciplined judge may seek review by the Supreme Court, excluding the judge concerned.
 
 The final outcome of every complaint, other than a dismissal, shall be made public.
 
-### VI.4.f — Permanent Incapacity
+### VI.4.f — Incapacity
 
 If, after notice and a hearing that satisfy II.1.a, the Commission finds by clear and convincing evidence that a judge is permanently unable to perform the duties of office because of a physical or mental condition, the judge's office becomes vacant.
 
 The judge may seek review of the finding by the Supreme Court, excluding the judge concerned. The office does not become vacant while that review is pending.
+
+**Temporary inability:** A judge who is temporarily unable to perform the duties of office may so declare in writing, and does not take part in cases until declaring in writing that the inability has ended. If, after notice and a hearing that satisfy II.1.a, the Commission finds by clear and convincing evidence that a judge is temporarily unable to perform the duties of office, the judge does not take part in cases until the Commission finds the inability has ended, or for ninety days, whichever is sooner, unless the Commission renews its finding after a new hearing. The judge may seek review of the finding by the Supreme Court, excluding the judge concerned. Compensation is not reduced.
+
+A finding of incapacity, permanent or temporary, shall not rest on the content of a judge's rulings or opinions.
 
 A finding of incapacity is not discipline and carries no penalty.
 
