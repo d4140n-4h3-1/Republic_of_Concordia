@@ -498,7 +498,7 @@
 
     async function renderHome() {
         outline.innerHTML = "";
-        document.title = "Constitution of Concordia";
+        document.title = "Democratic Republic of Concordia";
         const preamble = docs.find((d) => /preamble\.md$/.test(d.path));
         const first = docs[0];
         const constitution = groups.find((g) => g.key === "constitution");
@@ -516,8 +516,8 @@
                 <section class="hero">
                     <div>
                         <p class="hero-kicker">A fictional nation · Draft in progress</p>
-                        <h1>The Constitution of Concordia</h1>
-                        <p class="hero-lede">The founding document of an imagined republic, written as worldbuilding. Read the ten Articles, the bills drafted under them, and the acts on education and the economy. Every citation links to the provision it names.</p>
+                        <h1>Democratic Republic of Concordia</h1>
+                        <p class="hero-lede">The Constitution and laws of an imagined republic, written as worldbuilding. Read the ten Articles, the bills drafted under them, and the acts on education and the economy. Every citation links to the provision it names.</p>
                         <div class="hero-actions">
                             ${first ? `<a class="button primary" href="${route(first)}">Start reading</a>` : ""}
                             ${article1 ? `<a class="button" href="${route(article1)}">Article I: Rights</a>` : ""}
