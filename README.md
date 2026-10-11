@@ -13,6 +13,12 @@ The repository has four parts:
 
 ---
 
+## Website
+
+The repository is also a website: [d4140n-4h3-1.github.io/Republic_of_Concordia](https://d4140n-4h3-1.github.io/Republic_of_Concordia/). It reads the documents straight from this repository, so it is always current. Every citation links to the provision it names and shows a preview on hover, and the whole text is searchable. Typing a citation such as `IV.10.d` in the search box jumps straight to it.
+
+The site's list of documents comes from the tables in this README. Adding a row to a table adds the document to the site. To preview the site locally, run `python3 -m http.server` from the repository root and open `http://localhost:8000`.
+
 ## The Articles
 
 The Constitution opens with a short [Preamble](constitution/preamble.md) stating its purposes.
