@@ -39,6 +39,18 @@ Every law enacted by Congress is subject to Article I. A law that restricts a co
 
 Congress shall not exercise executive or judicial power except where this Constitution expressly permits a limited legislative function.
 
+### IV.1.d — No Fixed Economic System
+
+This Constitution does not establish capitalism, socialism, or any other economic system. Within the limits this Constitution sets, the people may choose their economic policy through their elected representatives, and Congress may by law, among other things:
+
+1. leave an industry or service to private markets, or regulate it;
+2. establish, expand, sell, or close a public enterprise, including one that provides a service on a national scale;
+3. support or require cooperative, employee, or other forms of shared ownership or governance of enterprises, or decline to;
+4. set taxes at uniform rates or at rates that vary with income, wealth, or consumption (I.4.a); and
+5. provide social programs beyond what this Constitution requires, or decline to.
+
+No provision of this Constitution shall be read to require or forbid private, public, cooperative, or employee ownership of any enterprise, except where it says so expressly. Acquiring private property for public ownership requires just compensation under II.1.c. A sale of public property is not a taking.
+
 Congress shall not delegate its entire legislative authority to any person, office, agency, or other institution.
 
 Any delegation of legislative authority shall state:
