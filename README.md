@@ -48,6 +48,7 @@ The Constitution opens with a short [Preamble](constitution/preamble.md) stating
 - **No lockdowns within the country.** A disease emergency cannot justify a curfew or a stay-at-home order for the public. Only a specific infected or exposed person may be isolated or quarantined, at home where practicable, with government support, only while they can spread the disease, and with a court review within 48 hours. In a declared disease emergency, the national borders and international flights may be closed for up to thirty days at a time. Citizens may always return home, essential traffic continues, and travel within Concordia stays open. Non-essential businesses and services may also be closed or limited for up to thirty days at a time. Essential services, worship, the press and peaceful assembly stay open, schools close only with free remote instruction, and closed businesses and their workers are compensated (I.1.g).
 - **No government shutdowns.** If Congress has not passed a budget when the fiscal year begins, last year's funding continues automatically until it does. Debt payments and court judgments are always paid (IV.10.e).
 - **A settled process for presidential inability.** Declarations must be signed and made public, and a disputed one goes to Congress within 48 hours. The President returns unless two-thirds of each House confirm the inability within 21 days (V.3.d).
+- **No fixed economic system.** The Constitution protects property, unions and a single national market, but leaves the choice between markets and public ownership to the voters. Congress may leave an industry to the market or run it publicly, and may set taxes at flat or progressive rates. A business taken into public ownership must be paid its market value, in money or in market-rate public bonds (IV.1.d, II.1.c).
 - **Detailed custody rules.** Article II defines every type of government custody and limits each one, including use of force, solitary confinement, and independent oversight. Every category, including any created by law, must meet the same checklist: a lawful purpose, necessity, a limited duration, judicial review, and a remedy. Civil custody cannot be used as a back door to punishment (II.2.q).
 
 ## Bills
@@ -76,7 +77,7 @@ Bills live in [`constitution/bills/`](constitution/bills/). Each one is written 
 
 ## Education
 
-The education acts live in [`constitution/education/`](constitution/education/). They are modeled on Singapore's system: high standards, a mastery approach to mathematics, bilingual education, a highly selected and well-paid teaching profession, subject-by-subject placement, and many routes to further study. They adapt it to Concordia's Constitution: free education at every level (I.2.a), language rights (I.1.f), equal protection (I.4.a), and schools run by the states (VII.3.a), with federal standards tied to federal funding.
+The education acts live in [`constitution/education/`](constitution/education/). They are modeled on Singapore's system: high standards, a mastery approach to mathematics, bilingual education, a highly selected and well-paid teaching profession, subject-by-subject placement, and many routes to further study. They adapt it to Concordia's Constitution: free education at every level (free through secondary school under I.2.a, and through university by statute), language rights (I.1.f), equal protection (I.4.a), and schools run by the states (VII.3.a), with federal standards tied to federal funding.
 
 | File | Act | What it covers |
 |---|---|---|
@@ -89,7 +90,7 @@ The education acts live in [`constitution/education/`](constitution/education/).
 
 ## Economy
 
-The economic acts live in [`constitution/economy/`](constitution/economy/). They combine the strongest policies of the Nordic countries: a market economy with sectoral collective bargaining and workers on company boards (Sweden, Norway), flexicurity (Denmark), universal health care and generous parental leave (Sweden), Housing First (Finland), a national wealth fund with a strict spending rule (Norway), pensions that balance themselves automatically (Sweden), and a broad, transparent tax system with an independent fiscal council. They rest on the freedom of association in I.1.h, the taxing and spending powers, and the commerce power.
+The economic acts live in [`constitution/economy/`](constitution/economy/). They combine the strongest policies of the Nordic countries: a market economy with sectoral collective bargaining and workers on company boards (Sweden, Norway), flexicurity (Denmark), universal health care and generous parental leave (Sweden), Housing First (Finland), a national wealth fund with a strict spending rule (Norway), pensions that balance themselves automatically (Sweden), and a broad, transparent tax system with an independent fiscal council. They rest on the freedom of association in I.1.h, the taxing and spending powers, and the commerce power. They are ordinary laws: the Constitution itself sets no economic system (IV.1.d), and a later Congress could replace them with market-based policies.
 
 | File | Act | What it covers |
 |---|---|---|

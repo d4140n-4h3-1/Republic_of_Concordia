@@ -50,6 +50,8 @@ The presumption of innocence does not prohibit lawful investigative, protective,
 
 **Payment:** Compensation shall be paid before or at the time of a taking. Where property is used in a declared emergency, compensation shall be paid within ninety days after the property is returned.
 
+**Business enterprises:** Where the property taken is a business enterprise, or shares or another ownership interest in one, a law may provide for payment in negotiable public bonds instead of money. The bonds shall have a market value, at the time of payment, of not less than the compensation owed, and shall bear interest at not less than the market rate for comparable public debt. This paragraph does not apply to a home, to personal property, or to a business owned and operated by one or a few natural persons.
+
 **Procedure:** The government shall give the owner written notice of a proposed taking and of its offer of compensation. The owner may challenge in court whether the taking is for public use and whether the compensation is just, and the court shall decide both questions independently of the government's determination. Where the final award exceeds the government's offer, the government shall pay the owner's reasonable legal and appraisal costs.
 
 **Not takings:** The following are not takings:

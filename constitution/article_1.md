@@ -237,7 +237,7 @@ The government shall maintain and support an educational system reasonably acces
 
 Education shall promote literacy, knowledge, critical reasoning, scientific and cultural understanding, and the capacity for informed civic participation.
 
-**Levels and cost:** Public primary, secondary, higher, and vocational education shall be provided free of charge. Admission to public higher and vocational education may be based on neutral academic criteria.
+**Levels and cost:** Public primary and secondary education shall be provided free of charge. No person shall be denied public higher or vocational education because of inability to pay: a law may provide it free of charge, or may charge tuition if it also provides grants, income-contingent loans, or other aid sufficient that no qualified person is excluded for inability to pay. Admission to public higher and vocational education may be based on neutral academic criteria.
 
 **Private and home education:** Every person shall have the right to pursue private education or home education, subject to minimum educational standards established by law consistent with this Section.
 
@@ -339,6 +339,8 @@ Every person shall have the right to take reasonable measures to defend themselv
 No person shall be denied a right, benefit, protection, opportunity, or service provided by law because of protected status, except where a distinction satisfies the constitutional standard for exceptions established in I.4.c. A denial is because of protected status if protected status was a motivating factor in it, even if other factors also motivated it.
 
 **Benefits addressing need:** A law may provide a benefit, service, accommodation, or protection to persons because of age, disability, sex, or socioeconomic status, where the benefit addresses a need, disadvantage, or risk that the status reasonably indicates. This is an express permission for purposes of I.4.c. Such a law satisfies I.4.c if it is reasonably related to the need, disadvantage, or risk it addresses and does not deny any person a right established by Article I, II, or III. It shall not establish a hierarchy of human worth (I.4.b).
+
+**Taxes and prices:** A tax, fee, or price at a uniform rate, or at rates that vary with income, wealth, or consumption, is not a denial because of socioeconomic status, if it does not deny any person a right established by Article I, II, or III. This is an express permission for purposes of I.4.c.
 
 **Remedies for discrimination:** A law or court order may take account of protected status to remedy specific, identified discrimination against identifiable persons or groups. The remedy shall be narrowly tailored to the discrimination identified and shall end when its effects have been remedied. This is an express permission for purposes of I.4.c.
 
