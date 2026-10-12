@@ -17,6 +17,7 @@
         scroll: '<svg viewBox="0 0 24 24"><path d="M6 3h11a3 3 0 0 1 3 3v1h-3V6a1 1 0 0 0-2 0v13a2 2 0 0 1-2 2H5a3 3 0 0 1-3-3v-1h11v1a1 1 0 0 0 2 0V6a3 3 0 0 0-.2-1H6a1 1 0 0 0-1 1v9H3V6a3 3 0 0 1 3-3zm2 5h5v2H8zm0 4h5v2H8z"/></svg>',
         columns: '<svg viewBox="0 0 24 24"><path d="M12 2 2 7v2h20V7zM4 10h3v8H4zm6.5 0h3v8h-3zm6.5 0h3v8h-3zM2 19h20v3H2z"/></svg>',
         book: '<svg viewBox="0 0 24 24"><path d="M3 4.5C5.8 3.6 8.8 3.8 11 5.4V20c-2.2-1.4-5.2-1.6-8-.8zm18 0v14.7c-2.8-.8-5.8-.6-8 .8V5.4c2.2-1.6 5.2-1.8 8-.9z"/></svg>',
+        gavel: '<svg viewBox="0 0 24 24"><path d="m13.2 2.6 5.7 5.7-2.1 2.1-1-1-2.9 2.9 7.8 7.8-1.4 1.4-7.8-7.8-2.9 2.9 1 1-2.1 2.1-5.7-5.7 2.1-2.1 1 1 7.1-7.1-1-1zM3 20h9v2H3z"/></svg>',
         scales: '<svg viewBox="0 0 24 24"><path d="M11 3h2v2.1l5.6 1.1L21.5 13a3.5 3.5 0 0 1-7 0l2.4-5.2L13 7.1V19h4v2H7v-2h4V7.1L7.1 7.8 9.5 13a3.5 3.5 0 0 1-7 0l2.9-6.8L11 5.1zM6 9.4 4.4 13h3.2zm12 0L16.4 13h3.2z"/></svg>',
     };
 
@@ -37,6 +38,10 @@
         "Economy": {
             key: "economy", label: "Economy", color: "var(--q-purple)", icon: "scales",
             blurb: "Economic acts drawing on the strongest policies of the Nordic countries.",
+        },
+        "Cases": {
+            key: "cases", label: "Cases", color: "var(--q-gold)", icon: "gavel",
+            blurb: "Decisions of Concordia's courts, applying the Constitution to concrete disputes.",
         },
     };
 
@@ -517,7 +522,7 @@
                     <div>
                         <p class="hero-kicker">A fictional nation · Draft in progress</p>
                         <h1>Democratic Republic of Concordia</h1>
-                        <p class="hero-lede">The Constitution and laws of an imagined republic, written as worldbuilding. Read the ten Articles, the bills drafted under them, and the acts on education and the economy. Every citation links to the provision it names.</p>
+                        <p class="hero-lede">The Constitution and laws of an imagined republic, written as worldbuilding. Read the ten Articles, the bills drafted under them, the acts on education and the economy, and the cases decided under them. Every citation links to the provision it names.</p>
                         <div class="hero-actions">
                             ${first ? `<a class="button primary" href="${route(first)}">Start reading</a>` : ""}
                             ${article1 ? `<a class="button" href="${route(article1)}">Article I: Rights</a>` : ""}
