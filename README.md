@@ -4,13 +4,14 @@
 
 This is a fictional constitution: the founding document of Concordia, an imagined nation, modeled on the Constitution of the United States and written as worldbuilding. It is a draft in progress. It is not legal advice and it does not propose real legislation.
 
-The repository has five parts:
+The repository has six parts:
 
 - **The Constitution**: a preamble and ten Articles, one file each.
 - **Bills**: ordinary laws drafted under the Constitution to test how its rules work in practice.
 - **Education**: a set of education acts, modeled on Singapore's system, that carry out the right to education in Article I, Section 2.
 - **Economy**: a set of economic acts, drawing on the best policies of the Nordic countries.
 - **Cases**: decisions of Concordia's courts, applying the Constitution to concrete disputes.
+- **Guides**: how a real country could adapt this Constitution.
 
 ---
 
@@ -113,11 +114,19 @@ The cases live in [`constitution/cases/`](constitution/cases/). Each one is a de
 |---|---|---|
 | [c-01](constitution/cases/c-01.md) | Okafor v. City of Westbrook | Whether a city may forbid a solid privacy fence around the yard of a home (II.6.a, I.4.c) |
 
+## Guides
+
+The guides live in [`constitution/guides/`](constitution/guides/).
+
+| File | Guide | What it covers |
+|---|---|---|
+| [g-01](constitution/guides/g-01.md) | Adapting This Constitution | What the text assumes about Concordia, and what a real country must decide before adopting it: federal or unitary structure, the Supreme Court circuits, legal tradition, indigenous peoples, citizenship, the rights that are locked in, costs, treaties, and the founding timeline |
+
 ## Reading the Text
 
 - **Citations** use the form `Article.Section.subsection`. For example, `I.4.c` means Article I, Section 4, subsection c.
 - **Section 0.** Where an Article has a Section 0, it holds framing material for the whole Article: shared definitions in Article I, and the reason for its placement in Article X.
-- **Checking citations.** Run `python3 scripts/check_refs.py` after any edit. It confirms that every citation in the Articles, the bills, the education and economic acts, the cases, and this README points to a section or subsection that exists.
+- **Checking citations.** Run `python3 scripts/check_refs.py` after any edit. It confirms that every citation in the Articles, the bills, the education and economic acts, the cases, the guides, and this README points to a section or subsection that exists.
 - **Draft notes.** A *Draft note* at the top of some Articles gives context for the drafting.
 - **Open decisions.** A `[DECIDE: ...]` line in a bill or Article marks a policy choice that hasn't been made yet. None are open at present.
 - **Placeholder names.** Some names are placeholders. For example, "the Founding Convention" in Article VIII can be renamed to fit the story.
