@@ -111,6 +111,20 @@ No constituent jurisdiction shall:
 3. impose a tax or other barrier on goods, services, or persons moving between constituent jurisdictions; or
 4. coin money.
 
+### VII.3.e — Single Subject in Every Legislature
+
+**Rule:** Every law of a state, territory, or local government, whether enacted by its legislature or by the voters through an initiative or referendum, shall address a single reasonably identifiable subject. The subject shall be stated in plain words in the law's title, and, for a measure put to the voters, on the ballot.
+
+**Unrelated provisions:** A provision that does not relate to the law's subject has no legal effect until it is enacted again in a separate law whose subject it relates to. The rest of the law remains in force. A provision does not relate to a subject merely because it is administered by the same agency, paid for from the same fund, or serves the same general aim. No person shall be penalized for an act taken in good faith reliance on an unrelated provision before a court found it unrelated.
+
+**No proof of intent:** A provision may be found unrelated without proof that it was hidden on purpose. Combining unrelated provisions in order to conceal them, to evade review, or to prevent consideration is a further violation of this subsection.
+
+**Review:** Any person against whom an unrelated provision is or may be enforced, any person whose right it would change, and any member of the legislature that enacted it, may ask a court to decide whether it is unrelated. The court shall decide the question itself, without deference to the law's title or to any statement or vote of the legislature.
+
+**Laws already in force:** A law in force when this subsection first applies to a jurisdiction is reviewed and, where needed, enacted again as VIII.3.e provides for inherited laws, with every period running from that day.
+
+**Uniform standards:** Congress may by law set uniform standards for applying this subsection, but shall not narrow it.
+
 ---
 
 ## Section 4 — Relations Among the Jurisdictions
