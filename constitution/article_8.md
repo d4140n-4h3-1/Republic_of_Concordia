@@ -98,6 +98,16 @@ A shortened first term assigned under this Section, VI.2.e, or VII.2.e, does not
 
 The laws of each constituent jurisdiction remain in force to the extent they are consistent with this Constitution. Any law, or part of a law, inconsistent with this Constitution has no legal effect from the day this Constitution takes effect.
 
+**Hidden provisions in inherited law:** Every law that remains in force under this subsection shall meet the single-subject rule of IV.5.c, measured against the law as it was enacted, whether by a legislature, by the voters, or by any other lawmaking authority. A provision that does not relate to the subject stated in the law's title, or, where the title states none, to the matter its principal provisions address, is an unrelated provision.
+
+1. **Review:** Within one year after this Constitution takes effect, each constituent jurisdiction shall publish a list of every provision of its laws that may be unrelated, with the reasons.
+2. **Re-enactment:** An unrelated provision keeps its effect for two years after this Constitution takes effect, so that it may be enacted again in a law whose subject it relates to, by the jurisdiction's legislature, or by Congress where the matter is now within federal jurisdiction. At the end of that period it has no legal effect, whether or not it was listed or challenged.
+3. **Challenge:** Any person affected by an unrelated provision may ask a court to decide whether it is unrelated, at any time. A finding takes effect at the end of that period, or on the date of the finding if later.
+4. **Restored law:** A law that an unrelated provision amended, repealed, or suspended is restored as it stood before. A restored offense or penalty applies only to conduct after it is restored (II.7.a). A final judgment, completed transaction, or payment made before then stands.
+5. **Reliance:** No person shall be penalized for an act taken in good faith reliance on an unrelated provision before it lost effect.
+
+For a jurisdiction that joins after this Constitution takes effect (VIII.2.b, VII.2.e), every period in this paragraph runs from the day it joins.
+
 The debts and obligations of a constituent jurisdiction remain its own unless Congress by law provides otherwise.
 
 A treaty or agreement between a constituent jurisdiction and a foreign government lapses one year after this Constitution takes effect, unless Concordia adopts it under V.7.b. *(See VII.3.d.)*
