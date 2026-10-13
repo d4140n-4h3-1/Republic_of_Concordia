@@ -113,6 +113,7 @@ The cases live in [`constitution/cases/`](constitution/cases/). Each one is a de
 | File | Case | Question |
 |---|---|---|
 | [c-01](constitution/cases/c-01.md) | Okafor v. City of Westbrook | Whether a city may forbid a solid privacy fence around the yard of a home (II.6.a, I.4.c) |
+| [c-02](constitution/cases/c-02.md) | Sorensen v. Registrar of Marriages of Kestrel; Calder v. Calder | Whether a state may let only husbands add spouses, require private consent interviews and a waiting period, and when a spouse's consent to a plural marriage is freely given (I.1.j, I.4.c) |
 
 ## Guides
 
