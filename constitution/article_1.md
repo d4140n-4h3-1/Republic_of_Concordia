@@ -238,6 +238,13 @@ No person shall be punished, disadvantaged, or retaliated against for making, si
 
 **Plural marriage:** A marriage may include more than two spouses. No person shall join an existing marriage, and no spouse shall marry outside it, without the informed, written consent of every existing spouse, given freely and recorded with the marriage. The marriage record shall name every spouse. The law of plural marriage shall apply equally whatever the sex of each spouse, and no law or practice shall allow only persons of one sex to have more than one spouse.
 
+**Consent of existing spouses:** A spouse's consent is not given freely if it was obtained by violence or a threat of violence against the spouse or anyone close to them, by a threat to do something the person making it has no right to do, such as to withhold support the law requires, or by an abuse of authority, such as that of an employer, a landlord, an official, or a religious leader. A statement by a spouse that they will leave the marriage, which is their right, is not such a threat.
+
+1. **Effect:** A joining made without the free consent of every existing spouse has no legal effect.
+2. **Challenge:** A recorded consent is presumed to be free. Only the spouse whose consent it was may challenge it, and must prove the facts that show it was not free. The challenge shall be brought within two years after the violence, threat, or abuse of authority has ended.
+3. **Good faith:** A person who joined a marriage in good faith, without knowing that a consent was not freely given, shall not be penalized, and has the rights of a spouse in property, support, and inheritance for the period before a court found the joining to have no legal effect.
+4. **Children:** No finding under this paragraph affects the rights of any child.
+
 **Equality:** Every spouse has equal rights and duties during a marriage and at its end, including in property, support, inheritance, and decisions about children, whatever the number of spouses or the order in which each joined. Any spouse may leave a marriage without ending it for the others. Law shall provide how property, support, and the care of children are settled when a spouse leaves or a marriage ends. A child has the same rights whether or not the child's parents are married.
 
 **Religious marriage:** A religious body decides for itself which marriages it will celebrate by its own rites (I.1.b). The law of civil marriage applies equally to all.
