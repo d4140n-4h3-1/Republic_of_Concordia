@@ -13,7 +13,7 @@
 * **Organization** means a corporation, partnership, association, union, religious body, press organization, trust, or other entity that is not a natural person.
 * **Religious leave** means a day on which a person abstains from work because of a sincerely held religion or belief, including recurring days of the week and religious or observance holidays, as designated by that person according to law.
 
-**Organizations:** An organization holds the rights of speech, press, religion, association, property, due process, just compensation, and protection against unreasonable search and seizure, as the means by which its members exercise those rights together. It holds no other right under this Constitution unless a provision expressly gives it one, and its rights remain subject to every limit this Constitution places on organizations, including III.10. Where this Constitution forbids or requires conduct of a person, it binds organizations as well.
+**Organizations:** An organization holds the rights of speech, press, religion, association, petition, property, due process, just compensation, access to the courts, and protection against unreasonable search and seizure, as the means by which its members exercise those rights together. It holds no other right under this Constitution unless a provision expressly gives it one, and its rights remain subject to every limit this Constitution places on organizations, including III.10. Where a provision of this Constitution that binds private actors forbids or requires conduct of a person, it binds organizations as well.
 
 These definitions apply throughout this Constitution unless a provision expressly states otherwise.
 
@@ -228,7 +228,7 @@ No person shall be compelled to join, support, or remain in any association, inc
 
 No person shall be punished, disadvantaged, or retaliated against for making, signing, or gathering signatures for a petition.
 
-**Public petitions:** A petition to Congress signed by a number of voters established by law shall receive a public hearing before a committee of the House to which it is addressed, and a public written response, within ninety days after it is filed. Each state and territory shall provide a similar procedure for its own legislature.
+**Public petitions:** A petition to Congress signed by a number of voters established by law shall receive a public hearing before a committee of the House to which it is addressed, and a public written response, within ninety days after it is filed. Each state, territory, and the capital district shall provide a similar procedure for its own legislature.
 
 ### I.1.j — Marriage, Family Life, and Children
 
@@ -249,7 +249,9 @@ No person shall be punished, disadvantaged, or retaliated against for making, si
 
 **Religious marriage:** A religious body decides for itself which marriages it will celebrate by its own rites (I.1.b). The law of civil marriage applies equally to all.
 
-**Family life:** No child shall be separated from a parent or legal guardian against the will of either, except by a court order, made after notice, a hearing, and counsel for the parent and the child, finding that separation is necessary to protect the child from serious harm and that no less restrictive measure is adequate. Where a child is removed in an emergency to prevent imminent serious harm, a court shall review the removal within the period set for prompt review in II.3.c.
+**Family life:** No government shall remove a child from the care of a parent or legal guardian against the will of either, except by a court order, made after notice, a hearing, and counsel for the parent and the child, finding that removal is necessary to protect the child from serious harm and that no less restrictive measure is adequate. Where a child is removed in an emergency to prevent imminent serious harm, a court shall review the removal within the period set for prompt review in II.3.c.
+
+A dispute between parents or legal guardians over the care of a child is decided by a court on the child's best interests, and is not a removal under this paragraph. Where a parent is lawfully held in custody under Article II, the government shall arrange the child's care according to the parent's wishes where they are consistent with the child's safety, and shall not use the parent's custody as a ground for ending the parent's rights.
 
 **Children:** Every child has the right to protection from abuse, neglect, and exploitation. In every decision of a government concerning a child, the child's best interests shall be a primary consideration, and the child's views shall be heard and given weight that increases with the child's age and maturity. *(See also I.3.a on minors' medical decisions, and II.2.k and II.2.m on custody of minors.)*
 
@@ -322,7 +324,9 @@ No minor shall be sterilized, whether by the minor's own decision or by the deci
 3. requiring a prescription from a licensed professional for the sale of a medicine whose safe use depends on a diagnosis, if a prescription can be obtained without unreasonable cost or delay; and
 4. setting safety standards for goods and services offered to the public.
 
-Such a law is an express permission for purposes of I.4.c, and satisfies it if it is reasonably related to the risk and is the least restrictive measure that addresses it. It shall impose no penalty other than a civil fine, and never custody, and it does not reach possession or consumption for personal use protected by I.3.b. No other law shall forbid a competent adult's choice because the choice puts only that adult at risk.
+Such a law is an express permission for purposes of I.4.c, and satisfies it if it is reasonably related to the risk and is the least restrictive measure that addresses it. It shall impose no penalty on the adult it protects other than a civil fine, and never custody, and it does not reach possession or consumption for personal use protected by I.3.b. No other law shall forbid a competent adult's choice because the choice puts only that adult's own life, health, or safety at risk.
+
+This paragraph does not govern a law that regulates those who supply goods or services to others, or a law that protects persons from financial loss, each of which remains subject to I.4.c.
 
 **Exception for Lawful Custody:** The rights established by this subsection may be restricted with respect to a person in custody only to the extent required by lawful custodial necessity, and only in compliance with II.2.o and II.10.d. No restriction shall extend beyond what is strictly necessary for that purpose.
 
@@ -490,4 +494,4 @@ No right prevails over another merely because it appears earlier in this Constit
 
 **Harm to others:** Pollution or other environmental damage that endangers the life or health of other persons is harm to another person's rights for purposes of I.4.c.
 
-**Enforcement:** Any person may bring an action to require a government to perform a duty under this subsection or under a law protecting the environment, or to enforce such a law against any person who violates it. A court may order a government to perform such a duty, but shall not choose among lawful policies for meeting it.
+**Enforcement:** Any person or organization may bring an action to require a government to perform a duty under this subsection or under a law protecting the environment, or to enforce such a law against any person who violates it. A court may order a government to perform such a duty, but shall not choose among lawful policies for meeting it.

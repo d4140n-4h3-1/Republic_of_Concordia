@@ -57,7 +57,7 @@ The presumption of innocence does not prohibit lawful investigative, protective,
 **Not takings:** The following are not takings:
 
 1. taxes, fees, and fines lawfully imposed;
-2. a seizure of property as evidence, or a forfeiture, permitted by this Constitution (I.3.b);
+2. a seizure of property as evidence, or a forfeiture permitted by II.1.d;
 3. a law that prevents a use of property that would harm the health or safety of others, if the law applies equally to all comparable property; and
 4. the destruction of property that is necessary to prevent imminent danger to life, such as stopping the spread of a fire.
 
@@ -65,7 +65,14 @@ The presumption of innocence does not prohibit lawful investigative, protective,
 
 **Right:** Every person shall have the right to acquire, own, use, and transfer property, alone or with others.
 
-No person shall be denied the ownership of property because of protected status (I.4.a). No property shall be taken except under II.1.c, or forfeited except as this Constitution permits.
+No person shall be denied the ownership of property because of protected status (I.4.a). No property shall be taken except under II.1.c.
+
+**Forfeiture:** Property may be forfeited only:
+
+1. as part of a sentence after the owner's conviction, limited to the proceeds of the offense and property used to commit it, and not grossly disproportionate to the offense (II.7.f); or
+2. where it is a thing that a valid law forbids any person to possess, such as a weapon outside the right in X.1.a.
+
+No other forfeiture, civil or criminal, is permitted, and I.3.b continues to apply.
 
 **Regulation:** A law may regulate the use and transfer of property, tax it (I.4.a), and protect other persons and the environment from its use (I.5.a). This is an express permission for purposes of I.4.c. Such a law satisfies I.4.c if it is reasonably related to a legitimate public purpose, applies equally to comparable property, and does not take property without just compensation (II.1.c). A law that also restricts another right, such as privacy in the home (II.6.a), remains subject to I.4.c in full as to that right.
 
@@ -181,7 +188,7 @@ Emergency custody shall last only as long as reasonably necessary to stabilize t
 
 The government shall document the factual circumstances requiring emergency custody.
 
-Emergency custody shall be subject to prompt judicial review. Where the emergency itself makes review within that period impossible, review shall occur as soon as the emergency permits, and the government shall document why the delay was unavoidable.
+Emergency custody shall be subject to prompt judicial review. Where a catastrophe makes review within that period impossible, the period is extended only as II.10.e provides.
 
 Emergency custody shall not become a continuing custodial status merely through administrative continuation.
 

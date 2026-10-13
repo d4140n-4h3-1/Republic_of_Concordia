@@ -422,7 +422,7 @@ No elected official may lawfully exercise authority inconsistent with this Const
 
 **Rule:** No person shall be a candidate for, or hold, any elected or appointed public office, at any level of government, if a court has found under this subsection that the person engaged in insurrection.
 
-**Finding:** The finding may be made in a criminal prosecution, or in a civil proceeding brought by the Election Authority or by any voter of the area the office serves. In either case the person has every right of an accused person in Article II, Section 4, including proof beyond a reasonable doubt and trial by jury. A proceeding brought before an election shall be decided on an expedited basis.
+**Finding:** The finding may be made in a criminal prosecution, or in a civil proceeding brought by the Election Authority or by any voter of the area the office serves. In either case the person has every right of an accused person in Article II, Section 4, including proof beyond a reasonable doubt and trial by jury. A proceeding brought before an election shall be decided on an expedited basis. An acquittal, or a final decision that the person did not engage in insurrection, binds every later proceeding concerning the same conduct, whoever brings it.
 
 **Limits:** Lawful resistance under X.4, speech that is not incitement as defined above, peaceful assembly, and disagreement with any law, election result, or decision are not insurrection. No person shall be disqualified for the conduct of another person, or because of association alone.
 
