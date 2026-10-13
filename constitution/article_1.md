@@ -222,6 +222,28 @@ No person shall be compelled to join, support, or remain in any association, inc
 
 **Strikes:** A law may require notice and an offer of mediation before a strike, may bar strikes over matters settled by a collective agreement while it is in force, and may require that a minimum service be kept in health care, emergency services, and the supply of water and power, if the law satisfies I.4.c. A law may restrict strikes by members of the armed forces and by police officers only if it provides them an independent means of resolving their disputes.
 
+### I.1.i — Right to Petition
+
+**Right:** Every person shall have the right to petition any government, alone or with others, for any purpose, including the redress of grievances.
+
+No person shall be punished, disadvantaged, or retaliated against for making, signing, or gathering signatures for a petition.
+
+**Public petitions:** A petition to Congress signed by a number of voters established by law shall receive a public hearing before a committee of the House to which it is addressed, and a public written response, within ninety days after it is filed. Each state and territory shall provide a similar procedure for its own legislature.
+
+### I.1.j — Marriage, Family Life, and Children
+
+**Right:** Every adult shall have the right to marry one other consenting adult, to found a family, and to end a marriage.
+
+**Consent:** A marriage requires the free and full consent of both persons. No person below the age of majority (I.4.a) shall marry, and no person shall be forced or pressured into a marriage by violence, threat, or abuse of authority. No marriage contrary to this paragraph has legal effect. This paragraph binds private actors as well as the government. *(This is an express provision for purposes of I.4.b.)*
+
+**Equality:** Spouses have equal rights and duties during a marriage and at its end. A child has the same rights whether or not the child's parents are married.
+
+**Religious marriage:** A religious body decides for itself which marriages it will celebrate by its own rites (I.1.b). The law of civil marriage applies equally to all.
+
+**Family life:** No child shall be separated from a parent or legal guardian against the will of either, except by a court order, made after notice, a hearing, and counsel for the parent and the child, finding that separation is necessary to protect the child from serious harm and that no less restrictive measure is adequate. Where a child is removed in an emergency to prevent imminent serious harm, a court shall review the removal within the period set for prompt review in II.3.c.
+
+**Children:** Every child has the right to protection from abuse, neglect, and exploitation. In every decision of a government concerning a child, the child's best interests shall be a primary consideration, and the child's views shall be heard and given weight that increases with the child's age and maturity. *(See also I.3.a on minors' medical decisions, and II.2.k and II.2.m on custody of minors.)*
+
 ---
 
 ## Section 2 — Right to Education
@@ -284,6 +306,15 @@ No minor shall be sterilized, whether by the minor's own decision or by the deci
 
 **Reproduction:** Decisions concerning reproduction include decisions concerning contraception, abortion, assisted reproduction, and sterilization, subject to the limits on sterilization of minors in this subsection.
 
+**Risks to oneself:** A law may protect a competent adult from a risk to that adult's own life, health, or safety only by:
+
+1. requiring the information, warnings, and labels a person needs to give informed consent;
+2. requiring safety equipment, such as seatbelts and helmets, while operating or riding in a motor vehicle on a public road, or while working;
+3. requiring a prescription from a licensed professional for the sale of a medicine whose safe use depends on a diagnosis, if a prescription can be obtained without unreasonable cost or delay; and
+4. setting safety standards for goods and services offered to the public.
+
+Such a law is an express permission for purposes of I.4.c, and satisfies it if it is reasonably related to the risk and is the least restrictive measure that addresses it. It shall impose no penalty other than a civil fine, and never custody, and it does not reach possession or consumption for personal use protected by I.3.b. No other law shall forbid a competent adult's choice because the choice puts only that adult at risk.
+
 **Exception for Lawful Custody:** The rights established by this subsection may be restricted with respect to a person in custody only to the extent required by lawful custodial necessity, and only in compliance with II.2.o and II.10.d. No restriction shall extend beyond what is strictly necessary for that purpose.
 
 A person in non-punitive custody shall be subject only to restrictions necessary for the specific purpose of that custodial category. No restriction that depends on a criminal sentence shall be imposed on a person who is not in punitive custody (II.2.i).
@@ -311,6 +342,30 @@ Every person shall have the right to take reasonable measures to defend themselv
 **Searches:** The possession, odor, or sight of a substance in an amount consistent with personal use, or of items used to consume it, shall not justify a search, seizure, or arrest without a warrant. This does not limit a search with consent under II.6.d.
 
 **Persons in custody:** The rights established by this subsection are subject to the Exception for Lawful Custody in I.3.a.
+
+### I.3.c — Medical Assistance in Dying
+
+**Right:** A competent adult who has a serious and incurable illness, disease, or disability, causing enduring physical or psychological suffering that the person finds intolerable and that cannot be relieved in a way the person finds acceptable, shall have the right to medical assistance in dying.
+
+**Definitions:**
+
+* **Medical assistance in dying** means the provision by a licensed physician or nurse, at a person's request, of a substance that causes the person's death, whether administered by the provider or taken by the person.
+
+**Safeguards:** Assistance may be given only where:
+
+1. the person has reached the age of majority (I.4.a). The rights of minors under I.3.a do not include this decision;
+2. the person has requested it in writing, and has repeated the request at least ten days later, unless two physicians find that the person's death or loss of competence is likely within that time;
+3. two licensed physicians, independent of each other and of any person who stands to gain from the death, have each confirmed in writing the person's condition, competence, and free and informed consent, given without pressure from any person;
+4. the person has been informed of every reasonable alternative, including palliative care, and offered it; and
+5. the person's sole underlying condition is not a mental illness.
+
+The person may withdraw the request at any time, by any means, and shall be asked to confirm consent immediately before assistance is given.
+
+**Palliative care:** Every government that provides or funds health care shall make palliative care available, so that no person seeks assistance in dying for lack of care or support.
+
+**Conscience:** No person shall be required to provide or take part in medical assistance in dying. A provider who declines shall tell the person where information can be obtained.
+
+**Pressure prohibited:** No person shall encourage, pressure, or induce another person to request assistance in dying, or provide it outside this subsection. This paragraph binds private actors as well as the government. *(This is an express provision for purposes of I.4.b.)*
 
 ---
 
@@ -413,3 +468,17 @@ Where a restriction can be applied in more than one manner, the interpretation t
 4. state its reasons in writing.
 
 No right prevails over another merely because it appears earlier in this Constitution or because more persons hold or favor it.
+
+---
+
+## Section 5 — Environment and Future Generations
+
+### I.5.a — Right to a Healthy Environment
+
+**Right:** Every person shall have the right to an environment that does not endanger their life or health.
+
+**Duty:** Every government shall protect the air, water, soil, living species, and climate, for present and future generations; shall use natural resources in a way that can be sustained; and shall assess, and make public, the environmental effects of each of its major decisions before making it.
+
+**Harm to others:** Pollution or other environmental damage that endangers the life or health of other persons is harm to another person's rights for purposes of I.4.c.
+
+**Enforcement:** Any person may bring an action to require a government to perform a duty under this subsection or under a law protecting the environment, or to enforce such a law against any person who violates it. A court may order a government to perform such a duty, but shall not choose among lawful policies for meeting it.
