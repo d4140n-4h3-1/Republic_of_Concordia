@@ -129,6 +129,8 @@ If, when the new term begins, no President-elect has been certified:
 1. the Vice President-elect, if certified, shall act as President until a President-elect is certified; or
 2. if no Vice President-elect has been certified, the first person in the order of succession under V.3.b who holds an office for which no election is pending, who was not a candidate for President or Vice President in that election, and who satisfies V.2.c, shall act as President until a President-elect or Vice President-elect is certified.
 
+**Death or disqualification of a President-elect:** If the person elected President dies, resigns, or becomes ineligible after the election and before the term begins, the person elected Vice President on the same joint candidacy becomes President when the term begins. If the person elected Vice President dies, resigns, or becomes ineligible in that period, the office of Vice President is vacant when the term begins and is filled under V.3.c. This applies whether the death, resignation, or ineligibility occurs before or after certification.
+
 The outgoing President or Vice President shall never act as President under this subsection unless certified as the winner.
 
 **Limits on an acting President:** A person acting as President under this subsection shall not grant a pardon, commutation, or reprieve, and shall not declare an emergency except to respond to an armed attack or a natural disaster that is occurring.

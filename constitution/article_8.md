@@ -74,7 +74,7 @@ A member of the Founding Convention may be a candidate in the first general elec
 
 Within sixty days after this Constitution takes effect, the interim government shall conduct the first public drawings of the Election Authority and the districting commission under III.3.f. For these first drawings, any person eligible to vote in a ratification referendum under VIII.2.a may apply. Challenges to eligibility shall be heard by the courts of the constituent jurisdictions.
 
-Within one hundred eighty days after this Constitution takes effect, the districting commission shall adopt the first House districts, apportioned under VII.2.b, and shall assign every constituent jurisdiction to one of the nine judicial circuits under VI.2.j. The assignment is subject to judicial review for compliance with VI.2.j.
+Within one hundred eighty days after this Constitution takes effect, the interim government shall fix the number of Representatives, and the districting commission shall adopt the first House districts, apportioned under VII.2.b, and shall assign every constituent jurisdiction to one of the nine judicial circuits under VI.2.j. The assignment is subject to judicial review for compliance with VI.2.j.
 
 The Judicial Conduct Commission shall be selected under VI.4.d within one year after the first Congress convenes.
 
@@ -101,7 +101,7 @@ The laws of each constituent jurisdiction remain in force to the extent they are
 **Hidden provisions in inherited law:** Every law that remains in force under this subsection shall meet the single-subject rule of IV.5.c, measured against the law as it was enacted, whether by a legislature, by the voters, or by any other lawmaking authority. A provision that does not relate to the subject stated in the law's title, or, where the title states none, to the matter its principal provisions address, is an unrelated provision.
 
 1. **Review:** Within one year after this Constitution takes effect, each constituent jurisdiction shall publish a list of every provision of its laws that may be unrelated, with the reasons.
-2. **Re-enactment:** An unrelated provision keeps its effect for two years after this Constitution takes effect, so that it may be enacted again in a law whose subject it relates to, by the jurisdiction's legislature, or by Congress where the matter is now within federal jurisdiction. At the end of that period it has no legal effect, whether or not it was listed or challenged.
+2. **Re-enactment:** An unrelated provision keeps its effect until two years after the first Congress convenes (VIII.3.c), so that it may be enacted again in a law whose subject it relates to, by the jurisdiction's legislature, or by Congress where the matter is now within federal jurisdiction. At the end of that period it has no legal effect, whether or not it was listed or challenged.
 3. **Challenge:** Any person affected by an unrelated provision may ask a court to decide whether it is unrelated, at any time. A finding takes effect at the end of that period, or on the date of the finding if later.
 4. **Restored law:** A law that an unrelated provision amended, repealed, or suspended is restored as it stood before. A restored offense or penalty applies only to conduct after it is restored (II.7.a). A final judgment, completed transaction, or payment made before then stands.
 5. **Reliance:** No person shall be penalized for an act taken in good faith reliance on an unrelated provision before it lost effect.

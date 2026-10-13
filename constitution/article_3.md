@@ -217,8 +217,9 @@ The Election Authority shall establish and administer procedures necessary to:
 6. conduct or supervise required audits and recounts;
 7. enforce constitutional election requirements within its lawful authority;
 8. investigate suspected election violations;
-9. preserve election materials; and
-10. provide public information concerning election procedures.
+9. preserve election materials;
+10. provide public information concerning election procedures; and
+11. conduct the census and apportion the House (VII.2.b).
 
 Legislation may establish additional administrative procedures but shall not diminish constitutional voting rights.
 
@@ -411,6 +412,23 @@ No qualification shall be imposed for the primary purpose of preventing an other
 Every elected official shall, before exercising the powers of office, swear or affirm loyalty to this Constitution and a duty to faithfully perform the responsibilities of the office.
 
 No elected official may lawfully exercise authority inconsistent with this Constitution merely because a statute, political organization, superior official, or electoral majority demands it.
+
+### III.6.d — Disqualification for Insurrection
+
+**Definitions:**
+
+* **Insurrection** means the use of force or violence, or an organized attempt to use it, to overthrow this constitutional order, to prevent an election from being held or its lawful result from taking effect, or to prevent Congress, the President, a court, or the Election Authority from performing a constitutional duty.
+* **Engaging in insurrection** means taking part in, directing, or knowingly providing material aid to an insurrection, or inciting it by speech intended and likely to produce imminent violence.
+
+**Rule:** No person shall be a candidate for, or hold, any elected or appointed public office, at any level of government, if a court has found under this subsection that the person engaged in insurrection.
+
+**Finding:** The finding may be made in a criminal prosecution, or in a civil proceeding brought by the Election Authority or by any voter of the area the office serves. In either case the person has every right of an accused person in Article II, Section 4, including proof beyond a reasonable doubt and trial by jury. A proceeding brought before an election shall be decided on an expedited basis.
+
+**Limits:** Lawful resistance under X.4, speech that is not incitement as defined above, peaceful assembly, and disagreement with any law, election result, or decision are not insurrection. No person shall be disqualified for the conduct of another person, or because of association alone.
+
+**Sitting officers:** A person holding office when a finding becomes final is suspended from exercising its powers. The finding shall be certified to the body able to remove the person, which shall vote on removal within thirty days: for a member of Congress, that member's House (IV.4.f); for any other federal officer, the House of Representatives, by impeachment (IV.9); and for any other officer, the body the law of that office designates.
+
+**Lifting:** Congress may lift a disqualification for a named person by a vote of two-thirds of all members of each House, no sooner than ten years after the finding.
 
 ---
 
