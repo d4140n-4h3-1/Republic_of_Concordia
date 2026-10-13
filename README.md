@@ -79,6 +79,14 @@ Bills live in [`constitution/bills/`](constitution/bills/). Each one is written 
 | [b-17](constitution/bills/b-17.md) | Freedom of Information Act | Draft |
 | [b-18](constitution/bills/b-18.md) | Single Subject Act | Draft |
 | [b-19](constitution/bills/b-19.md) | Public Integrity Act | Draft |
+| [b-20](constitution/bills/b-20.md) | Data Protection Act | Draft |
+| [b-21](constitution/bills/b-21.md) | Victims of Crime Act | Draft |
+| [b-22](constitution/bills/b-22.md) | Civil Legal Aid Act | Draft |
+| [b-23](constitution/bills/b-23.md) | Auditor-General Act | Draft |
+| [b-24](constitution/bills/b-24.md) | Civil Service Act | Draft |
+| [b-25](constitution/bills/b-25.md) | Military Justice Act | Draft |
+| [b-26](constitution/bills/b-26.md) | Census and Apportionment Act | Draft |
+| [b-27](constitution/bills/b-27.md) | Public Petitions Act | Draft |
 
 ## Education
 
@@ -107,6 +115,7 @@ The economic acts live in [`constitution/economy/`](constitution/economy/). They
 | [n-06](constitution/economy/n-06.md) | Fiscal Responsibility and Taxation Act | A broad tax base; progressive tax on work and a flat tax on capital; public tax records for officials; pre-filled returns; a surplus target and debt anchor; an independent Fiscal Council |
 | [n-07](constitution/economy/n-07.md) | Housing Act | Housing First; nonprofit housing open to all; a revolving National Building Fund; housing allowances; tenant protections; planning for supply |
 | [n-08](constitution/economy/n-08.md) | Open Markets Act | An independent Competition Authority against price-fixing, abuse of dominance and harmful mergers; open trade, with help for affected workers |
+| [n-09](constitution/economy/n-09.md) | Central Bank Act | An independent central bank with a 2% inflation target; a seven-member board on fourteen-year terms; no financing of government; published decisions and votes |
 
 ## Cases
 
