@@ -75,6 +75,7 @@ Bills live in [`constitution/bills/`](constitution/bills/). Each one is written 
 | [b-15](constitution/bills/b-15.md) | Fair Competition Act | Draft |
 | [b-16](constitution/bills/b-16.md) | Safe Driving Act | Draft |
 | [b-17](constitution/bills/b-17.md) | Freedom of Information Act | Draft |
+| [b-18](constitution/bills/b-18.md) | Single Subject Act | Draft |
 
 ## Education
 
