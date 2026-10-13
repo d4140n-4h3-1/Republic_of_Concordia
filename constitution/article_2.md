@@ -61,6 +61,44 @@ The presumption of innocence does not prohibit lawful investigative, protective,
 3. a law that prevents a use of property that would harm the health or safety of others, if the law applies equally to all comparable property; and
 4. the destruction of property that is necessary to prevent imminent danger to life, such as stopping the spread of a fire.
 
+### II.1.d — Right to Own Property
+
+**Right:** Every person shall have the right to acquire, own, use, and transfer property, alone or with others.
+
+No person shall be denied the ownership of property because of protected status (I.4.a). No property shall be taken except under II.1.c, or forfeited except as this Constitution permits.
+
+**Regulation:** A law may regulate the use and transfer of property, tax it (I.4.a), and protect other persons and the environment from its use (I.5.a). This is an express permission for purposes of I.4.c. Such a law satisfies I.4.c if it is reasonably related to a legitimate public purpose, applies equally to comparable property, and does not take property without just compensation (II.1.c). A law that also restricts another right, such as privacy in the home (II.6.a), remains subject to I.4.c in full as to that right.
+
+This subsection does not limit public ownership under IV.1.d.
+
+### II.1.e — Access to Courts and Fair Civil Hearings
+
+**Right:** Every person shall have the right to bring a civil claim before an impartial court, and to a fair and public hearing of it within a reasonable time.
+
+**Cost:** No person shall be denied access to a court because of inability to pay a fee. Every government shall provide counsel at public expense, in a civil proceeding, to a person unable to pay who may lose their home, custody of their child, or their liberty, or who faces removal from Concordia.
+
+**Waiver:** An agreement made before a dispute arises, by which a consumer or an employee gives up the right to bring a claim in court, is not binding on the consumer or employee. This paragraph binds private actors as well as the government.
+
+**Public hearings:** A hearing may be closed, or a record sealed, only to protect a child, a victim of a sexual offense, a trade secret, personal information, or another right, and only as far as necessary.
+
+### II.1.f — Rights of Victims of Crime
+
+**Right:** A person harmed by a criminal offense shall be treated with dignity and respect, and shall have the rights in this subsection.
+
+**Rights:** A victim shall have the right:
+
+1. to be informed, on request, of each public proceeding concerning the offense, and of the release or escape of the accused or the person convicted;
+2. to attend every public proceeding;
+3. to be heard at any proceeding concerning release, a plea agreement, sentencing, or parole;
+4. to confer with the prosecution, which shall consider the victim's views but is not bound by them;
+5. to reasonable protection from intimidation and harm;
+6. where the offense is a sexual offense, to have their identity kept from the public; and
+7. to restitution from the person convicted, ordered as part of the sentence, in an amount that person can pay (II.7.f).
+
+**Compensation:** Every government shall provide compensation to victims of violent crime, under a law it enacts, for harm that restitution does not cover.
+
+**Limits:** A victim is not a party to a criminal case. No right in this subsection shall limit any right of an accused person or of a person in custody, give a victim control of a prosecution, or permit a punishment that II.7 forbids.
+
 ## Section 2 — Categories of Custody
 
 ### II.2.a — Custody Classification
@@ -671,6 +709,24 @@ The government shall not manufacture or intentionally create exigent circumstanc
 Governmental access to private digital data, electronic communications, or stored personal information shall be subject to the same constitutional protections against unreasonable search and seizure as other protected personal information.
 
 The scope of any warrant or lawful warrantless access shall be limited to the information reasonably necessary for its lawful purpose.
+
+### II.6.f — Personal Information Held by Private Actors
+
+**Rule:** An organization, or a natural person acting in the course of a business, may collect, use, keep, or share personal information about a person (II.6.a) only:
+
+1. with that person's informed consent, freely given, which may be withdrawn as easily as it was given;
+2. as needed to provide a good or service the person has asked for, or to carry out a transaction with that person; or
+3. as a law permits for a specific purpose, in a way that satisfies I.4.c.
+
+Consent to a use not needed for the good or service shall not be made a condition of providing it. No personal information shall be sold without the person's express consent.
+
+**Access:** Every person may learn what personal information such an organization or person holds about them, and to whom it has been given, and may require that it be corrected, or deleted unless a law requires that it be kept.
+
+**Enforcement:** Congress shall establish an independent authority to enforce this subsection, and remedies for its violation.
+
+**Limits:** This subsection does not restrict news activity, the speech or publication of any person (I.1.a, I.1.e), or research for academic, historical, or statistical purposes under safeguards established by law. Access by a government to information held by a private actor remains governed by II.6.b through II.6.e.
+
+This subsection binds private actors as well as the government.
 
 ## Section 7 — Sentencing and Punishment
 
