@@ -100,7 +100,7 @@ This subsection does not limit public ownership under IV.1.d.
 4. to confer with the prosecution, which shall consider the victim's views but is not bound by them;
 5. to reasonable protection from intimidation and harm;
 6. where the offense is a sexual offense, to have their identity kept from the public; and
-7. to restitution from the person convicted, ordered as part of the sentence, in an amount that person can pay (II.7.f).
+7. to restitution from the person convicted, ordered as part of the sentence for the loss the offense caused, collected in a way that does not deprive that person of the means of subsistence (II.7.f).
 
 **Compensation:** Every government shall provide compensation to victims of violent crime, under a law it enacts, for harm that restitution does not cover.
 

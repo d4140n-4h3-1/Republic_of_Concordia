@@ -208,8 +208,9 @@ Members of Congress are not subject to impeachment. Each House may discipline it
 **Expulsion:** A House may expel a member by a vote of two-thirds of all its members, after notice and a hearing that satisfy II.1.a, only where:
 
 1. the member has been convicted of an offense punishable by imprisonment for more than one year, and the conviction has been affirmed on appeal or the time to appeal has expired;
-2. a court has found under III.6.d that the member engaged in insurrection; or
-3. the House finds, by clear and convincing evidence, that the member committed bribery or corruption in connection with the office, or used or threatened violence against another member or an officer of Congress.
+2. a court has found under III.6.d that the member engaged in insurrection;
+3. the House finds, by clear and convincing evidence, that the member committed bribery or corruption in connection with the office, or used or threatened violence against another member or an officer of Congress; or
+4. a court has made a finding of defiance against the member under VI.3.e, and the member has not complied within thirty days after it.
 
 **Protected conduct:** No member shall be censured, expelled, or otherwise disciplined because of a vote, a speech in debate, a political opinion, party affiliation, or a protective absence under IV.4.b.
 
