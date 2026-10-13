@@ -9,7 +9,11 @@
 * **Belief** means a sincerely held conviction concerning matters of religion, philosophy, morality, or existence.
 * **Non-belief** means the absence of religious or supernatural belief.
 * **Conscience** means an individual's sincerely held moral or ethical convictions.
+* **Person** means a natural human being, from birth. Where a right belongs to a person, it belongs to every natural person, whatever the person's age, citizenship, or status, unless this Constitution expressly provides otherwise.
+* **Organization** means a corporation, partnership, association, union, religious body, press organization, trust, or other entity that is not a natural person.
 * **Religious leave** means a day on which a person abstains from work because of a sincerely held religion or belief, including recurring days of the week and religious or observance holidays, as designated by that person according to law.
+
+**Organizations:** An organization holds the rights of speech, press, religion, association, property, due process, just compensation, and protection against unreasonable search and seizure, as the means by which its members exercise those rights together. It holds no other right under this Constitution unless a provision expressly gives it one, and its rights remain subject to every limit this Constitution places on organizations, including III.10. Where this Constitution forbids or requires conduct of a person, it binds organizations as well.
 
 These definitions apply throughout this Constitution unless a provision expressly states otherwise.
 

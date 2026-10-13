@@ -772,6 +772,22 @@ This subsection is an express constitutional permission for purposes of I.4.c an
 
 No fine shall be imposed primarily for governmental enrichment or punishment unrelated to legitimate criminal-justice purposes.
 
+### II.7.g — Treason
+
+**Right:** No person shall be convicted of treason except as this subsection provides.
+
+**Definitions:**
+
+* **Treason** means only:
+  1. levying war against Concordia; or
+  2. knowingly giving material aid to a foreign government or armed group that is at war with Concordia, or engaged in an armed attack on it, with the intent to help it in that war or attack.
+
+**Proof:** No person shall be convicted of treason except on the testimony of two witnesses to the same overt act, or on the person's own confession in open court, in addition to proof of every element beyond a reasonable doubt (II.4.f) to a jury (II.4.j).
+
+**What is not treason:** Speech, publication, peaceful assembly, criticism of any government or official, opposition to a war, lawful political activity, lawful contact with foreign persons, and lawful resistance under X.4 are not treason, and are not evidence of treason without proof of an overt act.
+
+**No other treason:** No law shall name any other offense treason, punish any other conduct as treason, or define an offense of treason against a constituent jurisdiction. No conviction for treason shall cause the loss of citizenship (VII.1.d) or of property, beyond a fine that satisfies II.7.f, or any penalty on the person's family (II.7.c).
+
 ## Section 8 — Rights After Conviction
 
 ### II.8.a — Continued Constitutional Rights
@@ -900,3 +916,15 @@ No custodial authority shall create a broader constitutional exception than this
 The government bears the burden of establishing the constitutional basis, necessity, proportionality, and continuing factual basis for any custody-based restriction.
 
 A restriction shall cease when the circumstances authorizing it cease.
+
+### II.10.e — Time Limits in a Catastrophe
+
+**Rule:** A time limit in this Article, including those in II.3.c, II.4.d, and II.5.e, may be extended only as this subsection provides.
+
+**When it applies:** Where an armed attack, natural disaster, or comparable catastrophe physically prevents every court able to hear the matter from sitting, or prevents a person in custody from being brought before one, a time limit stops running in the affected area only while that physical prevention lasts, and for no more than fourteen days in total. It then resumes where it stopped.
+
+**What does not count:** No time limit stops running because of caseload, staffing, cost, the number of persons the government has taken into custody, or any circumstance the government created or could reasonably have prevented. The government shall make electronic hearings available wherever they can be held.
+
+**Never extended:** Nothing in this subsection extends the limit of fifteen consecutive days on solitary confinement in II.5.e, or allows custody to continue without a lawful basis.
+
+**Record and remedy:** The government shall document each extension, the facts that caused it, and when it ended, and shall publish the record. A person whose time limit was extended may challenge the extension under II.9.b at any court able to sit, and the government bears the burden of showing that this subsection applied.

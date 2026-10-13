@@ -52,7 +52,13 @@ Each constituent jurisdiction is entitled to representation in the Senate (IV.3.
 
 Seats in the House of Representatives shall be apportioned among the constituent jurisdictions according to population, and each constituent jurisdiction shall have at least one Representative. No House district shall cross the boundary of a constituent jurisdiction.
 
-No law shall reduce or remove the representation of a constituent jurisdiction.
+No law shall reduce or remove the representation of a constituent jurisdiction, other than by a reapportionment under this subsection.
+
+**Census:** Every ten years, the Election Authority (III.3) shall count every person residing in each constituent jurisdiction, regardless of citizenship or immigration status. The first census shall be held within five years after this Constitution takes effect. Information a census collects about a person shall be used only to produce statistics, shall not be given to any other part of any government, and shall not be used against any person (II.6.a).
+
+**Apportionment:** Within one year after each census, the Election Authority shall apportion the seats of the House among the constituent jurisdictions by the method of equal proportions, giving each at least one seat, and shall publish the result and its calculation. The districting commission shall then adopt new districts under Article III, Section 4. The new apportionment and districts first apply at the first general election held at least one year after they are adopted. Until the first census, seats are apportioned on the counts used under VIII.2.b.
+
+**Size of the House:** The number of Representatives is fixed by law. A law changing it requires a vote of three-fifths of all members of each House, and takes effect only at the apportionment that follows the next census. The interim government fixes the number for the first general election (VIII.3.b).
 
 ### VII.2.c — Citizens Living Abroad
 
@@ -121,7 +127,7 @@ No constituent jurisdiction shall:
 
 **Review:** Any person against whom an unrelated provision is or may be enforced, any person whose right it would change, and any member of the legislature that enacted it, may ask a court to decide whether it is unrelated. The court shall decide the question itself, without deference to the law's title or to any statement or vote of the legislature.
 
-**Laws already in force:** A law in force when this subsection first applies to a jurisdiction is reviewed and, where needed, enacted again as VIII.3.e provides for inherited laws, with every period running from that day.
+**Laws already in force:** A law in force when this subsection first applies to a jurisdiction is reviewed and, where needed, enacted again as VIII.3.e provides for inherited laws.
 
 **Uniform standards:** Congress may by law set uniform standards for applying this subsection, but shall not narrow it.
 

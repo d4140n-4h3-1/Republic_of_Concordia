@@ -199,6 +199,24 @@ If a party required to submit nominees submits no qualified nominee within fourt
 
 No appointee shall be required to vote according to the direction of any political party, and no appointment shall be revoked because of how the appointee votes.
 
+### IV.4.f — Discipline and Expulsion of Members
+
+Members of Congress are not subject to impeachment. Each House may discipline its own members only under this subsection.
+
+**Censure:** A House may censure a member by a majority vote, after notice and an opportunity to be heard.
+
+**Expulsion:** A House may expel a member by a vote of two-thirds of all its members, after notice and a hearing that satisfy II.1.a, only where:
+
+1. the member has been convicted of an offense punishable by imprisonment for more than one year, and the conviction has been affirmed on appeal or the time to appeal has expired;
+2. a court has found under III.6.d that the member engaged in insurrection; or
+3. the House finds, by clear and convincing evidence, that the member committed bribery or corruption in connection with the office, or used or threatened violence against another member or an officer of Congress.
+
+**Protected conduct:** No member shall be censured, expelled, or otherwise disciplined because of a vote, a speech in debate, a political opinion, party affiliation, or a protective absence under IV.4.b.
+
+**Review:** An expelled member may ask the Supreme Court to decide, within fourteen days, whether the expulsion rests on a ground this subsection permits and followed its procedure. The member's seat is not filled while that review is pending.
+
+**Vacancy:** A seat vacated by expulsion is filled under IV.2.e or IV.3.e. An expelled member may be a candidate for that seat or any other unless disqualified under III.6.d.
+
 ---
 
 ## Section 5 — Legislative Procedure
@@ -325,11 +343,11 @@ Holding legislative office shall not place a person above the law.
 
 ### IV.9.a — Impeachable Officers
 
-The President, Vice President, federal judges, and other civil officers established by this Constitution may be impeached.
+The President, the Vice President, every federal judge, every member of the Election Authority, the districting commission, and the Judicial Conduct Commission, and every other civil officer of Concordia, whose office is established by this Constitution or by law, may be impeached. Members of Congress are not impeachable, and are disciplined under IV.4.f.
 
 ### IV.9.b — Grounds
 
-Impeachment shall be permitted only for treason, bribery, corruption, serious abuse of constitutional authority, or other grave misconduct defined, consistent with this Constitution, by a law in force when the conduct occurred. No law may make conduct a ground for impeachment after the conduct occurred.
+Impeachment shall be permitted only for treason (II.7.g), bribery, corruption, serious abuse of constitutional authority, or other grave misconduct defined, consistent with this Constitution, by a law in force when the conduct occurred. No law may make conduct a ground for impeachment after the conduct occurred.
 
 Impeachment shall not be used merely because an officer:
 
