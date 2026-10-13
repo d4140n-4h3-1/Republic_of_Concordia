@@ -66,7 +66,7 @@ A candidate for Supreme Court judge shall:
 
 1. be a citizen;
 2. have reached thirty-five years of age at election, and be younger than forty-seven years of age on the day the term begins;
-3. be licensed to practice law within the jurisdiction;
+3. be licensed to practice law in any constituent jurisdiction (VII.2.a);
 4. have at least ten years of professional legal or judicial experience;
 5. have resided in the circuit whose seat is to be filled for at least one year immediately before the election; and
 6. satisfy all other qualifications established consistently with this Constitution.
