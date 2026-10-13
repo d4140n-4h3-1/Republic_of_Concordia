@@ -313,7 +313,7 @@ No treaty shall override this Constitution.
 
 ### V.7.c — Military Justice
 
-**Military courts:** Congress may establish military courts to try members of the armed forces on active duty for offenses against military discipline, and for other offenses committed in the course of military duty. No military court shall try a civilian (V.7.a), a member of the reserve forces not on active duty, or an offense against a civilian committed within Concordia that is not connected with military duty, which belongs to the civilian courts.
+**Military courts:** Congress may establish military courts to try members of the armed forces on active duty for offenses against military discipline, and for other offenses committed in the course of military duty. No military court shall try a civilian (V.7.a), a member of the reserve forces not on active duty, or an offense against a civilian committed within Concordia that is not connected with military duty, which belongs to the civilian courts. An offense against a civilian committed while supporting civilian authorities under V.7.a also belongs to the civilian courts.
 
 **Judges:** Every military judge shall hold a fixed term set by law, and shall not be removed, reassigned, or rated for promotion by any commander because of a decision.
 

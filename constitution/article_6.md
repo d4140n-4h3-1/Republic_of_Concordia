@@ -212,7 +212,7 @@ Where a provision of law can reasonably be read in more than one way, a court sh
 2. the defiant officer's authority over the subject of the order is suspended until the officer complies;
 3. the court may impose coercive fines on the defiant officer personally, which shall not be paid from public funds, and other sanctions for contempt;
 4. the defiant officer is not immune from personal civil liability for harm caused by the defiance; and
-5. the court shall certify the finding to the House of Representatives, which shall vote on articles of impeachment against the defiant officer, if impeachable, within thirty days after receiving it. Defiance of an enforceable order is serious abuse of constitutional authority under IV.9.b.
+5. the court shall certify the finding to the House of Representatives, which shall vote on articles of impeachment against the defiant officer, if impeachable, within thirty days after receiving it. A finding against a member of Congress shall instead be certified to that member's House, which shall vote on expulsion under IV.4.f within the same period. Defiance of an enforceable order is serious abuse of constitutional authority under IV.9.b.
 
 A finding of defiance against the President or Vice President may be made only by the Supreme Court.
 

@@ -78,6 +78,7 @@ Bills live in [`constitution/bills/`](constitution/bills/). Each one is written 
 | [b-16](constitution/bills/b-16.md) | Safe Driving Act | Draft |
 | [b-17](constitution/bills/b-17.md) | Freedom of Information Act | Draft |
 | [b-18](constitution/bills/b-18.md) | Single Subject Act | Draft |
+| [b-19](constitution/bills/b-19.md) | Public Integrity Act | Draft |
 
 ## Education
 
@@ -103,8 +104,9 @@ The economic acts live in [`constitution/economy/`](constitution/economy/). They
 | [n-03](constitution/economy/n-03.md) | Universal Health Care Act | Tax-funded care for every resident; free dental care to age 25; an annual ceiling on fees; regional delivery; guaranteed waiting times |
 | [n-04](constitution/economy/n-04.md) | Family Support Act | 480 days of paid parental leave, 90 reserved for each parent; a right to childcare from age one with capped fees; a universal child benefit |
 | [n-05](constitution/economy/n-05.md) | Pensions and National Wealth Fund Act | A guaranteed pension plus earnings-related and funded pensions; automatic balancing; a National Wealth Fund with a 3% spending rule and ethical guidelines |
-| [n-06](constitution/economy/n-06.md) | Fiscal Responsibility and Taxation Act | A broad tax base; progressive tax on work and a flat tax on capital; public tax records for officials; pre-filled returns; a surplus target and debt anchor; an independent Fiscal Council; competition and open trade |
+| [n-06](constitution/economy/n-06.md) | Fiscal Responsibility and Taxation Act | A broad tax base; progressive tax on work and a flat tax on capital; public tax records for officials; pre-filled returns; a surplus target and debt anchor; an independent Fiscal Council |
 | [n-07](constitution/economy/n-07.md) | Housing Act | Housing First; nonprofit housing open to all; a revolving National Building Fund; housing allowances; tenant protections; planning for supply |
+| [n-08](constitution/economy/n-08.md) | Open Markets Act | An independent Competition Authority against price-fixing, abuse of dominance and harmful mergers; open trade, with help for affected workers |
 
 ## Cases
 
