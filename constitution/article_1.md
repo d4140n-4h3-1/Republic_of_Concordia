@@ -232,11 +232,13 @@ No person shall be punished, disadvantaged, or retaliated against for making, si
 
 ### I.1.j — Marriage, Family Life, and Children
 
-**Right:** Every adult shall have the right to marry one other consenting adult, to found a family, and to end a marriage.
+**Right:** Every adult shall have the right to marry one or more consenting adults, to found a family, and to end a marriage.
 
-**Consent:** A marriage requires the free and full consent of both persons. No person below the age of majority (I.4.a) shall marry, and no person shall be forced or pressured into a marriage by violence, threat, or abuse of authority. No marriage contrary to this paragraph has legal effect. This paragraph binds private actors as well as the government. *(This is an express provision for purposes of I.4.b.)*
+**Consent:** A marriage requires the free and full consent of every person in it. No person below the age of majority (I.4.a) shall marry, and no person shall be forced or pressured into a marriage by violence, threat, or abuse of authority. No marriage contrary to this paragraph has legal effect. This paragraph binds private actors as well as the government. *(This is an express provision for purposes of I.4.b.)*
 
-**Equality:** Spouses have equal rights and duties during a marriage and at its end. A child has the same rights whether or not the child's parents are married.
+**Plural marriage:** A marriage may include more than two spouses. No person shall join an existing marriage, and no spouse shall marry outside it, without the informed, written consent of every existing spouse, given freely and recorded with the marriage. The marriage record shall name every spouse. The law of plural marriage shall apply equally whatever the sex of each spouse, and no law or practice shall allow only persons of one sex to have more than one spouse.
+
+**Equality:** Every spouse has equal rights and duties during a marriage and at its end, including in property, support, inheritance, and decisions about children, whatever the number of spouses or the order in which each joined. Any spouse may leave a marriage without ending it for the others. Law shall provide how property, support, and the care of children are settled when a spouse leaves or a marriage ends. A child has the same rights whether or not the child's parents are married.
 
 **Religious marriage:** A religious body decides for itself which marriages it will celebrate by its own rites (I.1.b). The law of civil marriage applies equally to all.
 
