@@ -160,7 +160,7 @@ No person whose nomination the Senate has rejected may serve as an acting office
 
 ### V.4.c — Removal
 
-The President may remove any executive officer the President appointed, except where this Constitution provides otherwise.
+The President may remove any executive officer the President appointed, except where this Constitution provides otherwise. Members of the civil service are protected by V.4.e.
 
 The President shall not remove or direct members of the Election Authority (III.3.b) or the districting commission (III.4.c).
 
@@ -177,6 +177,21 @@ No person shall serve more than eighteen years in total as a judge of courts inf
 The compensation of such a judge shall not be reduced during the judge's term.
 
 Such a judge may be removed only by impeachment, or for permanent incapacity under VI.4.f.
+
+### V.4.e — Civil Service
+
+**Definitions:**
+
+* **Civil service** means every civilian position in the executive departments and agencies, other than an office filled under V.4.a and a political position under this subsection.
+* **Political position** means a position designated by law as one whose holder advises on or carries out the policy of the President or a head of department, and who serves at that person's pleasure.
+
+**Merit:** Appointment and promotion in the civil service shall be made on merit, by open and fair competition, under rules established by law. Every position is in the civil service unless a law designates it a political position. The number of political positions shall be fixed by law and shall be a small fraction of the positions in each department.
+
+**Protection:** No member of the civil service shall be appointed, promoted, dismissed, disciplined, or transferred because of political opinion, party affiliation, a vote, lawful political activity outside working time, a refusal to carry out an unlawful order, or a disclosure in good faith of wrongdoing to Congress, the Auditor-General (IV.10.g), a court, or an inspector established by law. A member of the civil service may be dismissed only for cause, or because a position is abolished by law, after notice and an opportunity to be heard, with review by an independent body established by law and then by a court.
+
+**Neutrality:** Members of the civil service shall carry out their duties impartially, without regard to party. No member shall be required to take part in any political campaign, or to contribute to any candidate or party.
+
+**No evasion:** No position shall be reclassified as a political position, and no function moved to a contractor or another body, for the purpose of evading this subsection.
 
 ---
 
@@ -291,6 +306,24 @@ The armed forces shall not be used to influence an election, suppress the exerci
 The President may negotiate treaties. A treaty takes effect only upon the approval of two-thirds of the Senators present.
 
 No treaty shall override this Constitution.
+
+**Withdrawal:** Concordia may withdraw from a treaty, or terminate or suspend it, only with the approval of a majority of all members of each House of Congress, or under a law that directs or permits the withdrawal. The President shall then give notice of withdrawal as the treaty provides.
+
+**Executive agreements:** Without the approval required for a treaty, the President may make an international agreement only to carry out a treaty or a law, or on a matter within the President's own powers under this Constitution. Any other agreement that would bind Concordia under international law, change domestic law, commit public funds, or commit the armed forces is a treaty, whatever it is called. Every international agreement shall be made public within thirty days after it is made, except as V.1.c permits.
+
+### V.7.c — Military Justice
+
+**Military courts:** Congress may establish military courts to try members of the armed forces on active duty for offenses against military discipline, and for other offenses committed in the course of military duty. No military court shall try a civilian (V.7.a), a member of the reserve forces not on active duty, or an offense against a civilian committed within Concordia that is not connected with military duty, which belongs to the civilian courts.
+
+**Judges:** Every military judge shall hold a fixed term set by law, and shall not be removed, reassigned, or rated for promotion by any commander because of a decision.
+
+**Rights:** A member of the armed forces tried by a military court has every right of an accused person in Article II, except that, in place of the jury in II.4.j, guilt shall be decided unanimously by a panel of members of the armed forces chosen at random, which shall include members of the accused's rank or below where the accused asks. This is an express permission for purposes of I.4.c. No military court shall impose a sentence of death.
+
+**No command influence:** No commander shall direct or influence the decision of a military court, or retaliate against any person for their part in a trial.
+
+**Civilian review:** Every conviction by a military court may be appealed to a civilian appellate court, and then to the Supreme Court (VI.2.k).
+
+**Other rights in service:** A law may restrict a right of members of the armed forces only to the extent military duty requires and only under I.4.c.
 
 ---
 

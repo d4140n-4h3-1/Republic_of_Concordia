@@ -337,6 +337,20 @@ Members of Congress remain subject to this Constitution and to generally applica
 
 Holding legislative office shall not place a person above the law.
 
+### IV.8.e — Compensation of Members
+
+The compensation of members of Congress shall be fixed by law, and paid from the Treasury.
+
+No law changing that compensation, by increase or decrease, including any change in allowances or benefits that are personal to members, shall take effect until the terms of the House of Representatives that begin after the next general election at which Representatives are elected.
+
+No member shall receive any other payment from any government for service as a member.
+
+### IV.8.f — Incompatible Offices
+
+No member of Congress shall, while a member, hold any other public office or public employment, civil or military, under Concordia or any constituent jurisdiction or local government, other than an office in Congress itself.
+
+A member appointed or elected to another such office shall resign from Congress before taking it. No person holding such an office shall take a seat in Congress without first leaving it.
+
 ---
 
 ## Section 9 — Impeachment
@@ -430,6 +444,31 @@ The fund shall not be pledged as security for any debt, and its holdings shall b
 **Obligations always paid:** Payments of principal and interest on the public debt, and payments a court has made enforceable against Concordia (VI.3.e), are appropriated by this subsection whenever no other appropriation is available for them. No law shall direct or permit a default on the public debt.
 
 **No other effect:** This subsection does not limit the power of Congress to enact, change, or end any appropriation by law, and does not allow the President to withhold or delay funds in a way V.1.c forbids. The funding of the courts remains subject to VI.4.a.
+
+
+### IV.10.f — Central Bank
+
+**Establishment:** There shall be an independent central bank, established by law, which alone conducts the monetary policy of Concordia and issues its currency under IV.1.b(5).
+
+**Mandate:** The primary objective of the central bank is stable prices. Congress may by law add further objectives, such as high employment and financial stability, and may set a numerical target, but shall not direct any particular decision of the bank.
+
+**Board:** The bank is governed by a board of seven members, nominated by the President and confirmed by a majority of the Senate (V.4.a), each for a single term of fourteen years, staggered so that one term ends every two years. A member may be removed only for cause stated in law, after notice and a hearing, subject to judicial review. No member shall hold another public office, or hold office in a political party, while serving.
+
+**No financing of government:** The central bank shall not lend to, or buy debt directly from, any government in Concordia, and shall not otherwise finance public spending. It may buy and sell public debt in the open market for the purposes of monetary policy, on the same terms as any other debt it may buy.
+
+**Accountability:** The bank shall publish each monetary policy decision and its reasons when it is made, publish the record of its deliberations within a period set by law, report to Congress at least twice each year, and have its accounts and operations audited under IV.10.g. An audit shall not direct or reverse a monetary policy decision.
+
+### IV.10.g — Auditor-General
+
+**Establishment:** There shall be an Auditor-General, independent of Congress, the President, and every department, who audits the revenue, spending, accounts, and performance of every federal body, including Congress, the courts, the central bank, the national wealth fund (IV.10.d), and every person or organization that receives federal funds, as to those funds.
+
+**Appointment:** The Auditor-General is appointed by a vote of three-fifths of all members of each House of Congress, from candidates proposed by a nonpartisan panel established by law, for a single term of ten years. The Auditor-General shall not have held elected office, or office in a political party, during the preceding four years, and may be removed only by impeachment (IV.9).
+
+**Powers:** The Auditor-General may examine every record, account, and system of a body the office audits, and may require any officer or employee to answer questions about them. No person shall withhold a record from the Auditor-General, or retaliate against a person who provides one. Information withheld from publication under IV.4.c or V.1.c remains available to the Auditor-General.
+
+**Reports:** Every audit report shall be made public, except for information whose publication IV.10.c or V.1.c permits to be delayed, which shall be published when the delay ends. The Auditor-General shall refer to the appropriate prosecuting authority, and make public, any evidence of a crime found in an audit.
+
+**Funding:** The office shall receive funding sufficient to perform its duties, and its funding shall not be reduced or conditioned for the purpose of influencing an audit or retaliating against the office.
 
 ---
 

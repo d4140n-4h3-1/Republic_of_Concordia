@@ -514,6 +514,8 @@ The government shall not impose criminal liability or procedural disadvantage me
 
 A conviction requires a unanimous verdict.
 
+A member of the armed forces tried by a military court is tried as V.7.c provides.
+
 Every juror shall have reached the age of majority (I.4.a).
 
 ## Section 5 — Custodial Treatment
