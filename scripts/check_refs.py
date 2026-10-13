@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Check that every citation in the Constitution, the bills, the education and economic acts, the cases, and the README
+"""Check that every citation in the Constitution, the bills, the education and economic acts, the cases, the guides, and the README
 points to a subsection or section that exists.
 
 Run from the repository root:  python3 scripts/check_refs.py
@@ -17,7 +17,8 @@ articles = sorted((ROOT / "constitution").glob("article_*.md"))
 sources = (articles + sorted((ROOT / "constitution" / "bills").glob("*.md"))
            + sorted((ROOT / "constitution" / "education").glob("*.md"))
            + sorted((ROOT / "constitution" / "economy").glob("*.md"))
-           + sorted((ROOT / "constitution" / "cases").glob("*.md")) + [ROOT / "README.md"])
+           + sorted((ROOT / "constitution" / "cases").glob("*.md"))
+           + sorted((ROOT / "constitution" / "guides").glob("*.md")) + [ROOT / "README.md"])
 
 subsections, sections = set(), set()
 for path in articles:
