@@ -351,6 +351,8 @@ No member of Congress shall, while a member, hold any other public office or pub
 
 A member appointed or elected to another such office shall resign from Congress before taking it. No person holding such an office shall take a seat in Congress without first leaving it.
 
+A member who acts as President under V.3 does not violate this subsection, but while acting shall exercise none of the powers of a member and shall not vote.
+
 ---
 
 ## Section 9 — Impeachment
@@ -460,7 +462,7 @@ The fund shall not be pledged as security for any debt, and its holdings shall b
 
 ### IV.10.g — Auditor-General
 
-**Establishment:** There shall be an Auditor-General, independent of Congress, the President, and every department, who audits the revenue, spending, accounts, and performance of every federal body, including Congress, the courts, the central bank, the national wealth fund (IV.10.d), and every person or organization that receives federal funds, as to those funds.
+**Establishment:** There shall be an Auditor-General, independent of Congress, the President, and every department, who audits the revenue, spending, accounts, and performance of every federal body, including Congress, the courts, the central bank, the national wealth fund (IV.10.d), and every organization that receives federal funds under a contract or grant, as to those funds. The Auditor-General shall not examine the personal records of a natural person because the person receives a salary, pension, or public benefit.
 
 **Appointment:** The Auditor-General is appointed by a vote of three-fifths of all members of each House of Congress, from candidates proposed by a nonpartisan panel established by law, for a single term of ten years. The Auditor-General shall not have held elected office, or office in a political party, during the preceding four years, and may be removed only by impeachment (IV.9).
 
