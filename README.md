@@ -87,6 +87,7 @@ Bills live in [`constitution/bills/`](constitution/bills/). Each one is written 
 | [b-25](constitution/bills/b-25.md) | Military Justice Act | Draft |
 | [b-26](constitution/bills/b-26.md) | Census and Apportionment Act | Draft |
 | [b-27](constitution/bills/b-27.md) | Public Petitions Act | Draft |
+| [b-28](constitution/bills/b-28.md) | Homicide Act | Draft |
 
 ## Education
 
