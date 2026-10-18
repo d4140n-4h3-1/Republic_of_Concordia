@@ -128,6 +128,7 @@ The cases live in [`constitution/cases/`](constitution/cases/). Each one is a de
 | [c-01](constitution/cases/c-01.md) | Okafor v. City of Westbrook | Whether a city may forbid a solid privacy fence around the yard of a home (II.6.a, I.4.c) |
 | [c-02](constitution/cases/c-02.md) | Sorensen v. Registrar of Marriages of Kestrel; Calder v. Calder | Whether a state may let only husbands add spouses, require private consent interviews and a waiting period, and when a spouse's consent to a plural marriage is freely given (I.1.j, I.4.c) |
 | [c-03](constitution/cases/c-03.md) | Concordia v. Voss | Whether life imprisonment is proportionate for a mass shooting in which no one died, whether attempted murder may be punished alongside it, and how the reason a shooting failed bears on parole (II.7.b, II.4.g; Homicide Act) |
+| [c-04](constitution/cases/c-04.md) | Pell v. City of Harrowgate; City of Harrowgate v. Northgate Ambulance Company; City of Harrowgate v. Vane | Whether a park ban on any "device that has a motor and four or more wheels" reaches a power wheelchair or an ambulance answering an emergency, and whether a court may extend it to a motorcycle because leaving it out is absurd (VIII.1.d, VIII.1.e) |
 
 ## Guides
 
