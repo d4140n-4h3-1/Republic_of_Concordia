@@ -20,6 +20,59 @@ No religious test, and no profession of religion, belief, or non-belief (I.0.a),
 
 Every oath under this Constitution may be sworn or affirmed, with or without reference to a deity, as the person chooses.
 
+### VIII.1.d — Plain Meaning
+
+This subsection and VIII.1.e govern how every court and every governmental official reads this Constitution and every law, regulation, and executive order, at every level of government.
+
+**Ordinary meaning:** Words have the meaning an ordinary, reasonable reader would have understood them to have when the provision was adopted, read in the context of the whole provision and the document in which it appears. A word the document defines has its defined meaning. A technical term of law, science, or a trade has its technical meaning where the context shows it is used in that sense.
+
+**Consistent meaning:** A word or phrase has the same meaning everywhere it appears in the same document, unless the context clearly requires otherwise.
+
+**Text controls:** Where the meaning is clear, it shall be applied as written. No reading shall add a term, condition, or exception that the text does not contain, or remove one that it does, except as VIII.1.e permits. Statements of what the drafters privately intended shall not override clear text.
+
+**Aids to reading:** Headings, "In plain words" summaries, summaries required by VIII.1.f, and notes in italics or parentheses help explain the text but do not change it. Where one of them conflicts with the text, the text controls.
+
+**Ambiguity:** Where the text can reasonably be read in more than one way:
+
+1. the reading that preserves the greater protection of a constitutional right controls (VI.3.d);
+2. otherwise, a provision that imposes a penalty, tax, fee, or duty on a private person shall be read in that person's favor; and
+3. otherwise, the reading that best serves the provision's purpose, as shown by its text, controls.
+
+### VIII.1.e — Absurd Results
+
+**Definition:** An absurd result is a result of applying a provision, read under VIII.1.d, that no reasonable person who adopted the provision could have intended, because it:
+
+1. makes the provision impossible to obey or carry out;
+2. puts the provision in conflict with another provision of the same document so that both cannot be obeyed;
+3. defeats the provision's own purpose, as shown by its text; or
+4. is so contrary to common sense that no reasonable reader would accept it as what the provision requires.
+
+A result is not absurd because it is harsh, costly, unpopular, or unwise, or because the court or official would have chosen differently.
+
+**Rule:** Where applying a provision as written would produce an absurd result, a court or official shall adopt the reading that departs least from the text and avoids that result. Where no reading can avoid it, the provision shall not be applied to the extent of the absurd result, and the rest shall be given effect (VI.3.c). The person claiming an absurd result bears the burden of showing it.
+
+**Limits:** This subsection shall not be used to:
+
+1. narrow a right established by this Constitution, create an exception to it, or read a restriction on it more broadly (I.4.c);
+2. enlarge a power of government or extend a limit of time or scope on one; or
+3. create or increase a penalty, offense, tax, fee, or duty that a person would not bear under the text.
+
+Where the only way to avoid an absurd result would do one of these things, the text applies as written until it is corrected: for this Constitution, by a correction amendment (IX.3.d); for any other provision, by the body that made it.
+
+**Reasons and correction:** A court or official that relies on this subsection shall state in writing the result found absurd, why it is absurd, and the reading adopted. An official's decision is subject to judicial review (VI.3.a). Every court decision relying on this subsection, and every finding that a result is absurd but cannot be avoided, shall be sent to the body that made the provision: for this Constitution, to Congress, as a possible drafting error under IX.3.d.
+
+### VIII.1.f — Plain Language
+
+**Duty:** Every law, regulation, and executive order, every amendment proposed to this Constitution, every measure put to the voters, and every official form or notice that tells a person what the person must do, may do, or is entitled to, shall be written in plain language: clear to an ordinary adult reader, with its terms defined where needed, and no longer than its subject requires.
+
+**Summary:** Every law enacted by Congress shall be published with a plain-language summary, adopted with it, of what it does and whom it affects. The summary is not law (VIII.1.d).
+
+**Fair notice:** No person shall be fined, taxed, or denied a benefit under a provision so unclear that an ordinary person could not reasonably understand what it requires. *(For criminal law, see II.7.a.)*
+
+**Reliance on official explanations:** No person shall be penalized for an act taken in good faith reliance on a written statement of the law given to that person, or published to the public, by the government body responsible for it, if the statement was wrong. The person shall comply with the law as correctly stated from the time the person is told of the error.
+
+A failure to use plain language does not by itself make a provision invalid.
+
 ---
 
 ## Section 2 — Ratification
